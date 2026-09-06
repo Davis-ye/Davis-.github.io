@@ -140,11 +140,21 @@ function articleHTML(a){
   '</div>';
 }
 
+function newsHTML(n){
+  return '<div class="article">' +
+    '<div class="article-body">' +
+      '<div class="tag-row">'+n.source+(n.time ? ' · '+n.time : '')+'</div>' +
+      '<h2><a href="'+n.link+'" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">'+n.headline+'</a></h2>' +
+    '</div>' +
+  '</div>';
+}
+
 async function render(data){
   var app = document.getElementById('app');
   var hero = data.hero;
   var first = data.firstHalf || [];
   var second = data.secondHalf || [];
+  var wire = data.newsWire || [];
 
   var html = '';
   if(hero){
@@ -159,6 +169,11 @@ async function render(data){
   html += '<div class="halftime-bar"></div>';
   html += '<div class="half-marker"><span class="num">2</span><h3>Second half — what is next</h3><span class="sub">Upcoming</span></div>';
   html += '<div class="feed">' + second.map(articleHTML).join('') + '</div>';
+  if(wire.length){
+    html += '<div class="halftime-bar"></div>';
+    html += '<div class="half-marker"><span class="num">3</span><h3>Extra time — around the game</h3><span class="sub">Headlines</span></div>';
+    html += '<div class="feed">' + wire.map(newsHTML).join('') + '</div>';
+  }
   if(data.updatedAt){
     html += '<div class="updated-note">Last updated: ' + new Date(data.updatedAt).toLocaleString() + '</div>';
   }
