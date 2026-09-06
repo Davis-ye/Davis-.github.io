@@ -1,18 +1,28 @@
 {
-  "updatedAt": "2026-09-06T22:07:14.951Z",
+  "updatedAt": "2026-09-06T23:07:16.216Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 6",
-    "headline": "WSL investigating after Palace break substitution rules",
-    "body": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution windows in their win over Everton.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&amp;at_campaign=rss"
+    "headline": "Who has made Troy's Premier League team of the week?",
+    "body": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&amp;at_campaign=rss"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "WSL investigating after Palace break substitution rules",
+      "body": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution windows in their win over Everton.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -22,7 +32,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -32,7 +42,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -42,7 +52,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -52,7 +62,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -62,7 +72,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -72,17 +82,17 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "Watch: Sportscene highlights as Hearts & St Johnstone win",
       "body": "With St Johnstone v Hibs and Hearts v Dundee plus all of Saturday’s stories",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d5f?at_medium=RSS&amp;at_campaign=rss"
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -92,7 +102,7 @@
       "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -102,7 +112,7 @@
       "link": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -110,16 +120,6 @@
       "headline": "Liverpool beat newly-promoted Charlton 4-0",
       "body": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
       "link": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 6",
-      "headline": "Shaw double leads Man City to victory over Birmingham",
-      "body": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "scoreboard": [
