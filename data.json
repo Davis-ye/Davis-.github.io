@@ -1,13 +1,106 @@
 {
-  "updatedAt": "2026-09-06T00:00:00Z",
+  "updatedAt": "2026-09-06T20:10:24.375Z",
   "hero": {
-    "id": "placeholder-hero",
-    "league": "Aggregate",
-    "dot": "#F0C878",
-    "time": "Starting up",
-    "headline": "Your live feed is warming up",
-    "body": "The automatic update hasn't run yet. Once it does, real match results and fixtures will appear here."
+    "id": "match-564664",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "time": "Sep 6",
+    "headline": "Deportivo Alavés beat CA Osasuna 5-2",
+    "body": "Deportivo Alavés finished 5-2 against CA Osasuna in the La Liga, played on Sep 6.",
+    "_sortDate": "2026-09-06T16:30:00Z"
   },
-  "firstHalf": [],
-  "secondHalf": []
+  "firstHalf": [
+    {
+      "id": "match-564666",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 6",
+      "headline": "Málaga CF and Levante UD draw 0-0",
+      "body": "Málaga CF finished 0-0 against Levante UD in the La Liga, played on Sep 6.",
+      "_sortDate": "2026-09-06T16:30:00Z"
+    },
+    {
+      "id": "match-558613",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 6",
+      "headline": "Bologna FC 1909 and US Sassuolo Calcio draw 2-2",
+      "body": "Bologna FC 1909 finished 2-2 against US Sassuolo Calcio in the Serie A, played on Sep 6.",
+      "_sortDate": "2026-09-06T16:00:00Z"
+    },
+    {
+      "id": "match-560570",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 6",
+      "headline": "Arsenal FC beat Chelsea FC 2-1",
+      "body": "Arsenal FC finished 2-1 against Chelsea FC in the Premier League, played on Sep 6.",
+      "_sortDate": "2026-09-06T15:30:00Z"
+    },
+    {
+      "id": "match-565786",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Sep 6",
+      "headline": "FC Augsburg beat Eintracht Frankfurt 4-1",
+      "body": "Eintracht Frankfurt finished 1-4 against FC Augsburg in the Bundesliga, played on Sep 6.",
+      "_sortDate": "2026-09-06T15:30:00Z"
+    },
+    {
+      "id": "match-559698",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 6",
+      "headline": "Stade Rennais FC 1901 beat Angers SCO 2-1",
+      "body": "Angers SCO finished 1-2 against Stade Rennais FC 1901 in the Ligue 1, played on Sep 6.",
+      "_sortDate": "2026-09-06T15:15:00Z"
+    },
+    {
+      "id": "match-564659",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 6",
+      "headline": "FC Barcelona beat Valencia CF 5-0",
+      "body": "Valencia CF finished 0-5 against FC Barcelona in the La Liga, played on Sep 6.",
+      "_sortDate": "2026-09-06T14:15:00Z"
+    }
+  ],
+  "secondHalf": [
+    {
+      "id": "match-558610",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 7",
+      "headline": "Cagliari Calcio host US Lecce in the Serie A",
+      "body": "Kick-off is scheduled for Sep 7 at 16:30 UTC.",
+      "_sortDate": "2026-09-07T16:30:00Z"
+    },
+    {
+      "id": "match-564665",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 7",
+      "headline": "Getafe CF host RC Celta de Vigo in the La Liga",
+      "body": "Kick-off is scheduled for Sep 7 at 17:00 UTC.",
+      "_sortDate": "2026-09-07T17:00:00Z"
+    },
+    {
+      "id": "match-558617",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 7",
+      "headline": "Udinese Calcio host SS Lazio in the Serie A",
+      "body": "Kick-off is scheduled for Sep 7 at 18:45 UTC.",
+      "_sortDate": "2026-09-07T18:45:00Z"
+    },
+    {
+      "id": "match-564658",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 7",
+      "headline": "Elche CF host Real Sociedad de Fútbol in the La Liga",
+      "body": "Kick-off is scheduled for Sep 7 at 19:30 UTC.",
+      "_sortDate": "2026-09-07T19:30:00Z"
+    }
+  ]
 }
