@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-09-06T00:00:00Z",
+  "hero": {
+    "id": "placeholder-hero",
+    "league": "Aggregate",
+    "dot": "#F0C878",
+    "time": "Starting up",
+    "headline": "Your live feed is warming up",
+    "body": "The automatic update hasn't run yet. Once it does, real match results and fixtures will appear here."
+  },
+  "firstHalf": [],
+  "secondHalf": []
+}
