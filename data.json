@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T11:40:36.991Z",
+  "updatedAt": "2026-09-07T11:50:55.954Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -36,6 +36,17 @@
     },
     {
       "id": "story-3",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "The Guardian",
+      "time": "Sep 7",
+      "headline": "Karius keeps Kane at bay as Schalke nullify Bayern on Neuer’s return | Andy Brassell",
+      "excerpt": "<p>The often-derided Loris Karius upstaged Manuel Neuer as Schalke held Bayern to a rare goalless…",
+      "link": "https://www.theguardian.com/football/2026/sep/07/loris-karius-manuel-neuer-harry-kane-schalke-bayern-munich-bundesliga",
+      "image": "https://i.guim.co.uk/img/media/e16ce78dd879347060f34d3aefd58f28855e98f1/351_0_2778_2222/master/2778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d65d2b2bf63bf09aca2d447a1093913"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/ff306bf32a5d419ba3d96d14eb3bb4d3da6b5650/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de0fc1dcd00d28d39de7fb96a73c6232"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0725/live/0a71fe30-aaa3-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/b5f841f08305ebce522e2f0ec6dc1441367cc49d/542_426_5290_4234/master/5290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7858ba10d2bb208e6b1aa197dea2e08c"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e8/live/7bc40b40-aaa4-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5a/live/2f9fbfc0-aa9a-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471f/live/fb4d7c30-aa9e-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcba/live/81b72390-aa98-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/f6cf2e6f0bed978ed42c0cba0f9354a81e5e6508/796_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4920f282d46b74a710418b91a7ab241b"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/b13ef080-a853-11f1-80f8-c33181935c5a.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d045/live/49a5bd80-aa8f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b269/live/b17cf370-aa8e-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/5860e610-aa35-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/043f7294559404eb8120021a244df96b191faddd/224_226_1990_1593/master/1990.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5730dc4a83e5cd1ab3ac164784c4ca85"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/f771da918d6305721c0db0205896ca2500f8c3bd/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6239ff91a0651e3d544975738ced93dd"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ac/live/67f95b00-a9f6-11f1-921b-6365210e1c9d.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb4/live/a498dc70-aa46-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/54a319c0-aa40-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the…",
       "link": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f7/live/1af84370-aa41-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 6",
-      "headline": "Who has made Troy's Premier League team of the week?",
-      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png"
     }
   ],
   "scoreboard": [
