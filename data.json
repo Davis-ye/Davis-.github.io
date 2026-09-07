@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-07T10:29:30.677Z",
+  "updatedAt": "2026-09-07T10:41:34.847Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 7",
-    "headline": "FC Porto v Manchester City: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "Manchester City open their Champions League campaign in Portugal on Tuesday night. Read our in-depth…",
-    "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/porto-v-manchester-city-preview-expected-line-ups-stats-stream-where-to-watch/",
-    "image": null
+    "headline": "Belgian FA still wants Balogun ban answers",
+    "excerpt": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e8/live/7bc40b40-aaa4-11f1-9eba-7de947fa7cd1.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 7",
+      "headline": "FC Porto v Manchester City: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Manchester City open their Champions League campaign in Portugal on Tuesday night. Read our in-depth…",
+      "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/porto-v-manchester-city-preview-expected-line-ups-stats-stream-where-to-watch/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5a/live/2f9fbfc0-aa9a-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471f/live/fb4d7c30-aa9e-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcba/live/81b72390-aa98-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -57,18 +68,18 @@
       "image": "https://i.guim.co.uk/img/media/f6cf2e6f0bed978ed42c0cba0f9354a81e5e6508/796_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4920f282d46b74a710418b91a7ab241b"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
       "time": "Sep 7",
-      "headline": "How quiz-show winnings kick-started coach's career - with Old Trafford next",
+      "headline": "How £725 game-show winnings kick-started Champions League coach's career",
       "excerpt": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/b13ef080-a853-11f1-80f8-c33181935c5a.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d045/live/49a5bd80-aa8f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b269/live/b17cf370-aa8e-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/5860e610-aa35-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/043f7294559404eb8120021a244df96b191faddd/224_226_1990_1593/master/1990.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5730dc4a83e5cd1ab3ac164784c4ca85"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/f771da918d6305721c0db0205896ca2500f8c3bd/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6239ff91a0651e3d544975738ced93dd"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ac/live/67f95b00-a9f6-11f1-921b-6365210e1c9d.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb4/live/a498dc70-aa46-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/54a319c0-aa40-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f7/live/1af84370-aa41-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8f/live/bafdebe0-aa1e-11f1-8046-e7e0d3946c1a.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/cb3083ba6ba212fc1c9f8988835994913c5f0b0f/434_13_3464_2772/master/3464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23ca799942fee7a38174b2cb416299dd"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/3187016e56c5ed3a33c336b5e15f290203b896f3/373_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae92ede37c347f6f315dfdd50bafc9ea"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/4861fbfcac07be1219e50cbc1cf5e5e75a46f9b0/264_0_3290_2632/master/3290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0fc43060ca93736879cc5e8afc7bc79f"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
       "link": "https://www.bbc.co.uk/sounds/play/m00319lp?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p60w80.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 6",
-      "headline": "Chelsea plot early move for Scott - Monday's gossip",
-      "excerpt": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfbf/live/356ff720-aa28-11f1-b109-879e35c24276.png"
     }
   ],
   "scoreboard": [
