@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-07T15:34:46.335Z",
+  "updatedAt": "2026-09-07T15:46:11.706Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 7",
-    "headline": "Champions League Predictions: Delight for Manchester clubs and Arsenal but frustration for Villa and Liverpool",
-    "excerpt": "The Champions League is BACK! Here are the pick of the matchweek one ties and…",
-    "link": "https://www.101greatgoals.com/football/champions-league/champions-league-predictions-delight-for-manchester-united-city-arsenal-aston-villa-liverpool/",
-    "image": null
+    "headline": "American consortium cleared to buy Shrewsbury",
+    "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 7",
+      "headline": "&#8216;It wouldn&#8217;t be stolen&#8217; &#8211; Mbappe makes emphatic case for his Ballon d&#8217;Or candidacy despite lack of trophies",
+      "excerpt": "Mbappe believes his goalscoring form for Madrid and France merits the award.",
+      "link": "https://www.101greatgoals.com/football/la-liga/mbappe-ballon-dor-case/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6a/live/a6573000-aacf-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/9735956f2c652f41ebc170625d1a334aa7b7b82e/737_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f3219e6ce5e3fa13c7b31f1c2e582f5"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/88cfbd62e262625d803affa446eb9b57d16b0412/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e23ada2b286ced1376a590c0d7bba4"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Should the league be supporting home grown talent more?",
       "link": "https://www.bbc.co.uk/sounds/play/p0p8dwmw?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 7",
-      "headline": "American consortium cleared to buy Shrewsbury",
-      "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
       "id": "story-6",
