@@ -11,30 +11,46 @@
     --lime:#D9FF7A; --amber:#FFC469;
   }
   *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);overflow-x:hidden;}
   body{font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;max-width:640px;margin:0 auto;padding-bottom:70px;font-size:17px;}
   ::selection{background:var(--lime); color:#0A1811;}
-  header.top{padding:22px 20px 14px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;}
-  .wordmark{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;font-size:36px;letter-spacing:0.5px;line-height:0.95;}
+
+  .masthead{padding:16px 20px 0;}
+  .edition{font-size:11px;color:var(--ink-muted);letter-spacing:0.5px;text-transform:uppercase;}
+  header.top{padding:6px 0 14px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;}
+  .wordmark{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;font-size:38px;letter-spacing:0.5px;line-height:0.95;}
   .wordmark em{font-style:normal;color:var(--lime);}
   .tagline{font-size:13px;font-style:italic;color:var(--ink-muted);margin-top:4px;}
   .pulse{width:9px;height:9px;border-radius:50%;background:var(--lime);display:inline-block;animation:pulse 1.6s infinite;margin-right:6px;}
   @keyframes pulse{0%{opacity:1;}50%{opacity:0.25;}100%{opacity:1;}}
   .live-badge{font-size:12px;color:var(--ink-muted);display:flex;align-items:center;margin-top:6px;}
 
+  .ticker-wrap{overflow:hidden;white-space:nowrap;background:var(--surface);border-bottom:1px solid var(--line);padding:9px 0;}
+  .ticker{display:inline-block;padding-left:100%;animation:ticker 38s linear infinite;}
+  .ticker-wrap:hover .ticker{animation-play-state:paused;}
+  .ticker span{margin-right:36px;font-size:13px;color:var(--ink-dim);font-family:'Arial Narrow',Arial,sans-serif;}
+  .ticker span::before{content:"● ";color:var(--lime);font-size:9px;}
+  @keyframes ticker{0%{transform:translate3d(0,0,0);}100%{transform:translate3d(-100%,0,0);}}
+
   .filters{display:flex;gap:8px;overflow-x:auto;padding:14px 20px;border-bottom:1px solid var(--line);-webkit-overflow-scrolling:touch;}
   .filters::-webkit-scrollbar{display:none;}
   .chip{flex-shrink:0;padding:6px 14px;border:1px solid var(--line);border-radius:20px;font-size:13px;color:var(--ink-dim);background:none;font-family:Georgia,serif;cursor:pointer;white-space:nowrap;}
   .chip.active{background:var(--lime);color:#0A1811;border-color:var(--lime);font-weight:bold;}
 
-  .hero{padding:22px 20px 20px;border-bottom:1px solid var(--line);}
-  .hero-tag{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-muted);margin-bottom:10px;font-weight:bold;}
-  .dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0;}
-  .hero h1{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:32px;line-height:1.08;margin:0 0 10px;}
+  .hero{position:relative;padding:28px 20px 24px;border-bottom:1px solid var(--line);overflow:hidden;}
+  .hero::before{
+    content:"";position:absolute;top:0;right:-40px;width:70%;height:180%;
+    background:linear-gradient(135deg, rgba(217,255,122,0.08), rgba(217,255,122,0));
+    transform:skewX(-12deg);z-index:0;
+  }
+  .hero-inner{position:relative;z-index:1;}
+  .flag{display:inline-block;width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:9px solid;flex-shrink:0;}
+  .hero-tag{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-muted);margin-bottom:12px;font-weight:bold;}
+  .hero h1{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:33px;line-height:1.06;margin:0 0 10px;}
   .hero h1 a{color:var(--ink);text-decoration:none;}
   .hero p{font-size:16.5px;line-height:1.5;color:var(--ink-dim);margin:0;font-style:italic;}
 
-  .section-label{display:flex;align-items:center;gap:10px;padding:20px 20px 8px;}
+  .section-label{display:flex;align-items:center;gap:10px;padding:22px 20px 8px;}
   .section-label .bar{width:5px;height:20px;background:var(--lime);}
   .section-label h3{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:20px;margin:0;}
 
@@ -58,13 +74,18 @@
 </head>
 <body>
 
-<header class="top">
-  <div>
-    <div class="wordmark">AGGREG<em>ATE</em></div>
-    <div class="tagline">Every story, added up.</div>
-  </div>
-  <div class="live-badge"><span class="pulse"></span>Auto-refreshing</div>
-</header>
+<div class="masthead">
+  <div class="edition" id="edition"></div>
+  <header class="top">
+    <div>
+      <div class="wordmark">AGGREG<em>ATE</em></div>
+      <div class="tagline">Every story, added up.</div>
+    </div>
+    <div class="live-badge"><span class="pulse"></span>Auto-refreshing</div>
+  </header>
+</div>
+
+<div class="ticker-wrap"><div class="ticker" id="ticker"></div></div>
 
 <div class="filters" id="filters"></div>
 
@@ -82,9 +103,13 @@ var lastData = null;
 
 function esc(s){ return (s||'').replace(/</g,'&lt;'); }
 
+function flagHTML(color){
+  return '<span class="flag" style="border-left-color:'+color+'"></span>';
+}
+
 function storyHTML(s){
   return '<div class="story" data-league="'+s.league+'">' +
-    '<div class="tag-row"><span class="dot" style="background:'+s.dot+'"></span>'+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
+    '<div class="tag-row">'+flagHTML(s.dot)+' '+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
     '<h2><a href="articles/'+s.id+'.html">'+esc(s.headline)+'</a></h2>' +
   '</div>';
 }
@@ -120,6 +145,24 @@ function applyFilter(){
   });
 }
 
+function renderTicker(hero, stories){
+  var all = hero ? [hero].concat(stories) : stories;
+  var headlines = all.map(function(s){ return s.headline; });
+  if(!headlines.length) return;
+  var doubled = headlines.concat(headlines);
+  document.getElementById('ticker').innerHTML = doubled.map(function(h){
+    return '<span>' + esc(h) + '</span>';
+  }).join('');
+}
+
+function renderEdition(){
+  var start = new Date('2026-01-01T00:00:00Z');
+  var now = new Date();
+  var days = Math.floor((now - start) / (1000 * 60 * 60 * 24));
+  var dateStr = now.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+  document.getElementById('edition').textContent = 'Edition No. ' + days + ' — ' + dateStr;
+}
+
 function render(data){
   lastData = data;
   var app = document.getElementById('app');
@@ -128,14 +171,15 @@ function render(data){
   var scores = data.scoreboard || [];
 
   renderFilters(stories, hero);
+  renderTicker(hero, stories);
 
   var html = '';
   if(hero){
-    html += '<div class="hero">' +
-      '<div class="hero-tag"><span class="dot" style="background:'+hero.dot+'"></span>'+hero.league+(hero.source?' · '+hero.source:'')+(hero.time?' · '+hero.time:'')+'</div>' +
+    html += '<div class="hero"><div class="hero-inner">' +
+      '<div class="hero-tag">'+flagHTML(hero.dot)+' '+hero.league+(hero.source?' · '+hero.source:'')+(hero.time?' · '+hero.time:'')+'</div>' +
       '<h1>'+(hero.id ? '<a href="articles/'+hero.id+'.html">'+esc(hero.headline)+'</a>' : esc(hero.headline))+'</h1>' +
       (hero.excerpt ? '<p>"'+esc(hero.excerpt)+'"</p>' : '') +
-    '</div>';
+    '</div></div>';
   }
 
   html += '<div class="section-label"><span class="bar"></span><h3>Top stories</h3></div>';
@@ -154,6 +198,7 @@ function render(data){
 }
 
 async function init(){
+  renderEdition();
   try{
     var res = await fetch('data.json?_=' + Date.now());
     var data = await res.json();
