@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:58:36.008Z",
+  "updatedAt": "2026-09-07T03:10:53.620Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -113,16 +113,6 @@
     },
     {
       "id": "story-11",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "101 Great Goals",
-      "time": "Sep 6",
-      "headline": "Juventus 1-1 AC Milan: Report, result and goals as hosts rescue point in added time",
-      "excerpt": "Both sides maintained their unbeaten starts to the season.",
-      "link": "https://www.101greatgoals.com/football/serie-a/juventus-ac-milan-report-result-goals/"
-    },
-    {
-      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -132,7 +122,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-13",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -142,7 +132,7 @@
       "link": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic"
     },
     {
-      "id": "story-14",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -152,7 +142,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-15",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -162,7 +152,7 @@
       "link": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea"
     },
     {
-      "id": "story-16",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -172,7 +162,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -182,7 +172,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -192,7 +182,7 @@
       "link": "https://www.bbc.co.uk/iplayer/episode/m0031d5f?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -202,7 +192,7 @@
       "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -212,7 +202,7 @@
       "link": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +212,7 @@
       "link": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -232,7 +222,7 @@
       "link": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -240,6 +230,16 @@
       "headline": "Shaw double leads Man City to victory over Birmingham",
       "excerpt": "Manchester City's defence of their Women's Super League title gets off to the perfect start…",
       "link": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Chelsea defeat by Arsenal hurts - Alonso",
+      "excerpt": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "scoreboard": [
