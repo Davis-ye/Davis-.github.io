@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-07T07:28:49.795Z",
+  "updatedAt": "2026-09-07T07:42:26.973Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 7",
-    "headline": "'Gambling & guessing' - what is going on at Hibs?",
-    "excerpt": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/5860e610-aa35-11f1-b109-879e35c24276.jpg"
+    "headline": "WSL investigating after Palace break substitution rules",
+    "excerpt": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 7",
+      "headline": "'Gambling & guessing' - what is going on at Hibs?",
+      "excerpt": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/5860e610-aa35-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/043f7294559404eb8120021a244df96b191faddd/224_226_1990_1593/master/1990.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5730dc4a83e5cd1ab3ac164784c4ca85"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/f771da918d6305721c0db0205896ca2500f8c3bd/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6239ff91a0651e3d544975738ced93dd"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ac/live/67f95b00-a9f6-11f1-921b-6365210e1c9d.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb4/live/a498dc70-aa46-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/54a319c0-aa40-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f7/live/1af84370-aa41-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -99,17 +110,6 @@
       "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png"
-    },
-    {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 6",
-      "headline": "WSL investigating after Palace break substitution rules",
-      "excerpt": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
     },
     {
       "id": "story-10",
