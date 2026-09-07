@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-07T14:21:43.470Z",
+  "updatedAt": "2026-09-07T14:34:31.856Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 7",
-    "headline": "American consortium cleared to buy Shrewsbury",
-    "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
+    "headline": "2026 NFL Season Preview: Teams to watch, Super Bowl prediction, schedule, TV, and everything you need to know",
+    "excerpt": "Season preview and everything you need to know about the 2026 NFL season.",
+    "link": "https://www.101greatgoals.com/news/2026-nfl-season-preview-teams-to-watch-super-bowl-prediction-schedule-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 7",
-      "headline": "Angry Real Madrid boss Mourinho lashes out at integrity of VAR as backlash to Betis defeat continues",
-      "excerpt": "Jose Mourinho has claimed Real Madrid were hard done to against Real Betis - and…",
-      "link": "https://www.101greatgoals.com/football/la-liga/angry-real-madrid-boss-jose-mourinho-lashes-out-at-integrity-var-backlash-betis-defeat-continues/",
-      "image": null
+      "headline": "American consortium cleared to buy Shrewsbury",
+      "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
       "id": "story-2",
