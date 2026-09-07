@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-07T16:54:37.544Z",
+  "updatedAt": "2026-09-07T17:02:09.742Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 7",
-    "headline": "Edu leaves Nottingham Forest after turbulent spell",
-    "excerpt": "Global head of football Edu leaves Nottingham Forest after just over a year at the…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg"
+    "headline": "Belgian FA still seeking answers over Balogun World Cup incident",
+    "excerpt": "The Belgian FA are still seeking clarity on why Folarin Balogun's red card was overturned…",
+    "link": "https://www.101greatgoals.com/football/world-cup-news/belgian-fa-still-seeking-answers-balogun-world-cup/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 7",
+      "headline": "Edu leaves Nottingham Forest after turbulent spell",
+      "excerpt": "Global head of football Edu leaves Nottingham Forest after just over a year at the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Former footballer accused of attack outside golf club</p></li><li><p>His trial has been pushed back to March…",
       "link": "https://www.theguardian.com/football/2026/sep/07/joey-barton-to-remain-in-custody-until-trial-after-bail-application-turned-down",
       "image": "https://i.guim.co.uk/img/media/adc91a8db127b0725f1666cec99d531c1a289832/0_100_1919_1534/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f0d20c0d05bc99c06e196d58d16996f"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 7",
-      "headline": "Kane hungry for Ballon d&#8217;Or after &#8216;best season so far&#8217;",
-      "excerpt": "Harry Kane is looking to win the Ballon d'Or for the first time this year.",
-      "link": "https://www.101greatgoals.com/football/kane-hungry-for-ballon-dor-after-best-season-so-far/",
-      "image": null
     },
     {
       "id": "story-3",
