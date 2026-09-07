@@ -12,38 +12,48 @@
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}
-  body{font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;max-width:600px;margin:0 auto;padding-bottom:70px;font-size:17px;}
+  body{font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;max-width:640px;margin:0 auto;padding-bottom:70px;font-size:17px;}
   ::selection{background:var(--lime); color:#0A1811;}
-  header.top{padding:22px 20px 16px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;}
+  header.top{padding:22px 20px 14px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;}
   .wordmark{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;font-size:36px;letter-spacing:0.5px;line-height:0.95;}
   .wordmark em{font-style:normal;color:var(--lime);}
   .tagline{font-size:13px;font-style:italic;color:var(--ink-muted);margin-top:4px;}
   .pulse{width:9px;height:9px;border-radius:50%;background:var(--lime);display:inline-block;animation:pulse 1.6s infinite;margin-right:6px;}
   @keyframes pulse{0%{opacity:1;}50%{opacity:0.25;}100%{opacity:1;}}
   .live-badge{font-size:12px;color:var(--ink-muted);display:flex;align-items:center;margin-top:6px;}
+
+  .filters{display:flex;gap:8px;overflow-x:auto;padding:14px 20px;border-bottom:1px solid var(--line);-webkit-overflow-scrolling:touch;}
+  .filters::-webkit-scrollbar{display:none;}
+  .chip{flex-shrink:0;padding:6px 14px;border:1px solid var(--line);border-radius:20px;font-size:13px;color:var(--ink-dim);background:none;font-family:Georgia,serif;cursor:pointer;white-space:nowrap;}
+  .chip.active{background:var(--lime);color:#0A1811;border-color:var(--lime);font-weight:bold;}
+
   .hero{padding:22px 20px 20px;border-bottom:1px solid var(--line);}
   .hero-tag{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-muted);margin-bottom:10px;font-weight:bold;}
   .dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0;}
   .hero h1{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:32px;line-height:1.08;margin:0 0 10px;}
   .hero h1 a{color:var(--ink);text-decoration:none;}
-  .hero p{font-size:16.5px;line-height:1.5;color:var(--ink-dim);margin:0;}
+  .hero p{font-size:16.5px;line-height:1.5;color:var(--ink-dim);margin:0;font-style:italic;}
+
   .section-label{display:flex;align-items:center;gap:10px;padding:20px 20px 8px;}
   .section-label .bar{width:5px;height:20px;background:var(--lime);}
   .section-label h3{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:20px;margin:0;}
+
   .feed{display:flex;flex-direction:column;}
   .story{padding:15px 20px;border-bottom:1px solid var(--line-soft);}
   .tag-row{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--ink-muted);margin-bottom:6px;font-weight:bold;}
-  .story h2{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:19px;line-height:1.15;margin:0 0 5px;}
+  .story h2{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:19px;line-height:1.15;margin:0;}
   .story h2 a{color:var(--ink);text-decoration:none;}
-  .story p{font-size:15px;line-height:1.45;color:var(--ink-dim);margin:0;}
+
   .scoreboard{padding:14px 20px;background:var(--surface);border-bottom:1px solid var(--line);}
   .score-row{display:flex;align-items:center;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--line-soft);font-size:14.5px;}
   .score-row:last-child{border-bottom:none;}
   .score-teams{color:var(--ink-dim);}
   .score-line{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;color:var(--lime);}
   .score-league{font-size:11px;color:var(--ink-muted);}
+
   footer{padding:20px 20px 10px;font-size:13px;color:var(--ink-muted);line-height:1.6;}
   .updated-note{font-size:11.5px;color:var(--ink-muted);padding:0 20px 14px;font-style:italic;}
+  .hidden{display:none !important;}
 </style>
 </head>
 <body>
@@ -56,22 +66,26 @@
   <div class="live-badge"><span class="pulse"></span>Auto-refreshing</div>
 </header>
 
+<div class="filters" id="filters"></div>
+
 <div id="app">
   <div style="padding:40px 20px;color:#AFC4AC;font-style:italic;">Loading the latest…</div>
 </div>
 
 <footer>
-  <strong style="color:var(--ink);">Aggregate</strong> pulls real headlines from the top five leagues, refreshed automatically.
+  <strong style="color:var(--ink);">Aggregate</strong> curates real headlines from BBC Sport, The Guardian, Sky Sports, talkSPORT, 90min, and more — refreshed automatically. Tap any headline for the full story.
 </footer>
 
 <script>
+var currentFilter = 'All';
+var lastData = null;
+
 function esc(s){ return (s||'').replace(/</g,'&lt;'); }
 
 function storyHTML(s){
-  return '<div class="story">' +
+  return '<div class="story" data-league="'+s.league+'">' +
     '<div class="tag-row"><span class="dot" style="background:'+s.dot+'"></span>'+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
-    '<h2><a href="'+s.link+'" target="_blank" rel="noopener">'+esc(s.headline)+'</a></h2>' +
-    (s.body ? '<p>'+esc(s.body)+'</p>' : '') +
+    '<h2><a href="articles/'+s.id+'.html">'+esc(s.headline)+'</a></h2>' +
   '</div>';
 }
 
@@ -82,18 +96,45 @@ function scoreRowHTML(m){
   '</div>';
 }
 
+function renderFilters(stories, hero){
+  var leagues = ['All'];
+  var all = hero ? [hero].concat(stories) : stories;
+  all.forEach(function(s){ if(leagues.indexOf(s.league) === -1) leagues.push(s.league); });
+  var box = document.getElementById('filters');
+  box.innerHTML = leagues.map(function(l){
+    return '<button class="chip'+(l===currentFilter?' active':'')+'" data-league="'+l+'">'+l+'</button>';
+  }).join('');
+  box.querySelectorAll('.chip').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      currentFilter = btn.getAttribute('data-league');
+      renderFilters(lastData.topStories || [], lastData.hero);
+      applyFilter();
+    });
+  });
+}
+
+function applyFilter(){
+  document.querySelectorAll('.story').forEach(function(el){
+    var match = currentFilter === 'All' || el.getAttribute('data-league') === currentFilter;
+    el.classList.toggle('hidden', !match);
+  });
+}
+
 function render(data){
+  lastData = data;
   var app = document.getElementById('app');
   var hero = data.hero;
   var stories = data.topStories || [];
   var scores = data.scoreboard || [];
 
+  renderFilters(stories, hero);
+
   var html = '';
   if(hero){
     html += '<div class="hero">' +
       '<div class="hero-tag"><span class="dot" style="background:'+hero.dot+'"></span>'+hero.league+(hero.source?' · '+hero.source:'')+(hero.time?' · '+hero.time:'')+'</div>' +
-      '<h1>'+(hero.link ? '<a href="'+hero.link+'" target="_blank" rel="noopener">'+esc(hero.headline)+'</a>' : esc(hero.headline))+'</h1>' +
-      (hero.body ? '<p>'+esc(hero.body)+'</p>' : '') +
+      '<h1>'+(hero.id ? '<a href="articles/'+hero.id+'.html">'+esc(hero.headline)+'</a>' : esc(hero.headline))+'</h1>' +
+      (hero.excerpt ? '<p>"'+esc(hero.excerpt)+'"</p>' : '') +
     '</div>';
   }
 
@@ -109,6 +150,7 @@ function render(data){
     html += '<div class="updated-note">Last updated: ' + new Date(data.updatedAt).toLocaleString() + '</div>';
   }
   app.innerHTML = html;
+  applyFilter();
 }
 
 async function init(){
