@@ -44,6 +44,7 @@
     transform:skewX(-12deg);z-index:0;
   }
   .hero-inner{position:relative;z-index:1;}
+  .hero-img{width:100%;height:180px;object-fit:cover;border-radius:6px;margin-bottom:14px;display:block;background:var(--surface);}
   .flag{display:inline-block;width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:9px solid;flex-shrink:0;}
   .hero-tag{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-muted);margin-bottom:12px;font-weight:bold;}
   .hero h1{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:33px;line-height:1.06;margin:0 0 10px;}
@@ -55,7 +56,9 @@
   .section-label h3{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:20px;margin:0;}
 
   .feed{display:flex;flex-direction:column;}
-  .story{padding:15px 20px;border-bottom:1px solid var(--line-soft);}
+  .story{padding:15px 20px;border-bottom:1px solid var(--line-soft);display:flex;gap:12px;align-items:flex-start;}
+  .story-img{width:76px;height:76px;object-fit:cover;border-radius:5px;flex-shrink:0;background:var(--surface);}
+  .story-body{flex:1;min-width:0;}
   .tag-row{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--ink-muted);margin-bottom:6px;font-weight:bold;}
   .story h2{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:19px;line-height:1.15;margin:0;}
   .story h2 a{color:var(--ink);text-decoration:none;}
@@ -94,7 +97,7 @@
 </div>
 
 <footer>
-  <strong style="color:var(--ink);">Aggregate</strong> curates real headlines from BBC Sport, The Guardian, Sky Sports, talkSPORT, 90min, and more — refreshed automatically. Tap any headline for the full story.
+  <strong style="color:#FFFFFF;">Aggregate</strong> curates real headlines from BBC Sport, The Guardian, Sky Sports, talkSPORT, 90min, and more — refreshed automatically. Tap any headline for the full story.
 </footer>
 
 <script>
@@ -108,9 +111,13 @@ function flagHTML(color){
 }
 
 function storyHTML(s){
+  var img = s.image ? '<img class="story-img" src="'+s.image+'" alt="" loading="lazy" onerror="this.remove()">' : '';
   return '<div class="story" data-league="'+s.league+'">' +
-    '<div class="tag-row">'+flagHTML(s.dot)+' '+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
-    '<h2><a href="articles/'+s.id+'.html">'+esc(s.headline)+'</a></h2>' +
+    img +
+    '<div class="story-body">' +
+      '<div class="tag-row">'+flagHTML(s.dot)+' '+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
+      '<h2><a href="articles/'+s.id+'.html">'+esc(s.headline)+'</a></h2>' +
+    '</div>' +
   '</div>';
 }
 
@@ -175,7 +182,9 @@ function render(data){
 
   var html = '';
   if(hero){
+    var heroImg = hero.image ? '<img class="hero-img" src="'+hero.image+'" alt="" loading="lazy" onerror="this.remove()">' : '';
     html += '<div class="hero"><div class="hero-inner">' +
+      heroImg +
       '<div class="hero-tag">'+flagHTML(hero.dot)+' '+hero.league+(hero.source?' · '+hero.source:'')+(hero.time?' · '+hero.time:'')+'</div>' +
       '<h1>'+(hero.id ? '<a href="articles/'+hero.id+'.html">'+esc(hero.headline)+'</a>' : esc(hero.headline))+'</h1>' +
       (hero.excerpt ? '<p>"'+esc(hero.excerpt)+'"</p>' : '') +
