@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:57:07.072Z",
+  "updatedAt": "2026-09-07T01:06:00.010Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -7,7 +7,7 @@
     "source": "BBC Sport",
     "time": "Sep 6",
     "headline": "Young praises Rashford and Shaw chemistry",
-    "body": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw agains",
+    "excerpt": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection…",
     "link": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&amp;at_campaign=rss"
   },
   "topStories": [
@@ -18,7 +18,7 @@
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-      "body": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
+      "excerpt": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -28,7 +28,7 @@
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "Odegaard 'desire' in Chelsea win impresses Rooney",
-      "body": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+      "excerpt": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the…",
       "link": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -38,7 +38,7 @@
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "Who has made Troy's Premier League team of the week?",
-      "body": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -48,7 +48,7 @@
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "WSL investigating after Palace break substitution rules",
-      "body": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution windows in their win over Everton.",
+      "excerpt": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -58,38 +58,38 @@
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "When Man City call you don't say no - Ndiaye",
-      "body": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+      "excerpt": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
       "time": "Sep 6",
-      "headline": "Football Daily",
-      "body": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
-      "link": "https://www.bbc.co.uk/sounds/play/m00319lp?at_medium=RSS&amp;at_campaign=rss"
+      "headline": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "excerpt": "<ul><li><p>Gatti’s stoppage-time header rescues Juve against Milan</p></li><li><p>Goalkeeper Koeman Jr scores two penalties in Eredivisie</p></li></ul><p>Lamine Yamal…",
+      "link": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan"
     },
     {
       "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "source": "The Guardian",
       "time": "Sep 6",
-      "headline": "Chelsea plot early move for Scott - Monday's gossip",
-      "body": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcas",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&amp;at_campaign=rss"
+      "headline": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
+      "excerpt": "<ul><li><p>Hughes joins Saudi exodus after two years at Anfield</p></li><li><p>Martinelli, Summerville and Watkins are at Al-Hilal</p></li></ul><p>Richard…",
+      "link": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure"
     },
     {
       "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 6",
-      "headline": "Four wins in a row, but can it only get better for Hearts?",
-      "body": "Hearts move up to second place in the Premiership as new head coach Wouter Vrancken gets to grips with a much-changed squad at Tynecastle.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&amp;at_campaign=rss"
+      "headline": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
+      "excerpt": "<p>The home side’s response to Chelsea’s early goal was to play breathless attacking football</p><p>We’re back,…",
+      "link": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026"
     },
     {
       "id": "story-9",
@@ -97,9 +97,9 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 6",
-      "headline": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
-      "body": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premie",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&amp;at_campaign=rss"
+      "headline": "Football Daily",
+      "excerpt": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
+      "link": "https://www.bbc.co.uk/sounds/play/m00319lp?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "id": "story-10",
@@ -107,19 +107,139 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 6",
-      "headline": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
-      "body": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&amp;at_campaign=rss"
+      "headline": "Chelsea plot early move for Scott - Monday's gossip",
+      "excerpt": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "id": "story-11",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "101 Great Goals",
+      "time": "Sep 6",
+      "headline": "Juventus 1-1 AC Milan: Report, result and goals as hosts rescue point in added time",
+      "excerpt": "Both sides maintained their unbeaten starts to the season.",
+      "link": "https://www.101greatgoals.com/football/serie-a/juventus-ac-milan-report-result-goals/"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Four wins in a row, but can it only get better for Hearts?",
+      "excerpt": "Hearts move up to second place in the Premiership as new head coach Wouter Vrancken…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 6",
+      "headline": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
+      "excerpt": "<ul><li><p>Rangers beat Motherwell 1-0 but lose Shankland to injury</p></li><li><p>Kerjota’s late winner sees Hearts edge past…",
+      "link": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "excerpt": "Nine points from three games, one goal conceded and big players stepping up - are…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 6",
+      "headline": "‘Exceptional performance’: Arteta hails fightback win and says best yet to come",
+      "excerpt": "<ul><li><p>Manager delighted by reaction to Chelsea’s opener</p></li><li><p>Alonso says his side must be ‘tighter’ </p></li></ul><p>Mikel Arteta…",
+      "link": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea"
+    },
+    {
+      "id": "story-16",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
+      "excerpt": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 6",
       "headline": "After transfer worries, Everton have an unlikely new hero",
-      "body": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+      "excerpt": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Watch: Sportscene highlights as Hearts & St Johnstone win",
+      "excerpt": "With St Johnstone v Hibs and Hearts v Dundee plus all of Saturday’s stories",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d5f?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+      "excerpt": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Champions Arsenal come from behind to beat Chelsea",
+      "excerpt": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Liverpool beat newly-promoted Charlton 4-0",
+      "excerpt": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 6",
+      "headline": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+      "excerpt": "<ul><li><p>Manager praises team’s resilience after late equaliser</p></li><li><p>‘Everyone has to find a way of making it…",
+      "link": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 6",
+      "headline": "Shaw double leads Man City to victory over Birmingham",
+      "excerpt": "Manchester City's defence of their Women's Super League title gets off to the perfect start…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "scoreboard": [
