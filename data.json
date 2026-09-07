@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-07T15:22:50.192Z",
+  "updatedAt": "2026-09-07T15:34:46.335Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 7",
-    "headline": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
-    "excerpt": "<p>You might think Monaco have plenty to cheer about, especially after their 2-1 win at…",
-    "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg",
-    "image": "https://i.guim.co.uk/img/media/9735956f2c652f41ebc170625d1a334aa7b7b82e/737_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f3219e6ce5e3fa13c7b31f1c2e582f5"
+    "headline": "Champions League Predictions: Delight for Manchester clubs and Arsenal but frustration for Villa and Liverpool",
+    "excerpt": "The Champions League is BACK! Here are the pick of the matchweek one ties and…",
+    "link": "https://www.101greatgoals.com/football/champions-league/champions-league-predictions-delight-for-manchester-united-city-arsenal-aston-villa-liverpool/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 7",
+      "headline": "All the goals from the opening weekend of the WSL",
+      "excerpt": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cn4k1lwl2zxo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6a/live/a6573000-aacf-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 7",
+      "headline": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+      "excerpt": "<p>You might think Monaco have plenty to cheer about, especially after their 2-1 win at…",
+      "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg",
+      "image": "https://i.guim.co.uk/img/media/9735956f2c652f41ebc170625d1a334aa7b7b82e/737_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f3219e6ce5e3fa13c7b31f1c2e582f5"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,18 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/88cfbd62e262625d803affa446eb9b57d16b0412/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e23ada2b286ced1376a590c0d7bba4"
     },
     {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 7",
-      "headline": "2026 NFL Season Preview: Teams to watch, Super Bowl prediction, schedule, TV, and everything you need to know",
-      "excerpt": "Season preview and everything you need to know about the 2026 NFL season.",
-      "link": "https://www.101greatgoals.com/news/2026-nfl-season-preview-teams-to-watch-super-bowl-prediction-schedule-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -65,10 +76,10 @@
       "headline": "Williams and Sheehan join Bellamy's Wales staff",
       "excerpt": "Ex-Wales captain Ashley Williams and former Swansea boss Alan Sheehan join Craig Bellamy's backroom staff…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq63mm9vzedo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/bd88e6a0-aa99-11f1-aed2-8d6da8d75094.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/656a/live/a1a4d610-aad0-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ea/live/f9220eb0-aab4-11f1-bdcc-b5edf6495ed5.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/bf86be70fca3b2fb1ed24c22714868406b427569/579_0_4887_3910/master/4887.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bfd575c2450a261897cc5df0727336e"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/b9f11e0d1a81ce96d1c45d09c4f71bd3fed866e8/0_395_2732_2183/master/2732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6db10a2135c127ec57ad1a598b4e8116"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/c22e1942058c502510de58dbcc115ef96fc3eb20/1183_490_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cee9eb3837b7219c865c519efb3edfa"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3596/live/ee8808c0-aaae-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8f/live/a9b82430-aaa1-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/e16ce78dd879347060f34d3aefd58f28855e98f1/351_0_2778_2222/master/2778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d65d2b2bf63bf09aca2d447a1093913"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/ff306bf32a5d419ba3d96d14eb3bb4d3da6b5650/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de0fc1dcd00d28d39de7fb96a73c6232"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0725/live/0a71fe30-aaa3-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e8/live/7bc40b40-aaa4-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5a/live/2f9fbfc0-aa9a-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471f/live/fb4d7c30-aa9e-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcba/live/81b72390-aa98-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/f6cf2e6f0bed978ed42c0cba0f9354a81e5e6508/796_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4920f282d46b74a710418b91a7ab241b"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/b13ef080-a853-11f1-80f8-c33181935c5a.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership…",
       "link": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d045/live/49a5bd80-aa8f-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 7",
-      "headline": "Fowler scores twice as St Johnstone beat Hibs",
-      "excerpt": "Watch highlights as Josh Fowler's first-half double makes it back-to-back Scottish Premiership wins for St…",
-      "link": "https://www.bbc.co.uk/sport/videos/cq63m9vnj87o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b269/live/b17cf370-aa8e-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "scoreboard": [
