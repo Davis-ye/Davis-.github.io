@@ -6,202 +6,118 @@
 <title>Aggregate — Soccer News</title>
 <style>
   :root{
-    --bg:#0A1811;
-    --surface:#16301F;
-    --line:#3C5A45;
-    --line-soft:#25402E;
-    --ink:#FFFFFF;
-    --ink-dim:#E3EBDD;
-    --ink-muted:#AFC4AC;
-    --lime:#D9FF7A;
-    --amber:#FFC469;
+    --bg:#0A1811; --surface:#16301F; --line:#3C5A45; --line-soft:#25402E;
+    --ink:#FFFFFF; --ink-dim:#E3EBDD; --ink-muted:#AFC4AC;
+    --lime:#D9FF7A; --amber:#FFC469;
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}
-  body{
-    font-family:Georgia,'Times New Roman',serif;
-    -webkit-font-smoothing:antialiased;
-    max-width:600px;
-    margin:0 auto;
-    padding-bottom:70px;
-    font-size:17px;
-  }
+  body{font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;max-width:600px;margin:0 auto;padding-bottom:70px;font-size:17px;}
   ::selection{background:var(--lime); color:#0A1811;}
-  header.top{
-    padding:24px 20px 18px;
-    border-bottom:1px solid var(--line);
-  }
-  .top-row{ display:flex; align-items:flex-start; justify-content:space-between; }
-  .wordmark{
-    font-family:'Arial Narrow', Arial, Helvetica, sans-serif;
-    font-weight:800; font-size:38px; letter-spacing:0.5px; color:var(--ink); line-height:0.95;
-  }
-  .wordmark em{ font-style:normal; color:var(--lime); }
-  .tagline{ font-size:14px; font-style:italic; color:var(--ink-muted); margin-top:5px; }
-  .clock-box{ text-align:right; flex-shrink:0; }
-  .clock{
-    font-family:'Arial Narrow', Arial, Helvetica, sans-serif;
-    font-weight:700; font-size:22px; background:var(--surface); border:1px solid var(--line);
-    padding:5px 12px; border-radius:3px; color:var(--lime);
-  }
-  .clock-label{ font-size:11px; color:var(--ink-muted); margin-top:6px; font-style:italic; }
-  .hero{ padding:24px 20px 22px; border-bottom:1px solid var(--line); }
-  .hero-tag{ display:flex; align-items:center; gap:8px; font-size:14.5px; color:var(--ink-muted); margin-bottom:12px; font-weight:bold; }
-  .dot{ width:8px;height:8px;border-radius:50%; display:inline-block; flex-shrink:0; }
-  .hero h1{ font-family:'Arial Narrow', Arial, Helvetica, sans-serif; font-weight:700; font-size:36px; line-height:1.05; margin:0 0 14px; color:var(--ink); }
-  .hero p{ font-size:18px; line-height:1.55; color:var(--ink-dim); margin:0; max-width:52ch; }
-  .half-marker{ display:flex; align-items:center; gap:12px; padding:20px 20px 6px; }
-  .half-marker .num{
-    font-family:'Arial Narrow', Arial, Helvetica, sans-serif; font-weight:900; font-size:24px;
-    color:var(--bg); background:var(--lime); padding:2px 10px 0; line-height:1.35;
-  }
-  .half-marker h3{ font-family:'Arial Narrow', Arial, Helvetica, sans-serif; font-weight:700; font-size:21px; margin:0; color:var(--ink); }
-  .half-marker .sub{ font-size:13px; color:var(--ink-muted); font-style:italic; margin-left:auto; }
-  .halftime-bar{
-    height:3px; margin:22px 20px 4px;
-    background:repeating-linear-gradient(90deg, var(--amber) 0 14px, transparent 14px 22px);
-    opacity:0.55;
-  }
-  .feed{ display:flex; flex-direction:column; }
-  .article{ padding:16px 20px; border-bottom:1px solid var(--line-soft); display:flex; gap:14px; align-items:flex-start; }
-  .article-body{ flex:1; min-width:0; }
-  .tag-row{ display:flex; align-items:center; gap:7px; font-size:13.5px; color:var(--ink-muted); margin-bottom:7px; font-weight:bold; }
-  .article h2{ font-family:'Arial Narrow', Arial, Helvetica, sans-serif; font-weight:700; font-size:21px; line-height:1.15; margin:0 0 7px; color:var(--ink); }
-  .article p{ font-size:16px; line-height:1.5; color:var(--ink-dim); margin:0; }
-  .save-btn{
-    background:none; border:1px solid var(--line); color:var(--ink-muted);
-    width:32px;height:32px; border-radius:50%; flex-shrink:0; font-size:15px; cursor:pointer;
-    display:flex; align-items:center; justify-content:center;
-  }
-  .save-btn.saved{ border-color:var(--lime); color:var(--lime); }
-  .divider-note{
-    padding:18px 20px; font-size:14px; color:var(--ink-dim); font-style:italic;
-    border-bottom:1px solid var(--line); background:var(--surface); line-height:1.5;
-  }
-  footer{ padding:22px 20px 10px; font-size:13.5px; color:var(--ink-muted); line-height:1.6; }
-  footer strong{ color:var(--ink); }
-  .updated-note{ font-size:12px; color:var(--ink-muted); padding:0 20px 14px; font-style:italic; }
+  header.top{padding:22px 20px 16px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;}
+  .wordmark{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;font-size:36px;letter-spacing:0.5px;line-height:0.95;}
+  .wordmark em{font-style:normal;color:var(--lime);}
+  .tagline{font-size:13px;font-style:italic;color:var(--ink-muted);margin-top:4px;}
+  .pulse{width:9px;height:9px;border-radius:50%;background:var(--lime);display:inline-block;animation:pulse 1.6s infinite;margin-right:6px;}
+  @keyframes pulse{0%{opacity:1;}50%{opacity:0.25;}100%{opacity:1;}}
+  .live-badge{font-size:12px;color:var(--ink-muted);display:flex;align-items:center;margin-top:6px;}
+  .hero{padding:22px 20px 20px;border-bottom:1px solid var(--line);}
+  .hero-tag{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-muted);margin-bottom:10px;font-weight:bold;}
+  .dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0;}
+  .hero h1{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:32px;line-height:1.08;margin:0 0 10px;}
+  .hero h1 a{color:var(--ink);text-decoration:none;}
+  .hero p{font-size:16.5px;line-height:1.5;color:var(--ink-dim);margin:0;}
+  .section-label{display:flex;align-items:center;gap:10px;padding:20px 20px 8px;}
+  .section-label .bar{width:5px;height:20px;background:var(--lime);}
+  .section-label h3{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:20px;margin:0;}
+  .feed{display:flex;flex-direction:column;}
+  .story{padding:15px 20px;border-bottom:1px solid var(--line-soft);}
+  .tag-row{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--ink-muted);margin-bottom:6px;font-weight:bold;}
+  .story h2{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:700;font-size:19px;line-height:1.15;margin:0 0 5px;}
+  .story h2 a{color:var(--ink);text-decoration:none;}
+  .story p{font-size:15px;line-height:1.45;color:var(--ink-dim);margin:0;}
+  .scoreboard{padding:14px 20px;background:var(--surface);border-bottom:1px solid var(--line);}
+  .score-row{display:flex;align-items:center;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--line-soft);font-size:14.5px;}
+  .score-row:last-child{border-bottom:none;}
+  .score-teams{color:var(--ink-dim);}
+  .score-line{font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-weight:800;color:var(--lime);}
+  .score-league{font-size:11px;color:var(--ink-muted);}
+  footer{padding:20px 20px 10px;font-size:13px;color:var(--ink-muted);line-height:1.6;}
+  .updated-note{font-size:11.5px;color:var(--ink-muted);padding:0 20px 14px;font-style:italic;}
 </style>
 </head>
 <body>
 
 <header class="top">
-  <div class="top-row">
-    <div>
-      <div class="wordmark">AGGREG<em>ATE</em></div>
-      <div class="tagline">Every story, added up.</div>
-    </div>
-    <div class="clock-box">
-      <div class="clock" id="matchclock">00:00</div>
-      <div class="clock-label">since you opened this</div>
-    </div>
+  <div>
+    <div class="wordmark">AGGREG<em>ATE</em></div>
+    <div class="tagline">Every story, added up.</div>
   </div>
+  <div class="live-badge"><span class="pulse"></span>Auto-refreshing</div>
 </header>
 
 <div id="app">
-  <div style="padding:40px 20px; color:#AFC4AC; font-style:italic;">Loading the latest…</div>
+  <div style="padding:40px 20px;color:#AFC4AC;font-style:italic;">Loading the latest…</div>
 </div>
 
-<div class="divider-note">Tap the star to save a story to this device.</div>
-
 <footer>
-  <strong>Aggregate</strong> is your soccer-only feed, updated automatically every few hours from live match data.
+  <strong style="color:var(--ink);">Aggregate</strong> pulls real headlines from the top five leagues, refreshed automatically.
 </footer>
 
 <script>
-function startClock(){
-  var el = document.getElementById('matchclock');
-  var start = Date.now();
-  function tick(){
-    var e = Math.floor((Date.now()-start)/1000);
-    var m = String(Math.floor(e/60)); if(m.length<2) m='0'+m;
-    var s = String(e%60); if(s.length<2) s='0'+s;
-    el.textContent = m+':'+s;
-  }
-  tick(); setInterval(tick,1000);
-}
+function esc(s){ return (s||'').replace(/</g,'&lt;'); }
 
-async function loadSaved(){
-  try{ return JSON.parse(localStorage.getItem('aggregate:saved') || '[]'); }
-  catch(e){ return []; }
-}
-function persistSaved(list){
-  try{ localStorage.setItem('aggregate:saved', JSON.stringify(list)); }catch(e){}
-}
-
-function articleHTML(a){
-  return '<div class="article">' +
-    '<div class="article-body">' +
-      '<div class="tag-row"><span class="dot" style="background:'+a.dot+'"></span>'+a.league+' · '+a.time+'</div>' +
-      '<h2>'+a.headline+'</h2>' +
-      '<p>'+a.body+'</p>' +
-    '</div>' +
-    '<button class="save-btn" data-id="'+a.id+'" aria-label="Save">★</button>' +
+function storyHTML(s){
+  return '<div class="story">' +
+    '<div class="tag-row"><span class="dot" style="background:'+s.dot+'"></span>'+s.league+' · '+s.source+(s.time?' · '+s.time:'')+'</div>' +
+    '<h2><a href="'+s.link+'" target="_blank" rel="noopener">'+esc(s.headline)+'</a></h2>' +
+    (s.body ? '<p>'+esc(s.body)+'</p>' : '') +
   '</div>';
 }
 
-function newsHTML(n){
-  return '<div class="article">' +
-    '<div class="article-body">' +
-      '<div class="tag-row">'+n.source+(n.time ? ' · '+n.time : '')+'</div>' +
-      '<h2><a href="'+n.link+'" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">'+n.headline+'</a></h2>' +
-    '</div>' +
+function scoreRowHTML(m){
+  return '<div class="score-row">' +
+    '<div class="score-teams">'+esc(m.home)+' vs '+esc(m.away)+'<div class="score-league">'+m.league+' · '+m.time+'</div></div>' +
+    '<div class="score-line">'+m.homeScore+'-'+m.awayScore+'</div>' +
   '</div>';
 }
 
-async function render(data){
+function render(data){
   var app = document.getElementById('app');
   var hero = data.hero;
-  var first = data.firstHalf || [];
-  var second = data.secondHalf || [];
-  var wire = data.newsWire || [];
+  var stories = data.topStories || [];
+  var scores = data.scoreboard || [];
 
   var html = '';
   if(hero){
     html += '<div class="hero">' +
-      '<div class="hero-tag"><span class="dot" style="background:'+hero.dot+'"></span>'+hero.league+' · '+hero.time+'</div>' +
-      '<h1>'+hero.headline+'</h1>' +
-      '<p>'+hero.body+'</p>' +
+      '<div class="hero-tag"><span class="dot" style="background:'+hero.dot+'"></span>'+hero.league+(hero.source?' · '+hero.source:'')+(hero.time?' · '+hero.time:'')+'</div>' +
+      '<h1>'+(hero.link ? '<a href="'+hero.link+'" target="_blank" rel="noopener">'+esc(hero.headline)+'</a>' : esc(hero.headline))+'</h1>' +
+      (hero.body ? '<p>'+esc(hero.body)+'</p>' : '') +
     '</div>';
   }
-  html += '<div class="half-marker"><span class="num">1</span><h3>First half — fresh off the pitch</h3><span class="sub">Recent results</span></div>';
-  html += '<div class="feed">' + first.map(articleHTML).join('') + '</div>';
-  html += '<div class="halftime-bar"></div>';
-  html += '<div class="half-marker"><span class="num">2</span><h3>Second half — what is next</h3><span class="sub">Upcoming</span></div>';
-  html += '<div class="feed">' + second.map(articleHTML).join('') + '</div>';
-  if(wire.length){
-    html += '<div class="halftime-bar"></div>';
-    html += '<div class="half-marker"><span class="num">3</span><h3>Extra time — around the game</h3><span class="sub">Headlines</span></div>';
-    html += '<div class="feed">' + wire.map(newsHTML).join('') + '</div>';
+
+  html += '<div class="section-label"><span class="bar"></span><h3>Top stories</h3></div>';
+  html += '<div class="feed">' + stories.map(storyHTML).join('') + '</div>';
+
+  if(scores.length){
+    html += '<div class="section-label"><span class="bar"></span><h3>Latest results</h3></div>';
+    html += '<div class="scoreboard">' + scores.map(scoreRowHTML).join('') + '</div>';
   }
+
   if(data.updatedAt){
     html += '<div class="updated-note">Last updated: ' + new Date(data.updatedAt).toLocaleString() + '</div>';
   }
   app.innerHTML = html;
-
-  var saved = await loadSaved();
-  var buttons = document.querySelectorAll('.save-btn');
-  for(var i=0;i<buttons.length;i++){
-    var btn = buttons[i];
-    if(saved.indexOf(btn.getAttribute('data-id')) !== -1) btn.classList.add('saved');
-    btn.addEventListener('click', async function(){
-      var id = this.getAttribute('data-id');
-      var s = await loadSaved();
-      if(s.indexOf(id) !== -1){ s = s.filter(function(x){return x!==id;}); this.classList.remove('saved'); }
-      else { s.push(id); this.classList.add('saved'); }
-      persistSaved(s);
-    });
-  }
 }
 
 async function init(){
-  startClock();
   try{
     var res = await fetch('data.json?_=' + Date.now());
     var data = await res.json();
     render(data);
   }catch(e){
-    document.getElementById('app').innerHTML = '<div style="padding:40px 20px; color:#AFC4AC;">Could not load the latest news right now.</div>';
+    document.getElementById('app').innerHTML = '<div style="padding:40px 20px;color:#AFC4AC;">Could not load the latest news right now.</div>';
   }
 }
 init();
