@@ -63,6 +63,16 @@ function firstWords(str, n){
   return words.slice(0, n).join(' ') + '…';
 }
 
+function extractImage(block, descRaw){
+  var media = block.match(/<media:thumbnail[^>]*url="([^"]+)"/i) || block.match(/<media:content[^>]*url="([^"]+)"/i);
+  if(media) return media[1];
+  var enclosure = block.match(/<enclosure[^>]*url="([^"]+)"[^>]*type="image[^"]*"/i);
+  if(enclosure) return enclosure[1];
+  var img = descRaw.match(/<img[^>]*src="([^"]+)"/i);
+  if(img) return img[1];
+  return null;
+}
+
 function parseRSS(xml, sourceName){
   const items = [];
   const itemRegex = /<item>([\s\S]*?)<\/item>/g;
@@ -77,7 +87,8 @@ function parseRSS(xml, sourceName){
     const link = linkRaw.replace('<![CDATA[','').replace(']]>','').trim();
     const desc = decodeEntities(stripTags(descRaw.replace('<![CDATA[','').replace(']]>','')));
     const pubDate = pubDateRaw.trim();
-    if(title && link) items.push({ title, link, desc, pubDate, source: sourceName });
+    const image = extractImage(block, descRaw);
+    if(title && link) items.push({ title, link, desc, pubDate, source: sourceName, image });
   }
   return items;
 }
@@ -113,7 +124,8 @@ async function fetchTopStories(){
       time: item.pubDate ? fmtDate(item.pubDate) : '',
       headline: item.title,
       excerpt: firstWords(item.desc, 15),
-      link: item.link
+      link: item.link,
+      image: item.image || null
     };
   });
 }
@@ -177,6 +189,7 @@ function articlePageHTML(story){
   blockquote{border-left:3px solid var(--lime);margin:0 0 22px;padding:4px 0 4px 16px;color:var(--ink-dim);font-style:italic;font-size:17px;line-height:1.5;}
   .note{font-size:14.5px;color:var(--ink-dim);line-height:1.6;margin-bottom:26px;}
   .cta{display:inline-block;background:var(--lime);color:#0A1811;text-decoration:none;font-weight:bold;padding:12px 22px;border-radius:4px;font-family:'Arial Narrow',Arial,Helvetica,sans-serif;font-size:15px;letter-spacing:0.3px;}
+  .article-img{width:100%;height:200px;object-fit:cover;border-radius:6px;margin:16px 0;display:block;}
 </style>
 </head>
 <body>
@@ -184,6 +197,7 @@ function articlePageHTML(story){
 <div class="wrap">
   <div class="tag-row"><span class="dot" style="background:${story.dot}"></span>${escHtml(story.league)} · ${escHtml(story.source)}${story.time ? ' · ' + story.time : ''}</div>
   <h1>${escHtml(story.headline)}</h1>
+  ${story.image ? `<img class="article-img" src="${story.image}" alt="">` : ''}
   ${story.excerpt ? `<blockquote>"${escHtml(story.excerpt)}"</blockquote>` : ''}
   <p class="note">This is a short excerpt. ${escHtml(story.source)} has the complete, original reporting — tap below to read it in full.</p>
   <a class="cta" href="${story.link}" target="_blank" rel="noopener">Read the full story at ${escHtml(story.source)} →</a>
