@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-07T13:56:10.661Z",
+  "updatedAt": "2026-09-07T14:05:33.580Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 7",
-    "headline": "American consortium cleared to buy Shrewsbury",
-    "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
+    "headline": "Angry Real Madrid boss Mourinho lashes out at integrity of VAR as backlash to Betis defeat continues",
+    "excerpt": "Jose Mourinho has claimed Real Madrid were hard done to against Real Betis - and…",
+    "link": "https://www.101greatgoals.com/football/la-liga/angry-real-madrid-boss-jose-mourinho-lashes-out-at-integrity-var-backlash-betis-defeat-continues/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 7",
+      "headline": "American consortium cleared to buy Shrewsbury",
+      "excerpt": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/6f67cc40-aa38-11f1-9023-2129273d2865.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ea/live/f9220eb0-aab4-11f1-bdcc-b5edf6495ed5.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/bf86be70fca3b2fb1ed24c22714868406b427569/579_0_4887_3910/master/4887.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bfd575c2450a261897cc5df0727336e"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/b9f11e0d1a81ce96d1c45d09c4f71bd3fed866e8/0_395_2732_2183/master/2732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6db10a2135c127ec57ad1a598b4e8116"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/c22e1942058c502510de58dbcc115ef96fc3eb20/1183_490_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cee9eb3837b7219c865c519efb3edfa"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -77,17 +88,6 @@
       "excerpt": "Red Star Belgrade fans unveil a tifo of war criminal Ratko Mladic before their derby…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3596/live/ee8808c0-aaae-11f1-9eba-7de947fa7cd1.jpg"
-    },
-    {
-      "id": "story-7",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 7",
-      "headline": "Real Madrid v Inter: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Real Madrid face Inter Milan in the Champions League on Tuesday. Read our in-depth preview…",
-      "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/real-madrid-v-inter-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-8",
