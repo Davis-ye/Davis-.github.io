@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T19:23:19.438Z",
+  "updatedAt": "2026-09-08T19:33:10.314Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "Porto v Manchester City: Champions League – live",
-    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/1deffe0b0eb18e7cce09e345e3b4768dc2687a8d/368_112_2123_1699/master/2123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64e1301ae37cb9f58b47db391969f8e6"
+    "headline": "WATCH: Mbappe fires Real Madrid in front vs Inter Milan after sloppy Curtis Jones mistake",
+    "excerpt": "Mbappe punished Jones' sloppy pass to put Real Madrid ahead",
+    "link": "https://www.101greatgoals.com/news/watch-mbappe-fires-real-madrid-in-front-vs-inter-milan-after-sloppy-curtis-jones-mistake/",
+    "image": null
   },
   "topStories": [
     {
@@ -21,10 +21,21 @@
       "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
       "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
       "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "image": "https://i.guim.co.uk/img/media/12c41ff8a795ec28b3f7adb348035017264f60d8/555_0_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b634fae94fe967bbd58b49e43e811003"
+      "image": "https://i.guim.co.uk/img/media/d4771ba40201b51c9e9894846a36a0974c8f746a/658_136_3646_2916/master/3646.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7101da40d671c3e7ac3b16d42cc1fc3e"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/1deffe0b0eb18e7cce09e345e3b4768dc2687a8d/368_112_2123_1699/master/2123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64e1301ae37cb9f58b47db391969f8e6"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<p></p><p>Aston Villa were 3-1 up after 43 minutes but were made to sweat for their…",
       "link": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 8",
-      "headline": "Club Brugge 2-3 Aston Villa: Report, result and goals as Villa make winning start in Champions League",
-      "excerpt": "Catch up on all the action from Club Brugge vs Aston Villa in the Champions…",
-      "link": "https://www.101greatgoals.com/football/champions-league/club-brugge-aston-villa-report-result-goals-champions-league-26-27/",
-      "image": null
     },
     {
       "id": "story-4",
