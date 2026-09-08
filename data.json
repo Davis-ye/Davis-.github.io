@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T20:10:47.425Z",
+  "updatedAt": "2026-09-08T20:24:17.330Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-    "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    "headline": "Porto v Manchester City: Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/1c65b7bffd3b0ad2b3dd2a45576221d487af8858/0_256_1991_1593/master/1991.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2bd2b8c7c8da67d8c7f8e6480eedcdf"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/35f773a0be99a0cbf6b0d833f274035002bf8e5d/156_0_3149_2519/master/3149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b91031cd43872ff2a1829cd145198067"
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
     },
     {
       "id": "story-2",
@@ -227,7 +227,7 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+      "headline": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
       "excerpt": "<ul><li><p>Midfielder rejected chance to leave the club in summer</p></li><li><p>‘ I will give 100% until my…",
       "link": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
       "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
