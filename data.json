@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T11:20:49.455Z",
+  "updatedAt": "2026-09-08T11:33:28.026Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "More than 100,000 people add names to complaint against Gianni Infantino",
-    "excerpt": "<ul><li><p>Letter alleges Fifa president ‘has abused his power’</p></li><li><p>Donald Trump links and FFE scandal among objections</p></li></ul><p>More…",
-    "link": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
-    "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
+    "headline": "Liverpool v Atletico Madrid: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Liverpool face Atletico Madrid in the Champions League on Wednesday night. Read our in-depth preview…",
+    "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/liverpool-v-atletico-madrid-preview-expected-line-ups-stats-and-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "More than 100,000 people add names to complaint against Gianni Infantino",
+      "excerpt": "<ul><li><p>Letter alleges Fifa president ‘has abused his power’</p></li><li><p>Donald Trump links and FFE scandal among objections</p></li></ul><p>More…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
+      "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/67d114500646f99a7cf8f3c5ce7021a48aefc1a0/386_0_5643_4517/master/5643.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5f180d660efa594d90204ca56bd5e1"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/c6565f80fb6336e1b80556d5ffb422e98176b938/305_85_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=361784baee11d95e48f189bcfed94e36"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/dbb3bbd902edb6766eff6b56090de2f7b73b74d0/57_1757_928_742/master/928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b3bdcfd5e376153bd44e54e2f2f8b52"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 8",
-      "headline": "Liverpool boost revenue after striking record deal with Turkish Airlines",
-      "excerpt": "Liverpool's revenue will be enhanced by a new deal with Turkish Airlines",
-      "link": "https://www.101greatgoals.com/football/premier-league/liverpool-boost-revenue-after-striking-record-deal-with-turkish-airlines/",
-      "image": null
     },
     {
       "id": "story-7",
