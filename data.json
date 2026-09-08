@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-08T21:37:25.977Z",
+  "updatedAt": "2026-09-08T21:46:48.639Z",
   "hero": {
     "id": "story-0",
-    "league": "Bundesliga",
-    "dot": "#FFC469",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "Champions League: Dortmund and Betis win five-goal thrillers",
-    "excerpt": "Troy Parrott and Serhou Guirassy were the heroes",
-    "link": "https://www.101greatgoals.com/football/champions-league/champions-league-dortmund-and-betis-win-five-goal-thrillers/",
+    "headline": "Carabao Cup: Wins for Newcastle, Palace, Sunderland and Bournemouth in third round",
+    "excerpt": "A host of Premier League sides secured victories in the Carabao Cup third round on…",
+    "link": "https://www.101greatgoals.com/football/carabao-cup-wins-for-newcastle-palace-sunderland-and-bournemouth-in-third-round/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
-      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+      "headline": "Mbappé and Valverde fire Real Madrid to Champions League win against Inter",
+      "excerpt": "<p>Sometimes football is silly and sometimes it is more fun for it. On a night…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/eff43b57f3db2e134f1dd599d03bf7ead49a2244/562_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82b68398875afcad1787b52b6983ad6d"
     },
     {
       "id": "story-2",
@@ -60,6 +60,17 @@
       "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 8",
+      "headline": "Liverpool monitoring Thiaw -Wednesday's gossip",
+      "excerpt": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0759/live/cf77aa80-abc1-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
       "headline": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/5e98115c9132ac5efa8107a0789efd54844ee150/283_0_5505_4404/master/5505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a942bac6796d1e4c3c29ddc83fbb9a6"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd07/live/14b54d60-abc1-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/febee8dea7b7e00a4aac98c7ce671dbadf19ec9a/529_0_4658_3727/master/4658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0e5a69e996cb8988d88fcc0ac1f2f6"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/master/4994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4805bdae9570de0da5ec918c954f233"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7031/live/68e18ea0-ab97-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd957b6dfbe99247206cf0a4cbf88e3c"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/2a3433aea1618ecf2b227ecc6d566a5c4af2f9ef/313_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0ffcc3238e0403135f3f2c409cb3c8"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Dundee forward face spells on the sidelines as Celtic forward set for Colombia call-up.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cnvlmg4544po?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Rangers lose Shankland for up to four months",
-      "excerpt": "Rangers captain Lawrence Shankland will be out for up to four months because of a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "scoreboard": [
@@ -324,7 +324,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     }
   ]
