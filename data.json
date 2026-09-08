@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-08T17:59:22.372Z",
+  "updatedAt": "2026-09-08T18:14:40.269Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Real Madrid vs Inter Milan: Line-ups confirmed as Mourinho faces old side",
-    "excerpt": "Catch up with all the team news ahead of Real Madrid vs Inter Milan in…",
-    "link": "https://www.101greatgoals.com/football/champions-league/real-madrid-vs-inter-milan-line-ups-confirmed/",
-    "image": null
+    "headline": "Club Brugge v Aston Villa: Champions League – live",
+    "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
+    },
+    {
+      "id": "story-2",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Sep 8",
+      "headline": "Real Madrid vs Inter Milan: Line-ups confirmed as Mourinho faces old side",
+      "excerpt": "Catch up with all the team news ahead of Real Madrid vs Inter Milan in…",
+      "link": "https://www.101greatgoals.com/football/champions-league/real-madrid-vs-inter-milan-line-ups-confirmed/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,18 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Club Brugge v Aston Villa: Champions League – live",
-      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/b495ad5d9d93fee9bea7f7dc214f8d853c33d6db/184_0_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8d17ce81b003859cd83c420730ee495"
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
     },
     {
       "id": "story-5",
