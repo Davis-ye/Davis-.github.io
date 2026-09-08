@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T08:26:08.202Z",
+  "updatedAt": "2026-09-08T08:39:41.818Z",
   "hero": {
     "id": "story-0",
     "league": "La Liga",
@@ -91,6 +91,17 @@
     },
     {
       "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "No major World Cup regrets, says Tony Popovic, despite shootout heartbreak",
+      "excerpt": "<p>In his first appearance in front of the media since the last-32 defeat to Egypt…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/tony-popovic-socceroos-coach-world-cup-no-regrest-penalty-shootout-disappointment",
+      "image": "https://i.guim.co.uk/img/media/61ebfbf8b920b546b58d066fa271c965895cc82c/218_0_3843_3074/master/3843.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b53118c435f3623e36c5ebd6d7395936"
+    },
+    {
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa4/live/abd70990-aac2-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/55b40cf0-aae2-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eff/live/493ba1b0-aaea-11f1-a61e-916077783957.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ead/live/19906ea0-ab08-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/9c94829e3cff1e3a02d6ad9ef376232ea935cb68/479_0_4549_3640/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3e095580a3e7c88f96bffadbb91194"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "101 Great Goals",
@@ -178,7 +189,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FFBXRY-2.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/f8a72dc8ec2b3528ecbe34be34a86357ee7aa146/214_0_3216_2574/master/3216.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0861eea1cdb40c6ea9f6e0eeb0a57515"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/26b13769d08500e52c3f5fe3045597719fc82c83/446_36_2516_2014/master/2516.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1ee742246daf044ce272ad4ecc620a4"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/896_263_6196_4957/master/6196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=947f58a90b5aa16e9d526271d3f0ad9f"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27be/live/881e3a20-aade-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>Former footballer accused of attack outside golf club</p></li><li><p>His trial has been pushed back to March…",
       "link": "https://www.theguardian.com/football/2026/sep/07/joey-barton-to-remain-in-custody-until-trial-after-bail-application-turned-down",
       "image": "https://i.guim.co.uk/img/media/adc91a8db127b0725f1666cec99d531c1a289832/0_100_1919_1534/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f0d20c0d05bc99c06e196d58d16996f"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 7",
-      "headline": "Chelsea explored move for Fulham midfielder Berge",
-      "excerpt": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c295/live/7f825250-aad1-11f1-aa35-df10e5ff32f4.jpg"
     }
   ],
   "scoreboard": [
