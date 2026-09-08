@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T06:04:45.023Z",
+  "updatedAt": "2026-09-08T06:25:48.834Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -16,6 +16,17 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Newcastle admit they started planning for Eddie Howe’s exit at start of year",
+      "excerpt": "<ul><li><p>Manager made surprise decision to step down in July</p></li><li><p>Sporting director disappointed to lose Bruno Guimarães</p></li></ul><p>Newcastle’s…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/eddie-howe-newcastle-exit-timing-matthias-jaissle-bruno-guimaraes-ross-wilson",
+      "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 8",
       "headline": "No goals but Emery knows Villa's forwards need time",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa4/live/abd70990-aac2-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/55b40cf0-aae2-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eff/live/493ba1b0-aaea-11f1-a61e-916077783957.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ead/live/19906ea0-ab08-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/9c94829e3cff1e3a02d6ad9ef376232ea935cb68/479_0_4549_3640/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3e095580a3e7c88f96bffadbb91194"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "101 Great Goals",
@@ -90,7 +101,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FFBXRY-2.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/f8a72dc8ec2b3528ecbe34be34a86357ee7aa146/214_0_3216_2574/master/3216.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0861eea1cdb40c6ea9f6e0eeb0a57515"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/26b13769d08500e52c3f5fe3045597719fc82c83/446_36_2516_2014/master/2516.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1ee742246daf044ce272ad4ecc620a4"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/896_263_6196_4957/master/6196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=947f58a90b5aa16e9d526271d3f0ad9f"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27be/live/881e3a20-aade-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/adc91a8db127b0725f1666cec99d531c1a289832/0_100_1919_1534/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f0d20c0d05bc99c06e196d58d16996f"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c295/live/7f825250-aad1-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/702e/live/a2620e90-aaaf-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514d/live/edf010b0-aabd-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/b2ae5518e79142b3b63ecd3aed5f81bc0485c35e/221_0_4983_3985/master/4983.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbe1db91f3c54054d33e9106c9fa9fde"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6a/live/a6573000-aacf-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/9735956f2c652f41ebc170625d1a334aa7b7b82e/737_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f3219e6ce5e3fa13c7b31f1c2e582f5"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "The former footballer, who is accused of an assault at a golf club, has been…",
       "link": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271a/live/0a813c80-1c71-11f1-8206-178b2777dfa1.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 7",
-      "headline": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
-      "excerpt": "<p>It’s still very early but Mikel Arteta’s side are playing with an authority and freshness…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better",
-      "image": "https://i.guim.co.uk/img/media/88cfbd62e262625d803affa446eb9b57d16b0412/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e23ada2b286ced1376a590c0d7bba4"
     }
   ],
   "scoreboard": [
