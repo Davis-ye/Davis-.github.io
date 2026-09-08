@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T18:48:51.867Z",
+  "updatedAt": "2026-09-08T18:59:03.848Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Club Brugge 2-3 Aston Villa: Report, result and goals as Villa make winning start in Champions League",
-    "excerpt": "Catch up on all the action from Club Brugge vs Aston Villa in the Champions…",
-    "link": "https://www.101greatgoals.com/football/champions-league/club-brugge-aston-villa-report-result-goals-champions-league-26-27/",
-    "image": null
+    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+    "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Club Brugge v Aston Villa: Champions League – live",
-      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/a4af9f8997187bc58124e5a7e557ed08309ea690/642_0_4444_3556/master/4444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=934549d85bf74fe98b47d12d3307503d"
     },
     {
       "id": "story-2",
@@ -29,21 +29,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbroigh, Sunderland v Hull</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
+      "headline": "Club Brugge 2-3 Aston Villa: Champions League – live",
+      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
     },
     {
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
+      "headline": "Club Brugge 2-3 Aston Villa: Report, result and goals as Villa make winning start in Champions League",
+      "excerpt": "Catch up on all the action from Club Brugge vs Aston Villa in the Champions…",
+      "link": "https://www.101greatgoals.com/football/champions-league/club-brugge-aston-villa-report-result-goals-champions-league-26-27/",
+      "image": null
     },
     {
       "id": "story-4",
@@ -284,7 +284,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     },
     {
