@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-08T15:53:44.631Z",
+  "updatedAt": "2026-09-08T16:01:57.178Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "How is the Ballon d'Or winner decided?",
-    "excerpt": "Voting for the Ballon d'Or has undergone some significant change over the years.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g7jynnydlo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
+    "headline": "LIVE &#8211; Club Brugge v Aston Villa: Commentary, updates, goals and stats",
+    "excerpt": "Aston Villa open their Champions League campaign in Belgium against Club Brugge tonight. Get live…",
+    "link": "https://www.101greatgoals.com/live/live-club-brugge-v-aston-villa-commentary-updates-goals-stream-stats/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "Club Brugge v Aston Villa: Confirmed team news and full line-ups",
-      "excerpt": "Aston Villa take on Club Brugge in the Champions League tonight. Get all the confirmed…",
-      "link": "https://www.101greatgoals.com/football/champions-league/club-brugge-v-aston-villa-confirmed-team-news-stream-full-line-ups/",
-      "image": null
+      "headline": "How is the Ballon d'Or winner decided?",
+      "excerpt": "Voting for the Ballon d'Or has undergone some significant change over the years.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g7jynnydlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
     },
     {
       "id": "story-2",
