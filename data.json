@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:01:36.685Z",
+  "updatedAt": "2026-09-08T22:15:53.838Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -29,7 +29,7 @@
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Mbappé and Valverde fire Real Madrid to Champions League win against Inter",
+      "headline": "Real Madrid cling on to beat Inter on Mourinho’s big Champions League night",
       "excerpt": "<p>Sometimes football is silly and sometimes it is more fun for it. On a night…",
       "link": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/eff43b57f3db2e134f1dd599d03bf7ead49a2244/562_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82b68398875afcad1787b52b6983ad6d"
@@ -52,9 +52,9 @@
       "source": "The Guardian",
       "time": "Sep 8",
       "headline": "Newcastle progress as Joe Willock strikes late to see off Millwall",
-      "excerpt": "<p>Newcastle United did just enough to progress to the next round of the Carabao Cup…",
+      "excerpt": "<p>Newcastle United did just enough in south-east London to progress to the next round of…",
       "link": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
-      "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/335_0_3353_2682/master/3353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98402bce7c65a31b7a2a4e6b5f3a9ca5"
+      "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/15_266_2770_2215/master/2770.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1befdf756fbf0bfb6cb45287f296740"
     },
     {
       "id": "story-5",
@@ -324,7 +324,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     }
   ]
