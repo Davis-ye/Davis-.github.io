@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T17:22:13.045Z",
+  "updatedAt": "2026-09-08T17:33:14.563Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 8",
-    "headline": "Club Brugge v Aston Villa: Champions League – live",
-    "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/b495ad5d9d93fee9bea7f7dc214f8d853c33d6db/184_0_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8d17ce81b003859cd83c420730ee495"
+    "headline": "When will Africa get its next Ballon d'Or winner?",
+    "excerpt": "Sadio Mane and Achraf Hakimi have been nominated for this year's Ballon d'Or - but…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2r1zg22j2o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea3/live/bf4f1a40-aba2-11f1-b109-879e35c24276.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Club Brugge v Aston Villa: Champions League – live",
+      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/b495ad5d9d93fee9bea7f7dc214f8d853c33d6db/184_0_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8d17ce81b003859cd83c420730ee495"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b534/live/c7c80400-ab9f-11f1-8e72-a346833ed029.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/febee8dea7b7e00a4aac98c7ce671dbadf19ec9a/529_0_4658_3727/master/4658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0e5a69e996cb8988d88fcc0ac1f2f6"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/master/4994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4805bdae9570de0da5ec918c954f233"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7031/live/68e18ea0-ab97-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd957b6dfbe99247206cf0a4cbf88e3c"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/2a3433aea1618ecf2b227ecc6d566a5c4af2f9ef/313_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0ffcc3238e0403135f3f2c409cb3c8"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de53/live/8605a830-ab7f-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3580/live/3cb0cf60-ab80-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Como chiefs giving up seats to older fans for Champions League debut",
-      "excerpt": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg7kj9r7vzro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b14/live/55a90d00-ab7d-11f1-8e51-e5fcf5842a15.jpg"
     }
   ],
   "scoreboard": [
