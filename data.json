@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-08T09:15:53.175Z",
+  "updatedAt": "2026-09-08T09:30:40.909Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 8",
-    "headline": "Liverpool boost revenue after striking record deal with Turkish Airlines",
-    "excerpt": "Liverpool's revenue will be enhanced by a new deal with Turkish Airlines",
-    "link": "https://www.101greatgoals.com/football/premier-league/liverpool-boost-revenue-after-striking-record-deal-with-turkish-airlines/",
-    "image": null
+    "headline": "Wycombe sack boss Duff after winless start",
+    "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 8",
+      "headline": "Manager ins and outs - 2026-27",
+      "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 8",
+      "headline": "Liverpool boost revenue after striking record deal with Turkish Airlines",
+      "excerpt": "Liverpool's revenue will be enhanced by a new deal with Turkish Airlines",
+      "link": "https://www.101greatgoals.com/football/premier-league/liverpool-boost-revenue-after-striking-record-deal-with-turkish-airlines/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/25ba936e223ba1f0411546abb4af4b54bbb04855/0_30_2596_2076/master/2596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fc6e29f156a9b97a72b2a50fee21b83"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/2eb09a30-ab5d-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df01/live/9bb70e90-aad4-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c548/live/985f7d20-a879-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/72c9c1736ff31938075736d5f5134f4fb1dcab4e/296_0_3841_3073/master/3841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32900df58b6827cfebc3cfeca4ad52ba"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8hp5n.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39d/live/43ee65b0-ab4b-11f1-8e27-d7d44e0117ca.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/a87c95b0-55d8-11f1-bb1a-df2243910f20.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e039/live/b0ba31e0-ab4d-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/61ebfbf8b920b546b58d066fa271c965895cc82c/218_0_3843_3074/master/3843.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b53118c435f3623e36c5ebd6d7395936"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa4/live/abd70990-aac2-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/55b40cf0-aae2-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eff/live/493ba1b0-aaea-11f1-a61e-916077783957.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ead/live/19906ea0-ab08-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,59 +233,37 @@
       "image": "https://i.guim.co.uk/img/media/9c94829e3cff1e3a02d6ad9ef376232ea935cb68/479_0_4549_3640/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3e095580a3e7c88f96bffadbb91194"
     },
     {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 7",
-      "headline": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
-      "excerpt": "<p>Manager remains calm despite his side taking one point and scoring no goals in opening…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
-      "image": "https://i.guim.co.uk/img/media/f8a72dc8ec2b3528ecbe34be34a86357ee7aa146/214_0_3216_2574/master/3216.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0861eea1cdb40c6ea9f6e0eeb0a57515"
-    },
-    {
-      "id": "story-20",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "BBC Sport",
-      "time": "Sep 7",
-      "headline": "Champions League returns - who are favourites and players to watch?",
-      "excerpt": "The Champions League is back and BBC Sport takes a look at who the favourites…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg"
-    },
-    {
       "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "101 Great Goals",
       "time": "Sep 7",
-      "headline": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
-      "excerpt": "<p>Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
-      "image": "https://i.guim.co.uk/img/media/26b13769d08500e52c3f5fe3045597719fc82c83/446_36_2516_2014/master/2516.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1ee742246daf044ce272ad4ecc620a4"
+      "headline": "European round-up: Lazio continue 100 per cent start with late turnaround",
+      "excerpt": "Lazio will next face Milan as they aim to maintain their perfect record.",
+      "link": "https://www.101greatgoals.com/football/serie-a/lazio-perfect-sociedad/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FFBXRY-2.jpg"
     },
     {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "talkSPORT",
       "time": "Sep 7",
-      "headline": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
-      "excerpt": "<p>As he prepares for the upcoming international window, the US head coach spoke about Folarin…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach",
-      "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/896_263_6196_4957/master/6196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=947f58a90b5aa16e9d526271d3f0ad9f"
+      "headline": "Danny Murphy: Liverpool duo are Andoni Iraola&#8217;s biggest problem, they aren&#8217;t good enough and this is where they&#8217;re really poor",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4564700/jeremie-frimpong-milos-kerkez-danny-murphy-liverpool-problems/",
+      "image": null
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
       "time": "Sep 7",
-      "headline": "Motherwell fail to cut fine for Celtic penalty reaction",
-      "excerpt": "Motherwell fail in an attempt to reduce a £5,000 fine for their reaction to a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zng3de43o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27be/live/881e3a20-aade-11f1-aa35-df10e5ff32f4.jpg"
+      "headline": "Man City: Maresca provides optimistic updates on O&#8217;Reilly and Doku with derby on horizon",
+      "excerpt": "O'Reilly was injured in the warm-up at the weekend. Doku has not played in the…",
+      "link": "https://www.101greatgoals.com/football/premier-league/city-maresca-updates/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FD6FP5-2.jpg"
     }
   ],
   "scoreboard": [
