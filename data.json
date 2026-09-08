@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:17:12.496Z",
+  "updatedAt": "2026-09-08T21:27:34.215Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -18,13 +18,24 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Porto 0-2 Manchester City: Champions League – live reaction",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/1c65b7bffd3b0ad2b3dd2a45576221d487af8858/0_256_1991_1593/master/1991.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2bd2b8c7c8da67d8c7f8e6480eedcdf"
+      "headline": "Haaland double gives Manchester City ideal Champions League start in Porto",
+      "excerpt": "<p>Enzo Maresca admitted a liking for the “boom-boom” of house music, then oversaw a gritty…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/05a1a753274e735e357533293402fd1f518fd814/234_0_2703_2163/master/2703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d782b05c4a5df752d320465b17cdc1c5"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Newcastle progress as Joe Willock strikes late to see off Millwall",
+      "excerpt": "<p>Newcastle United did just enough to progress to the next round of the Carabao Cup…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/335_0_3353_2682/master/3353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98402bce7c65a31b7a2a4e6b5f3a9ca5"
+    },
+    {
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d692/live/76f5ea40-abc9-11f1-a601-7d96c5d5b6ea.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/5e98115c9132ac5efa8107a0789efd54844ee150/283_0_5505_4404/master/5505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a942bac6796d1e4c3c29ddc83fbb9a6"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -77,17 +88,6 @@
       "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-    },
-    {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "When will Africa get its next Ballon d'Or winner?",
-      "excerpt": "Sadio Mane and Achraf Hakimi have been nominated for this year's Ballon d'Or - but…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2r1zg22j2o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea3/live/bf4f1a40-aba2-11f1-b109-879e35c24276.png"
     },
     {
       "id": "story-8",
@@ -324,7 +324,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     }
   ]
