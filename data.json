@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-08T11:05:21.309Z",
+  "updatedAt": "2026-09-08T11:20:49.455Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Wycombe sack boss Duff after winless start",
-    "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
+    "headline": "More than 100,000 people add names to complaint against Gianni Infantino",
+    "excerpt": "<ul><li><p>Letter alleges Fifa president ‘has abused his power’</p></li><li><p>Donald Trump links and FFE scandal among objections</p></li></ul><p>More…",
+    "link": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
+    "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "‘Girl’s day’ controversy reignites debate over how women are treated in South Korean football",
+      "excerpt": "<p>A referee is alleged to have made a remark referring to menstruation that has revived…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/girls-day-controversy-debate-womens-football-south-korea",
+      "image": "https://i.guim.co.uk/img/media/67d114500646f99a7cf8f3c5ce7021a48aefc1a0/386_0_5643_4517/master/5643.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5f180d660efa594d90204ca56bd5e1"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 8",
+      "headline": "Wycombe sack boss Duff after winless start",
+      "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/c6565f80fb6336e1b80556d5ffb422e98176b938/305_85_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=361784baee11d95e48f189bcfed94e36"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/dbb3bbd902edb6766eff6b56090de2f7b73b74d0/57_1757_928_742/master/928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b3bdcfd5e376153bd44e54e2f2f8b52"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/25ba936e223ba1f0411546abb4af4b54bbb04855/0_30_2596_2076/master/2596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fc6e29f156a9b97a72b2a50fee21b83"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/2eb09a30-ab5d-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df01/live/9bb70e90-aad4-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c548/live/985f7d20-a879-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/72c9c1736ff31938075736d5f5134f4fb1dcab4e/296_0_3841_3073/master/3841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32900df58b6827cfebc3cfeca4ad52ba"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8hp5n.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39d/live/43ee65b0-ab4b-11f1-8e27-d7d44e0117ca.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/a87c95b0-55d8-11f1-bb1a-df2243910f20.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e039/live/b0ba31e0-ab4d-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/61ebfbf8b920b546b58d066fa271c965895cc82c/218_0_3843_3074/master/3843.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b53118c435f3623e36c5ebd6d7395936"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024d/live/6ba67470-ab6a-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/55b40cf0-aae2-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eff/live/493ba1b0-aaea-11f1-a61e-916077783957.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Federico Chiesa's future at Liverpool is in doubt, Jadon Sancho might return to the Premier…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy87d2lj9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ead/live/19906ea0-ab08-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 7",
-      "headline": "Maresca eyes rest for busy dad Haaland as Manchester City prepare for Porto",
-      "excerpt": "<ul><li><p>Norwegian forward has played every minute of season</p></li><li><p>Parenting duties have changed player’s ‘priorities’</p></li></ul><p>Enzo Maresca believes…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/enzo-maresca-erling-haaland-manchester-city-porto-champions-league",
-      "image": "https://i.guim.co.uk/img/media/9c94829e3cff1e3a02d6ad9ef376232ea935cb68/479_0_4549_3640/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3e095580a3e7c88f96bffadbb91194"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 7",
-      "headline": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
-      "excerpt": "<p>Manager remains calm despite his side taking one point and scoring no goals in opening…",
-      "link": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
-      "image": "https://i.guim.co.uk/img/media/f8a72dc8ec2b3528ecbe34be34a86357ee7aa146/214_0_3216_2574/master/3216.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0861eea1cdb40c6ea9f6e0eeb0a57515"
     }
   ],
   "scoreboard": [
