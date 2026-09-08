@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-08T09:55:01.886Z",
+  "updatedAt": "2026-09-08T10:03:21.717Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 8",
-    "headline": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
-    "excerpt": "<ul><li><p>Turkish Airlines to replace Standard Chartered from 2027</p></li><li><p>Deal may be most lucrative in Premier League…",
-    "link": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
-    "image": "https://i.guim.co.uk/img/media/c6565f80fb6336e1b80556d5ffb422e98176b938/305_85_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=361784baee11d95e48f189bcfed94e36"
+    "headline": "Wycombe sack boss Duff after winless start",
+    "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Wycombe sack boss Duff after winless start",
-      "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "headline": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
+      "excerpt": "<ul><li><p>Turkish Airlines to replace Standard Chartered from 2027</p></li><li><p>Deal may be most lucrative in Premier League…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
+      "image": "https://i.guim.co.uk/img/media/c6565f80fb6336e1b80556d5ffb422e98176b938/305_85_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=361784baee11d95e48f189bcfed94e36"
     },
     {
       "id": "story-2",
