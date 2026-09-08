@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T17:43:44.987Z",
+  "updatedAt": "2026-09-08T17:52:14.365Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "All done deals in September 2026",
-    "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    "headline": "Porto vs Manchester City: Line-ups confirmed for Champions League clash",
+    "excerpt": "Catch up with all the team news ahead of Porto vs Manchester City in the…",
+    "link": "https://www.101greatgoals.com/football/champions-league/porto-vs-manchester-city-line-ups-confirmed/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbroigh, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,29 @@
       "image": "https://i.guim.co.uk/img/media/b495ad5d9d93fee9bea7f7dc214f8d853c33d6db/184_0_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8d17ce81b003859cd83c420730ee495"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 8",
+      "headline": "All done deals in September 2026",
+      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
+    },
+    {
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,18 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea3/live/bf4f1a40-aba2-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 8",
-      "headline": "WATCH: John McGinn gives Aston Villa in thriller with Brugge",
-      "excerpt": "Watch John McGinn score to give Aston Villa their first Champions League goal of the…",
-      "link": "https://www.101greatgoals.com/football/champions-league/watch-john-mcginn-gives-aston-villa-in-thriller-with-brugge/",
-      "image": null
-    },
-    {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b534/live/c7c80400-ab9f-11f1-8e72-a346833ed029.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/febee8dea7b7e00a4aac98c7ce671dbadf19ec9a/529_0_4658_3727/master/4658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0e5a69e996cb8988d88fcc0ac1f2f6"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/master/4994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4805bdae9570de0da5ec918c954f233"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7031/live/68e18ea0-ab97-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd957b6dfbe99247206cf0a4cbf88e3c"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/2a3433aea1618ecf2b227ecc6d566a5c4af2f9ef/313_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0ffcc3238e0403135f3f2c409cb3c8"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Rangers captain Lawrence Shankland will be out for up to four months because of a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "excerpt": "Legal action from the top European leagues and global players' union Fifpro against Fifa is…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de53/live/8605a830-ab7f-11f1-8e51-e5fcf5842a15.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Mac Allister 'sad' at no Liverpool contract offer",
-      "excerpt": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3580/live/3cb0cf60-ab80-11f1-8e51-e5fcf5842a15.jpg"
     }
   ],
   "scoreboard": [
