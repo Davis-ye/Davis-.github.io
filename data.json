@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T18:14:40.269Z",
+  "updatedAt": "2026-09-08T18:32:19.739Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "Club Brugge v Aston Villa: Champions League – live",
-    "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
+    "headline": "LIVE &#8211; Porto v Manchester City: Commentary, updates, goals and stats",
+    "excerpt": "Manchester City open their Champions League campaign against Porto tonight. Follow all the action from…",
+    "link": "https://www.101greatgoals.com/live/live-porto-v-manchester-city-commentary-updates-goals-stream-stats/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
+      "headline": "Club Brugge v Aston Villa: Champions League – live",
+      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
       "headline": "Porto v Manchester City: Champions League – live",
       "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
       "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
       "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
-    },
-    {
-      "id": "story-2",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 8",
-      "headline": "Real Madrid vs Inter Milan: Line-ups confirmed as Mourinho faces old side",
-      "excerpt": "Catch up with all the team news ahead of Real Madrid vs Inter Milan in…",
-      "link": "https://www.101greatgoals.com/football/champions-league/real-madrid-vs-inter-milan-line-ups-confirmed/",
-      "image": null
     },
     {
       "id": "story-3",
