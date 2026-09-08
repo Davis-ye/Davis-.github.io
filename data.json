@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T19:10:53.843Z",
+  "updatedAt": "2026-09-08T19:23:19.438Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-    "image": "https://i.guim.co.uk/img/media/221b1214e5575961677ce3406f80a38fc72f2f96/26_38_2267_1814/master/2267.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f076889c778fe39057f98dcf7cda1f0"
+    "headline": "Porto v Manchester City: Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/1deffe0b0eb18e7cce09e345e3b4768dc2687a8d/368_112_2123_1699/master/2123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64e1301ae37cb9f58b47db391969f8e6"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/a4af9f8997187bc58124e5a7e557ed08309ea690/642_0_4444_3556/master/4444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=934549d85bf74fe98b47d12d3307503d"
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/12c41ff8a795ec28b3f7adb348035017264f60d8/555_0_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b634fae94fe967bbd58b49e43e811003"
     },
     {
       "id": "story-2",
@@ -32,7 +32,7 @@
       "headline": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
       "excerpt": "<p></p><p>Aston Villa were 3-1 up after 43 minutes but were made to sweat for their…",
       "link": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/444_0_3598_2879/master/3598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b19532df1516819a778d1a1e4a2db803"
+      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
     },
     {
       "id": "story-3",
@@ -284,7 +284,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0
     },
     {
