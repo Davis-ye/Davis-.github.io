@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:54:38.951Z",
+  "updatedAt": "2026-09-08T23:02:19.961Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -324,7 +324,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0
     }
   ]
