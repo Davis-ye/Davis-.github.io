@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-08T12:41:17.631Z",
+  "updatedAt": "2026-09-08T12:55:16.672Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "NFL: Gonzalez signs record deal to extend with Patriots",
-    "excerpt": "Christian Gonzalez has finally renewed with the New England Patriots.",
-    "link": "https://www.101greatgoals.com/nfl/nfl-gonzalez-signs-record-deal-to-extend-with-patriots/",
+    "headline": "Alexis Mac Allister &#8216;very sad&#8217; after Liverpool snub chance to offer him a new  contract",
+    "excerpt": "Alexis Mac Allister is willing to fight for his Liverpool future despite being overlooked for…",
+    "link": "https://www.101greatgoals.com/football/champions-league/alexis-mac-allister-very-sad-after-liverpool-snub-chance-to-offer-him-a-new-contract/",
     "image": null
   },
   "topStories": [
@@ -18,7 +18,7 @@
       "dot": "#A9E6A0",
       "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "McTominay heart procedure 'a complete success'",
+      "headline": "McTominay's heart procedure 'a complete success'",
       "excerpt": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg"
