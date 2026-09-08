@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-08T20:55:31.082Z",
+  "updatedAt": "2026-09-08T21:03:45.295Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-    "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    "headline": "Real Madrid 2-1 Inter Milan: Report, result and goals as Mbappe and Valverde secure victory",
+    "excerpt": "Catch up on all the action from Real Madrid vs Inter Milan in the Champions…",
+    "link": "https://www.101greatgoals.com/football/champions-league/real-madrid-inter-milan-report-result-goals-champions-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/1c65b7bffd3b0ad2b3dd2a45576221d487af8858/0_256_1991_1593/master/1991.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2bd2b8c7c8da67d8c7f8e6480eedcdf"
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,15 +24,26 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef22/live/c18a0230-abba-11f1-be3c-77d601a01c16.jpg"
     },
     {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "WATCH: Mbappe fires Real Madrid in front vs Inter Milan after sloppy Curtis Jones mistake",
-      "excerpt": "Mbappe punished Jones' sloppy pass to put Real Madrid ahead",
-      "link": "https://www.101greatgoals.com/football/champions-league/watch-mbappe-fires-real-madrid-in-front-vs-inter-milan-after-sloppy-curtis-jones-mistake/",
-      "image": null
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/1c65b7bffd3b0ad2b3dd2a45576221d487af8858/0_256_1991_1593/master/1991.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2bd2b8c7c8da67d8c7f8e6480eedcdf"
     },
     {
       "id": "story-4",
@@ -268,6 +268,36 @@
   ],
   "scoreboard": [
     {
+      "id": "score-575325",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 8",
+      "home": "Real Madrid CF",
+      "away": "FC Internazionale Milano",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "score-575326",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 8",
+      "home": "FC Porto",
+      "away": "Manchester City FC",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "id": "score-575328",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 8",
+      "home": "Lille OSC",
+      "away": "Real Betis Balompié",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
       "id": "score-575323",
       "league": "Champions League",
       "dot": "#F0C878",
@@ -296,36 +326,6 @@
       "away": "Real Sociedad de Fútbol",
       "homeScore": 2,
       "awayScore": 3
-    },
-    {
-      "id": "score-558617",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 7",
-      "home": "Udinese Calcio",
-      "away": "SS Lazio",
-      "homeScore": 1,
-      "awayScore": 2
-    },
-    {
-      "id": "score-564665",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Sep 7",
-      "home": "Getafe CF",
-      "away": "RC Celta de Vigo",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "score-558610",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 7",
-      "home": "Cagliari Calcio",
-      "away": "US Lecce",
-      "homeScore": 1,
-      "awayScore": 0
     }
   ]
 }
