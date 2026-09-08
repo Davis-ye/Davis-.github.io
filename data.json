@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T19:43:29.643Z",
+  "updatedAt": "2026-09-08T19:51:57.501Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-    "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    "headline": "Porto v Manchester City: Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/35f773a0be99a0cbf6b0d833f274035002bf8e5d/156_0_3149_2519/master/3149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b91031cd43872ff2a1829cd145198067"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Mbappe punished Jones' sloppy pass to put Real Madrid ahead",
       "link": "https://www.101greatgoals.com/football/champions-league/watch-mbappe-fires-real-madrid-in-front-vs-inter-milan-after-sloppy-curtis-jones-mistake/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live\">Real…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/35f773a0be99a0cbf6b0d833f274035002bf8e5d/156_0_3149_2519/master/3149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b91031cd43872ff2a1829cd145198067"
     },
     {
       "id": "story-3",
@@ -284,7 +284,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     },
     {
