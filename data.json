@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-08T20:35:47.241Z",
+  "updatedAt": "2026-09-08T20:46:45.851Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "From shot-shy to shoot on sight - Villa find a way to win",
-    "excerpt": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but…",
-    "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef22/live/c18a0230-abba-11f1-be3c-77d601a01c16.jpg"
+    "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+    "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
   },
   "topStories": [
     {
@@ -27,12 +27,12 @@
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+      "headline": "From shot-shy to shoot on sight - Villa find a way to win",
+      "excerpt": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef22/live/c18a0230-abba-11f1-be3c-77d601a01c16.jpg"
     },
     {
       "id": "story-3",
@@ -234,6 +234,17 @@
     },
     {
       "id": "story-21",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Sep 8",
+      "headline": "How to follow the Champions League on the BBC",
+      "excerpt": "The Champions League returns this week and you will be able to listen to commentary…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
+    },
+    {
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,23 +255,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Rangers lose Shankland for up to four months",
-      "excerpt": "Rangers captain Lawrence Shankland will be out for up to four months because of a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
       "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "Rangers' Shankland out for up to four months & may have surgery",
+      "headline": "Rangers lose Shankland for up to four months",
       "excerpt": "Rangers captain Lawrence Shankland will be out for up to four months because of a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
@@ -284,7 +284,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0
     },
     {
