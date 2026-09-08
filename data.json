@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:01:57.178Z",
+  "updatedAt": "2026-09-08T16:19:12.837Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Club Brugge v Aston Villa: Champions League – live",
+      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/50d69db1c3a30c0a973be4c706a79fdf39138c3c/0_0_4961_3969/master/4961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=391364a46764015759b96bc7b297abf9"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Club Brugge v Aston Villa: Champions League – live",
-      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/50d69db1c3a30c0a973be4c706a79fdf39138c3c/0_0_4961_3969/master/4961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=391364a46764015759b96bc7b297abf9"
     },
     {
       "id": "story-6",
