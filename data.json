@@ -1,30 +1,63 @@
 {
-  "updatedAt": "2026-09-08T14:32:01.933Z",
+  "updatedAt": "2026-09-08T14:46:57.242Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 8",
-    "headline": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
-    "excerpt": "<ul><li><p>Midfielder rejected chance to leave the club in summer</p></li><li><p>‘ I will give 100% until my…",
-    "link": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
-    "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
+    "headline": "Russo and Greenwood nominated for Ballon d'Or",
+    "excerpt": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "Chelsea v Leeds: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Chelsea host Leeds in the third round of the EFL Cup on Wednesday night. Read…",
-      "link": "https://www.101greatgoals.com/match-previews/chelsea-v-leeds-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
+      "headline": "Hogh and Tierney close to returns for Celtic",
+      "excerpt": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 8",
+      "headline": "Ballon d&#8217;Or: Full list of 30 nominees as Messi is included but Ronaldo snubbed",
+      "excerpt": "Lionel Messi will challenge the European elite to be named winner of the 2026 Ballon…",
+      "link": "https://www.101greatgoals.com/football/mls/ballon-dor-full-list-of-30-nominees-as-lionel-messi-harry-kane-kylian-mbappe-lamine-yamal-headline-leading-contenders/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
+      "excerpt": "<ul><li><p>Ten clubs could lose tens of millions of pounds next year</p></li><li><p>Ladbrokes owner highlights PM’s position…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+      "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd957b6dfbe99247206cf0a4cbf88e3c"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+      "excerpt": "<ul><li><p>Midfielder rejected chance to leave the club in summer</p></li><li><p>‘ I will give 100% until my…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
+      "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
+    },
+    {
+      "id": "story-5",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -35,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de53/live/8605a830-ab7f-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3580/live/3cb0cf60-ab80-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b14/live/55a90d00-ab7d-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/67d114500646f99a7cf8f3c5ce7021a48aefc1a0/386_0_5643_4517/master/5643.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5f180d660efa594d90204ca56bd5e1"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/dbb3bbd902edb6766eff6b56090de2f7b73b74d0/57_1757_928_742/master/928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b3bdcfd5e376153bd44e54e2f2f8b52"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/25ba936e223ba1f0411546abb4af4b54bbb04855/0_30_2596_2076/master/2596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fc6e29f156a9b97a72b2a50fee21b83"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/2eb09a30-ab5d-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df01/live/9bb70e90-aad4-11f1-aa35-df10e5ff32f4.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c548/live/985f7d20-a879-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/72c9c1736ff31938075736d5f5134f4fb1dcab4e/296_0_3841_3073/master/3841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32900df58b6827cfebc3cfeca4ad52ba"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Livingston pull the trigger as Rangers lose their Captain",
       "link": "https://www.bbc.co.uk/sounds/play/p0p8hp52?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8hp5n.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Como renew striker's contract after cancer diagnosis",
-      "excerpt": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39d/live/43ee65b0-ab4b-11f1-8e27-d7d44e0117ca.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Non-league to Champions League: The Porto boss out to stun Man City",
-      "excerpt": "Porto boss Francesco Farioli is one of the most highly regarded young managers and on…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/a87c95b0-55d8-11f1-bb1a-df2243910f20.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Newcastle were 'preparing for months' for Howe departure",
-      "excerpt": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg"
     }
   ],
   "scoreboard": [
