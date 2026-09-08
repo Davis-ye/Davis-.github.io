@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-08T18:32:19.739Z",
+  "updatedAt": "2026-09-08T18:48:51.867Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "LIVE &#8211; Porto v Manchester City: Commentary, updates, goals and stats",
-    "excerpt": "Manchester City open their Champions League campaign against Porto tonight. Follow all the action from…",
-    "link": "https://www.101greatgoals.com/live/live-porto-v-manchester-city-commentary-updates-goals-stream-stats/",
+    "headline": "Club Brugge 2-3 Aston Villa: Report, result and goals as Villa make winning start in Champions League",
+    "excerpt": "Catch up on all the action from Club Brugge vs Aston Villa in the Champions…",
+    "link": "https://www.101greatgoals.com/football/champions-league/club-brugge-aston-villa-report-result-goals-champions-league-26-27/",
     "image": null
   },
   "topStories": [
@@ -29,10 +29,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Porto v Manchester City: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
+      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbroigh, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
     },
     {
       "id": "story-3",
@@ -40,10 +40,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
-      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbroigh, Sunderland v Hull</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c1edfecdcc5cc480eb5421b90bd0"
+      "headline": "Porto v Manchester City: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/08/champions-league-hype-machine-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74f9c551e8312ff0f3df6b723fbd3eca"
     },
     {
       "id": "story-4",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-575323",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 8",
+      "home": "Club Brugge KV",
+      "away": "Aston Villa FC",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "id": "score-575324",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 8",
+      "home": "PAE AEK",
+      "away": "LASK Linz",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
       "id": "score-564658",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -306,26 +326,6 @@
       "away": "US Lecce",
       "homeScore": 1,
       "awayScore": 0
-    },
-    {
-      "id": "score-564661",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Sep 6",
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Sevilla FC",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "score-558618",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 6",
-      "home": "Juventus FC",
-      "away": "AC Milan",
-      "homeScore": 1,
-      "awayScore": 1
     }
   ]
 }
