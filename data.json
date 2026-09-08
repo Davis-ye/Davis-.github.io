@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T14:16:50.304Z",
+  "updatedAt": "2026-09-08T14:32:01.933Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "Chelsea v Leeds: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "Chelsea host Leeds in the third round of the EFL Cup on Wednesday night. Read…",
-    "link": "https://www.101greatgoals.com/match-previews/chelsea-v-leeds-preview-expected-line-ups-stats-stream-where-to-watch/",
-    "image": null
+    "headline": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+    "excerpt": "<ul><li><p>Midfielder rejected chance to leave the club in summer</p></li><li><p>‘ I will give 100% until my…",
+    "link": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
+    "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 8",
+      "headline": "Chelsea v Leeds: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Chelsea host Leeds in the third round of the EFL Cup on Wednesday night. Read…",
+      "link": "https://www.101greatgoals.com/match-previews/chelsea-v-leeds-preview-expected-line-ups-stats-stream-where-to-watch/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,18 +57,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 8",
-      "headline": "Rangers' Shankland out for up to four months & may need surgery",
+      "headline": "Rangers' Shankland out for up to four months & may have surgery",
       "excerpt": "Rangers captain Lawrence Shankland will be out for up to four months because of a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de53/live/8605a830-ab7f-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3580/live/3cb0cf60-ab80-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b14/live/55a90d00-ab7d-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -132,17 +143,6 @@
       "excerpt": "<p>A referee is alleged to have made a remark referring to menstruation that has revived…",
       "link": "https://www.theguardian.com/football/2026/sep/08/girls-day-controversy-debate-womens-football-south-korea",
       "image": "https://i.guim.co.uk/img/media/67d114500646f99a7cf8f3c5ce7021a48aefc1a0/386_0_5643_4517/master/5643.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5f180d660efa594d90204ca56bd5e1"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
-      "excerpt": "<ul><li><p>Turkish Airlines to replace Standard Chartered from 2027</p></li><li><p>Deal may be most lucrative in Premier League…",
-      "link": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
-      "image": "https://i.guim.co.uk/img/media/c6565f80fb6336e1b80556d5ffb422e98176b938/305_85_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=361784baee11d95e48f189bcfed94e36"
     },
     {
       "id": "story-13",
