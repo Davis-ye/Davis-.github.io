@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-08T21:27:34.215Z",
+  "updatedAt": "2026-09-08T21:37:25.977Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Bundesliga",
+    "dot": "#FFC469",
+    "source": "101 Great Goals",
     "time": "Sep 8",
-    "headline": "Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
-    "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-    "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    "headline": "Champions League: Dortmund and Betis win five-goal thrillers",
+    "excerpt": "Troy Parrott and Serhou Guirassy were the heroes",
+    "link": "https://www.101greatgoals.com/football/champions-league/champions-league-dortmund-and-betis-win-five-goal-thrillers/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 8",
+      "headline": "Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
+      "excerpt": "<ul><li><p>Champions League: Lille v Betis, Dortmund v Villarreal</p></li><li><p>Carabao Cup: Palace v Middlesbrough, Sunderland v Hull</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+      "image": "https://i.guim.co.uk/img/media/055eb986bbf3d314221e894e919d47cc255ebcc4/868_391_1202_961/master/1202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05492186823670879a04961923e5e44c"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/05a1a753274e735e357533293402fd1f518fd814/234_0_2703_2163/master/2703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d782b05c4a5df752d320465b17cdc1c5"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<p>Newcastle United did just enough to progress to the next round of the Carabao Cup…",
       "link": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
       "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/335_0_3353_2682/master/3353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98402bce7c65a31b7a2a4e6b5f3a9ca5"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 8",
-      "headline": "Real Madrid 2-1 Inter Milan: Report, result and goals as Mbappe and Valverde secure victory",
-      "excerpt": "Catch up on all the action from Real Madrid vs Inter Milan in the Champions…",
-      "link": "https://www.101greatgoals.com/football/champions-league/real-madrid-inter-milan-report-result-goals-champions-league/",
-      "image": null
     },
     {
       "id": "story-4",
@@ -324,7 +324,7 @@
       "time": "Sep 8",
       "home": "PAE AEK",
       "away": "LASK Linz",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0
     }
   ]
