@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-09-08T16:19:12.837Z",
+  "updatedAt": "2026-09-08T16:35:22.137Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 8",
-    "headline": "LIVE &#8211; Club Brugge v Aston Villa: Commentary, updates, goals and stats",
-    "excerpt": "Aston Villa open their Champions League campaign in Belgium against Club Brugge tonight. Get live…",
-    "link": "https://www.101greatgoals.com/live/live-club-brugge-v-aston-villa-commentary-updates-goals-stream-stats/",
-    "image": null
+    "headline": "Club Brugge v Aston Villa: Champions League – live",
+    "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/50d69db1c3a30c0a973be4c706a79fdf39138c3c/0_0_4961_3969/master/4961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=391364a46764015759b96bc7b297abf9"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 8",
-      "headline": "Club Brugge v Aston Villa: Champions League – live",
-      "excerpt": "<p>⚽ Champions League news from the 5.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.instagram.com/guardian_sport/?hl=en\">Follow…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/50d69db1c3a30c0a973be4c706a79fdf39138c3c/0_0_4961_3969/master/4961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=391364a46764015759b96bc7b297abf9"
+      "headline": "Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
+      "excerpt": "<ul><li><p>Bellingham, Rice and Alex Greenwood also nominated</p></li><li><p>Ceremony to move from Paris to London for 2026…",
+      "link": "https://www.theguardian.com/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
+      "image": "https://i.guim.co.uk/img/media/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/master/4994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4805bdae9570de0da5ec918c954f233"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 8",
+      "headline": "LIVE &#8211; Club Brugge v Aston Villa: Commentary, updates, goals and stats",
+      "excerpt": "Aston Villa open their Champions League campaign in Belgium against Club Brugge tonight. Get live…",
+      "link": "https://www.101greatgoals.com/live/live-club-brugge-v-aston-villa-commentary-updates-goals-stream-stats/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/a8b38ff0-ab66-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7031/live/68e18ea0-ab97-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd957b6dfbe99247206cf0a4cbf88e3c"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/2a3433aea1618ecf2b227ecc6d566a5c4af2f9ef/313_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0ffcc3238e0403135f3f2c409cb3c8"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/72b049f2dace95c083d8db8519bf56a5de837547/196_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e727e0d38b8ebd5a9fba53da6a976604"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a843/live/a8b92250-ab73-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de53/live/8605a830-ab7f-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3580/live/3cb0cf60-ab80-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b14/live/55a90d00-ab7d-11f1-8e51-e5fcf5842a15.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/6ed46f769912e721ca59cc7547a9b91888f33a3a/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8a76f821b73238ef4d23f00c170f66f"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/67d114500646f99a7cf8f3c5ce7021a48aefc1a0/386_0_5643_4517/master/5643.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5f180d660efa594d90204ca56bd5e1"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>Our cartoonist imagines how the football great might while away the hours after calling time…",
       "link": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement",
       "image": "https://i.guim.co.uk/img/media/dbb3bbd902edb6766eff6b56090de2f7b73b74d0/57_1757_928_742/master/928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b3bdcfd5e376153bd44e54e2f2f8b52"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Manager ins and outs - 2026-27",
-      "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
     }
   ],
   "scoreboard": [
