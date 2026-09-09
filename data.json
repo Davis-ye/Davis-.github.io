@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-09T13:50:18.222Z",
+  "updatedAt": "2026-09-09T13:58:32.184Z",
   "hero": {
     "id": "story-0",
-    "league": "Bundesliga",
-    "dot": "#FFC469",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 9",
-    "headline": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
-    "excerpt": "<p>We assess the standing of the players on the shortlist for the award before the…",
-    "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
-    "image": "https://i.guim.co.uk/img/media/c6d70e5deb7935122b52388ca978e3acdbb3d744/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3034c8bf36e4cc1036c9321137bd41"
+    "headline": "Manchester United v Sabah: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Manchester United return to the Champions League against debutants Sabah. Read our preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/manchester-united-sabah-preview/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+      "excerpt": "<p>We assess the standing of the players on the shortlist for the award before the…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
+      "image": "https://i.guim.co.uk/img/media/c6d70e5deb7935122b52388ca978e3acdbb3d744/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3034c8bf36e4cc1036c9321137bd41"
+    },
+    {
+      "id": "story-2",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/cefc59600eada383144e673846ac60dead7779e2/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c320adaefb680715158cc27640d34b0"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd8c/live/b1576a20-ac3b-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "New England Patriots @ Seattle Seahawks: Preview, prediction and odds",
-      "excerpt": "The Seattle Seahawks host the New England Patriots in the season opener, read our in-depth…",
-      "link": "https://www.101greatgoals.com/nfl/patriots-seattle-seahawks-preview/",
-      "image": null
     },
     {
       "id": "story-5",
