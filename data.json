@@ -1,19 +1,151 @@
 {
-  "updatedAt": "2026-09-09T21:05:47.418Z",
+  "updatedAt": "2026-09-09T21:19:28.884Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "BBC Sport",
     "time": "Sep 9",
-    "headline": "Liverpool 2-1 Atletico Madrid: Report, result and goals as Reds come from behind",
-    "excerpt": "Catch up with all the action from Liverpool vs Atletico Madrid in the Champions League.",
-    "link": "https://www.101greatgoals.com/football/champions-league/liverpool-2-1-atletico-madrid-report-result-and-goals/",
-    "image": null
+    "headline": "Liverpool come from behind to beat Atletico Madrid",
+    "excerpt": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/12e6bbf0-ac92-11f1-b1d1-571ed4d7ff2c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "Torres hits hat-trick as holders PSG make crushing start in Champions League",
+      "excerpt": "World Cup final hero is at it again",
+      "link": "https://www.101greatgoals.com/news/torres-hits-hat-trick-as-holders-psg-make-crushing-start-in-champions-league/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Liverpool 2-1 Atlético Madrid, PSG 6-1 Slovan Bratislava; Chelsea v Leeds – live",
+      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "image": "https://i.guim.co.uk/img/media/9d64fc492a214530d2866a794e9560dbdd600fed/531_0_3950_3159/master/3950.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a6a38f9b294ab12c5dffda8beb262dc"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "Liverpool 2-1 Atletico Madrid: Report, result and goals as Reds come from behind",
+      "excerpt": "Catch up with all the action from Liverpool vs Atletico Madrid in the Champions League.",
+      "link": "https://www.101greatgoals.com/football/champions-league/liverpool-2-1-atletico-madrid-report-result-and-goals/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Napoli 0-1 Arsenal: Champions League – live reaction",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "image": "https://i.guim.co.uk/img/media/1c22f8c7a98206b297f7f74bbf853e4fa2dc68c6/355_261_2176_1741/master/2176.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74e5d91def537577f06cf32e9b321427"
+    },
+    {
+      "id": "story-5",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Marin's free-kick brilliance earns AEK victory over LASK",
+      "excerpt": "Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/czez19xnd54o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cece/live/a2437ca0-abb8-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Aston Villa ignite season in five-goal thriller against Club Brugge",
+      "excerpt": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/13ed46a0-abba-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Guirassy double and late own goal seals frantic Dortmund win",
+      "excerpt": "Borussia Dortmund's Serhou Guirassy scores a second-half double to secure all three points against Villarreal,…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9v9e23xgeeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/42cb6f70-abcd-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Betis twice come from behind to seal dramatic win over Lille",
+      "excerpt": "The Republic of Ireland's Troy Parrott scores the winning goal as Real Betis fought back…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cvgy3dm0r62o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56d/live/1497c090-ac40-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Haaland strikes twice as Manchester City secure win at Porto",
+      "excerpt": "Erling Haaland scores twice as Manchester City open their Champions League campaign with a comfortable…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c62kj1109plo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26a/live/3d9825b0-abce-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Mbappe and Valverde strike as Real Madrid edge Inter Milan",
+      "excerpt": "Kylian Mbappe and Federico Valverde were both on the scoresheet as Real Madrid opened their…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d5/live/edeafd60-abca-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Raphinha on target again as Barcelona put five past Feyenoord",
+      "excerpt": "Raphinha continued his remarkable goalscoring start to the season with another double as Barcelona turn…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cwyznkd209xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c10/live/0d9f96b0-ac80-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Mac Allister's brilliant finish puts Liverpool ahead",
+      "excerpt": "The ball falls to Alexis Mac Allister on the edge of the box who hits…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9qry93558po?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2047/live/d9c4b6f0-ac8d-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,29 +156,18 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 9",
-      "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/9d64fc492a214530d2866a794e9560dbdd600fed/531_0_3950_3159/master/3950.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a6a38f9b294ab12c5dffda8beb262dc"
+      "headline": "Szoboszlai equalises for Liverpool after fantastic Araujo assist",
+      "excerpt": "Dominik Szoboszlai equalises for Liverpool against Atletico Madrid after a brilliant assist from Ronald Araujo.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c7v4lgmyl30o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c0/live/7c52ad90-ac8f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Napoli v Arsenal: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/1c22f8c7a98206b297f7f74bbf853e4fa2dc68c6/355_261_2176_1741/master/2176.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74e5d91def537577f06cf32e9b321427"
-    },
-    {
-      "id": "story-4",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -57,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -68,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/e2b7fbbe1c96b82c4eeecce44000c63d116cf14e/286_159_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcbc56de5888fc98a484dc86e4000646"
     },
     {
-      "id": "story-6",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -79,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b34/live/8d17e510-ac84-11f1-ab14-5b9069dc795d.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -101,18 +222,7 @@
       "image": null
     },
     {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "LIVE &#8211; Chelsea v Leeds: Commentary, updates, goals and stats for EFL Cup tie",
-      "excerpt": "Chelsea may not be in Champions League action this week but they do have an…",
-      "link": "https://www.101greatgoals.com/live/live-chelsea-v-leeds-commentary-updates-goals-stream-stats/",
-      "image": null
-    },
-    {
-      "id": "story-10",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -123,7 +233,18 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "LIVE &#8211; Chelsea v Leeds: Commentary, updates, goals and stats for EFL Cup tie",
+      "excerpt": "Chelsea may not be in Champions League action this week but they do have an…",
+      "link": "https://www.101greatgoals.com/live/live-chelsea-v-leeds-commentary-updates-goals-stream-stats/",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -134,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -143,127 +264,6 @@
       "excerpt": "Barcola starts for Reds",
       "link": "https://www.101greatgoals.com/football/liverpool-v-atletico-madrid-starting-xis-confirmed-at-anfield-for-champions-league-test/",
       "image": null
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Napoli v Arsenal: Line-ups confirmed as Gunners start fresh Champions League journey",
-      "excerpt": "De Bruyne starts for the hosts",
-      "link": "https://www.101greatgoals.com/football/napoli-v-arsenal-line-ups-confirmed-as-gunners-start-fresh-champions-league-journey/",
-      "image": null
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Chelsea v Leeds United: Confirmed line-ups as Premier League rivals meet in EFL Cup",
-      "excerpt": "Leeds head to west London with unbeaten so far this term.",
-      "link": "https://www.101greatgoals.com/football/chelsea-v-leeds-united-team-news/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "2026 NFL Season: The key storylines to follow as &#8216;super team&#8217; lead challengers for Seahawks&#8217; crown",
-      "excerpt": "The NFL season kicks off with a Super Bowl rematch in Seattle. Here we look…",
-      "link": "https://www.101greatgoals.com/nfl/2026-nfl-season-key-storylines/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FFFJ20-2.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Infantino installs loyalist to oversee Caribbean as he splits Fifa management",
-      "excerpt": "<ul><li><p>Critics view Fernandes job as move to shore up position</p></li><li><p>Fifa says change is designed to…",
-      "link": "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes",
-      "image": "https://i.guim.co.uk/img/media/1d77c2900d77b045f95a55d54b62f0a0ac7a6378/0_161_1088_870/master/1088.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a40b3adb4123fd6258918d4c9237f197"
-    },
-    {
-      "id": "story-17",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Raphinha drives Barcelona into early Champions League lead",
-      "excerpt": "Barcelona's captain is in sensational form",
-      "link": "https://www.101greatgoals.com/news/raphinha-drives-barcelona-into-early-champions-league-lead/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Al-Nassr v Abha: Lineups confirmed as Mane and Felix miss out",
-      "excerpt": "Al-Nassr look to bounce back from their first Saudi Pro League defeat of the season…",
-      "link": "https://www.101greatgoals.com/news/al-nassr-abha-confirmed-team-news/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 9",
-      "headline": "'This Is Anfield' sign fetches £115k at auction",
-      "excerpt": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-      "link": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/cd90db70-a616-11f1-9a0e-e95c171695e2.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "LIVE &#8211; Barcelona v Feyenoord: Commentary, updates, goals and stats",
-      "excerpt": "Barcelona will look to maintain their winning start to the season when they host Feyenoord…",
-      "link": "https://www.101greatgoals.com/live/live-barcelona-v-feyenoord-commentary-updates-goals-stream-stats/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Barcelona v Feyenoord: Teams confirmed for early Champions League clash",
-      "excerpt": "Gordon is on the bench for Barca.",
-      "link": "https://www.101greatgoals.com/news/barcelona-v-feyenoord-teams-confirmed-for-early-champions-league-clash/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 9",
-      "headline": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
-      "excerpt": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
-      "excerpt": "<ul><li><p>United play Sabah, then Manchester City on Sunday</p></li><li><p>‘To win the Champions League was the ultimate’</p></li></ul><p>Michael…",
-      "link": "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford",
-      "image": "https://i.guim.co.uk/img/media/9d09d756a18fa47de5d357c5e31c420350796907/335_0_3356_2684/master/3356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5dc17ba6658eec5174351f24d3e7e6a"
     }
   ],
   "scoreboard": [
