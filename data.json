@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-09T18:17:05.578Z",
+  "updatedAt": "2026-09-09T18:34:20.514Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "LIVE &#8211; Napoli v Arsenal: Commentary, updates, goals and stats",
-    "excerpt": "Arsenal face a challenging trip to Napoli tonight in their Champions League opener. Follow all…",
-    "link": "https://www.101greatgoals.com/live/live-napoli-v-arsenal-commentary-updates-goals-stats-stats/",
-    "image": null
+    "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+    "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+    "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "LIVE &#8211; Chelsea v Leeds: Commentary, updates, goals and stats for EFL Cup tie",
+      "excerpt": "Chelsea may not be in Champions League action this week but they do have an…",
+      "link": "https://www.101greatgoals.com/live/live-chelsea-v-leeds-commentary-updates-goals-stream-stats/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
       "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
       "image": "https://i.guim.co.uk/img/media/423b7a8edf0e9935d534428fc93cf659424f315a/886_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7344e6566c3783669eda5626e4e70512"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
     },
     {
       "id": "story-3",
