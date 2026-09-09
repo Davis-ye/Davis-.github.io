@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-09T18:48:02.352Z",
+  "updatedAt": "2026-09-09T18:56:15.316Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "Barcelona 5-1 Feyenoord: Barca continue perfect start with Champions League win",
-    "excerpt": "Captain Raphinha scores twice in impressive win for the hosts",
-    "link": "https://www.101greatgoals.com/football/barcelona-5-1-feyenoord-barca-continue-perfect-start-with-champions-league-win/",
-    "image": null
+    "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+    "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+    "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Sep 9",
-      "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
+      "headline": "Barcelona 5-1 Feyenoord: Barca continue perfect start with Champions League win",
+      "excerpt": "Captain Raphinha scores twice in impressive win for the hosts",
+      "link": "https://www.101greatgoals.com/football/barcelona-5-1-feyenoord-barca-continue-perfect-start-with-champions-league-win/",
+      "image": null
     },
     {
       "id": "story-2",
