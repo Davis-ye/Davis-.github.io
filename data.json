@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-09T18:34:20.514Z",
+  "updatedAt": "2026-09-09T18:48:02.352Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 9",
-    "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-    "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-    "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
+    "headline": "Barcelona 5-1 Feyenoord: Barca continue perfect start with Champions League win",
+    "excerpt": "Captain Raphinha scores twice in impressive win for the hosts",
+    "link": "https://www.101greatgoals.com/football/barcelona-5-1-feyenoord-barca-continue-perfect-start-with-champions-league-win/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 9",
-      "headline": "LIVE &#8211; Chelsea v Leeds: Commentary, updates, goals and stats for EFL Cup tie",
-      "excerpt": "Chelsea may not be in Champions League action this week but they do have an…",
-      "link": "https://www.101greatgoals.com/live/live-chelsea-v-leeds-commentary-updates-goals-stream-stats/",
-      "image": null
+      "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
     },
     {
       "id": "story-2",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-575329",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 9",
+      "home": "FC Barcelona",
+      "away": "Feyenoord Rotterdam",
+      "homeScore": 5,
+      "awayScore": 1
+    },
+    {
+      "id": "score-575330",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 9",
+      "home": "VfB Stuttgart",
+      "away": "Viking FK",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
       "id": "score-575325",
       "league": "Champions League",
       "dot": "#F0C878",
@@ -306,26 +326,6 @@
       "away": "Real Betis Balompié",
       "homeScore": 2,
       "awayScore": 3
-    },
-    {
-      "id": "score-575323",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 8",
-      "home": "Club Brugge KV",
-      "away": "Aston Villa FC",
-      "homeScore": 2,
-      "awayScore": 3
-    },
-    {
-      "id": "score-575324",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 8",
-      "home": "PAE AEK",
-      "away": "LASK Linz",
-      "homeScore": 1,
-      "awayScore": 0
     }
   ]
 }
