@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-09T20:13:24.898Z",
+  "updatedAt": "2026-09-09T20:27:39.866Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "Al-Nassr 2-1 Abha: Report, result and goals as Ronaldo and Co return to winning ways",
-    "excerpt": "Catch up with all the action from Al-Nassr vs Abha in the Saudi Pro League.",
-    "link": "https://www.101greatgoals.com/football/al-nassr-2-1-abha-report-result-goals/",
-    "image": null
+    "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+    "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+    "image": "https://i.guim.co.uk/img/media/9d64fc492a214530d2866a794e9560dbdd600fed/531_0_3950_3159/master/3950.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a6a38f9b294ab12c5dffda8beb262dc"
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 9",
-      "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/9c7951b9b7c9b8660c5462b643b33c9524b459d0/5_32_1892_1513/master/1892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120c9cef32fbe2dc1a457ab002e7a30a"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
       "headline": "Napoli v Arsenal: Champions League – live",
       "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
       "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
       "image": "https://i.guim.co.uk/img/media/eda8b8d346dbb524ae03c5a7a846060acff34c3d/325_0_3366_2693/master/3366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d16862632284ea71497bd548e0969ca1"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "Al-Nassr 2-1 Abha: Report, result and goals as Ronaldo and Co return to winning ways",
+      "excerpt": "Catch up with all the action from Al-Nassr vs Abha in the Saudi Pro League.",
+      "link": "https://www.101greatgoals.com/football/al-nassr-2-1-abha-report-result-goals/",
+      "image": null
     },
     {
       "id": "story-3",
