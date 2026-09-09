@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-09T19:38:51.056Z",
+  "updatedAt": "2026-09-09T19:45:56.483Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "Scottish clubs face tougher Europa League route",
-    "excerpt": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b34/live/8d17e510-ac84-11f1-ab14-5b9069dc795d.jpg"
+    "headline": "Napoli v Arsenal: Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+    "image": "https://i.guim.co.uk/img/media/eda8b8d346dbb524ae03c5a7a846060acff34c3d/325_0_3366_2693/master/3366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d16862632284ea71497bd548e0969ca1"
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 9",
-      "headline": "Napoli v Arsenal: Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/eda8b8d346dbb524ae03c5a7a846060acff34c3d/325_0_3366_2693/master/3366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d16862632284ea71497bd548e0969ca1"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
       "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
       "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
       "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/a8f74e7ec8ba9aa0cff58229873082699d867fda/95_0_2601_2081/master/2601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5256ee473c84809102f49233fea392c"
+      "image": "https://i.guim.co.uk/img/media/ad7c44037daf27701bb5720c7bd0a695b116db31/335_97_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9553351ac23c710851a7bf7a923cdf21"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Scottish clubs face tougher Europa League route",
+      "excerpt": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b34/live/8d17e510-ac84-11f1-ab14-5b9069dc795d.jpg"
     },
     {
       "id": "story-3",
