@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-09T21:31:00.355Z",
+  "updatedAt": "2026-09-09T21:42:03.837Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 9",
-    "headline": "Newcastle still open to Hall sale - Thursday's gossip",
-    "excerpt": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa9/live/fa28adb0-ac7f-11f1-b1d1-571ed4d7ff2c.png"
+    "headline": "Odegaard strike earns Arsenal narrow victory at Napoli",
+    "excerpt": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e270/live/d2cb1d60-ac94-11f1-a540-61c3f7fc4e6c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Newcastle still open to Hall sale - Thursday's gossip",
+      "excerpt": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa9/live/fa28adb0-ac7f-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -35,26 +46,15 @@
       "image": null
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Chelsea 6-3 Leeds; Liverpool 2-1 Atlético Madrid, PSG 6-1 Slovan Bratislava – live",
-      "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "image": "https://i.guim.co.uk/img/media/b38af0720da72065c59440d20c2c90885646c226/0_175_3698_2960/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99d572c27ee3b69e3c78e08f8273804b"
-    },
-    {
       "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 9",
-      "headline": "Napoli 0-1 Arsenal: Champions League – live reaction",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/1c22f8c7a98206b297f7f74bbf853e4fa2dc68c6/355_261_2176_1741/master/2176.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74e5d91def537577f06cf32e9b321427"
+      "headline": "Cole Palmer powers Chelsea to comeback win against Leeds in nine-goal epic",
+      "excerpt": "<p>Where’s the fun in doing it the easy way? Chelsea remain chaotic and this almost…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/95f0e9fbb5162b8e25fe63715ac00cb52bd5bfc6/629_0_6293_5035/master/6293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ccc9ed7360866c0b7135456467918ed"
     },
     {
       "id": "story-5",
@@ -84,7 +84,7 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 9",
-      "headline": "Mac Allister makes his point as Liverpool fight back to defeat Atlético",
+      "headline": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
       "excerpt": "<p>It was the time and place for Alexis Mac Allister to do his talking on…",
       "link": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/cc040eb946d2f5c3bd79c0bd719bed8ec7961204/311_0_4279_3422/master/4279.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdb8f41075f34014229796cda9ae3073"
@@ -102,6 +102,17 @@
     },
     {
       "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Ødegaard stuns Napoli as Arsenal make winning start in Champions League",
+      "excerpt": "<p>After their record-breaking feats last year in the Champions League, Arsenal are at it again.…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/a3f868184f1c6aa375d15667b3eeca4fb0990a01/174_0_1780_1424/master/1780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7e383d60cdeca8c01ce200d9dadaa6"
+    },
+    {
+      "id": "story-10",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cece/live/a2437ca0-abb8-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/13ed46a0-abba-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/42cb6f70-abcd-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56d/live/1497c090-ac40-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26a/live/3d9825b0-abce-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d5/live/edeafd60-abca-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c10/live/0d9f96b0-ac80-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2047/live/d9c4b6f0-ac8d-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -200,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c0/live/7c52ad90-ac8f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/e2b7fbbe1c96b82c4eeecce44000c63d116cf14e/286_159_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcbc56de5888fc98a484dc86e4000646"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b34/live/8d17e510-ac84-11f1-ab14-5b9069dc795d.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Barcelona 5-1 Feyenoord: Barca continue perfect start with Champions League win",
-      "excerpt": "Captain Raphinha scores twice in impressive win for the hosts",
-      "link": "https://www.101greatgoals.com/football/barcelona-5-1-feyenoord-barca-continue-perfect-start-with-champions-league-win/",
-      "image": null
     }
   ],
   "scoreboard": [
