@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-09T15:58:10.749Z",
+  "updatedAt": "2026-09-09T16:10:14.563Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Sep 9",
-    "headline": "Barcelona v Feyenoord: Teams confirmed for early Champions League clash",
-    "excerpt": "Gordon is on the bench for Barca.",
-    "link": "https://www.101greatgoals.com/news/barcelona-v-feyenoord-teams-confirmed-for-early-champions-league-clash/",
-    "image": null
+    "headline": "'This Is Anfield' sign fetches £115k at auction",
+    "excerpt": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+    "link": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/cd90db70-a616-11f1-9a0e-e95c171695e2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Sep 9",
+      "headline": "LIVE &#8211; Barcelona v Feyenoord: Commentary, updates, goals and stats",
+      "excerpt": "Barcelona will look to maintain their winning start to the season when they host Feyenoord…",
+      "link": "https://www.101greatgoals.com/live/live-barcelona-v-feyenoord-commentary-updates-goals-stream-stats/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/5c53542e502cdb7f0eea3a9c06fbefe334ce6f9e/178_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7655922912e5e604a167d307b412f11"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1972/live/5d3068c0-ac54-11f1-9e64-05835b0b18f8.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Everton assistant Alan Irvine will continue as part of a refreshed Scotland coaching staff under…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cyvzn5d97y3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc7/live/3434ccc0-ac51-11f1-96a2-2f464854ded4.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 9",
-      "headline": "'This Is Anfield' sign fetches £115k at auction",
-      "excerpt": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-      "link": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/cd90db70-a616-11f1-9a0e-e95c171695e2.jpg"
     },
     {
       "id": "story-6",
