@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:58:32.184Z",
+  "updatedAt": "2026-09-09T14:10:14.732Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "‘The heartbeat of game day’: how NWSL fans in Boston built culture from the ground up",
+      "excerpt": "<p>Through the loss of one franchise, name controversies and stadium changes, Legacy supporters have created…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/boston-legacy-nwsl-fans",
+      "image": "https://i.guim.co.uk/img/media/5a061293f3943e670f3f91d63ff72160fc4036ce/82_0_5720_4579/master/5720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43b7b50dcfc50ab67b47f383271e0274"
+    },
+    {
+      "id": "story-2",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/c6d70e5deb7935122b52388ca978e3acdbb3d744/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3034c8bf36e4cc1036c9321137bd41"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/cefc59600eada383144e673846ac60dead7779e2/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c320adaefb680715158cc27640d34b0"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd8c/live/b1576a20-ac3b-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d97/live/0e59cf80-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/db06a6dcb2452f3bd3390f913daa8be1fe3f8578/1020_733_4660_3729/master/4660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=222d0d5c3be10796838e1166863d0fd8"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a126/live/77b7f9c0-ac21-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/1784391ee0722c846f96518f608d93384ad8960d/279_0_4474_3579/master/4474.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1460cc82820aa71279d62564d24e0f8a"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229e/live/a4d2eee0-aaac-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9016c6b8b5e72347075b1219794fc64"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/0ee9239fab0c5a981e086396f1933a47874fd6e0/0_1_5000_3998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f84d786031adacef8282cf402ecc033"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8nyhy.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19f/live/a481cae0-ac1b-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eae/live/535d4700-ac27-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca1/live/0f01ee70-abd3-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/7728f6559f50369ad580474bcf56bf5497ad682b/861_0_4307_3446/master/4307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fda2e4722e76a60cdb90544923816497"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for…",
       "link": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/eff43b57f3db2e134f1dd599d03bf7ead49a2244/562_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82b68398875afcad1787b52b6983ad6d"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 8",
-      "headline": "Haaland double gives Manchester City ideal Champions League start in Porto",
-      "excerpt": "<p>Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to…",
-      "link": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/b7faec214ad59df768ccfd2d1fa4751f87627218/129_0_2062_1650/master/2062.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b148415017b9801c2a8e8bb7e560f818"
     }
   ],
   "scoreboard": [
