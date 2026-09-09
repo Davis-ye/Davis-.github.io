@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-09T19:52:58.129Z",
+  "updatedAt": "2026-09-09T19:59:56.493Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 9",
-    "headline": "Napoli v Arsenal: Champions League – live",
-    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-    "image": "https://i.guim.co.uk/img/media/eda8b8d346dbb524ae03c5a7a846060acff34c3d/325_0_3366_2693/master/3366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d16862632284ea71497bd548e0969ca1"
+    "headline": "WATCH: Szoboszlai draws Liverpool level with Atletico Madrid",
+    "excerpt": "Watch Dominik Szoboszlai score for Liverpool against Atletico Madrid.",
+    "link": "https://www.101greatgoals.com/football/champions-league/watch-szoboszlai-draws-liverpool-level-with-atletico-madrid/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Napoli v Arsenal: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "image": "https://i.guim.co.uk/img/media/eda8b8d346dbb524ae03c5a7a846060acff34c3d/325_0_3366_2693/master/3366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d16862632284ea71497bd548e0969ca1"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b34/live/8d17e510-ac84-11f1-ab14-5b9069dc795d.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 9",
-      "headline": "Barcelona 5-1 Feyenoord: Barca continue perfect start with Champions League win",
-      "excerpt": "Captain Raphinha scores twice in impressive win for the hosts",
-      "link": "https://www.101greatgoals.com/football/barcelona-5-1-feyenoord-barca-continue-perfect-start-with-champions-league-win/",
-      "image": null
     },
     {
       "id": "story-4",
