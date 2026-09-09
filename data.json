@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-09T05:32:05.714Z",
+  "updatedAt": "2026-09-09T05:44:24.947Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Ligue 1",
+    "dot": "#B8D4E8",
     "source": "BBC Sport",
     "time": "Sep 9",
-    "headline": "Flex your football brain with our daily quizzes",
-    "excerpt": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    "headline": "Where do PSG rank among Europe's greatest dynasties?",
+    "excerpt": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy9z0xz8ql1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bc9/live/e4cef900-a960-11f1-b109-879e35c24276.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 9",
+      "headline": "Flex your football brain with our daily quizzes",
+      "excerpt": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
+      "excerpt": "<ul><li><p>Football Australia has power to suspend him from national team</p></li><li><p>Striker has maintained his innocence over…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/b08129167dc127f281e496a4fa5ff71f8bf657af/169_411_3313_2650/master/3313.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39445814ca1a30a1377285c4eafc0460"
+    },
+    {
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca1/live/0f01ee70-abd3-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/7728f6559f50369ad580474bcf56bf5497ad682b/861_0_4307_3446/master/4307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fda2e4722e76a60cdb90544923816497"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/eff43b57f3db2e134f1dd599d03bf7ead49a2244/562_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82b68398875afcad1787b52b6983ad6d"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/b7faec214ad59df768ccfd2d1fa4751f87627218/129_0_2062_1650/master/2062.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b148415017b9801c2a8e8bb7e560f818"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/15_266_2770_2215/master/2770.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1befdf756fbf0bfb6cb45287f296740"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d692/live/76f5ea40-abc9-11f1-a601-7d96c5d5b6ea.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0759/live/cf77aa80-abc1-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3e6a4fdeeb312f5b7acce68990eddb"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/5e98115c9132ac5efa8107a0789efd54844ee150/283_0_5505_4404/master/5505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a942bac6796d1e4c3c29ddc83fbb9a6"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd07/live/14b54d60-abc1-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/febee8dea7b7e00a4aac98c7ce671dbadf19ec9a/529_0_4658_3727/master/4658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0e5a69e996cb8988d88fcc0ac1f2f6"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/abc07b866a734a3a2c5b4b0f15da31f4336b56c4/0_0_4290_3432/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=386bd0285463382493a62a74c43a5b7c"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/master/4994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4805bdae9570de0da5ec918c954f233"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/64b2c7f0-ab69-11f1-9712-a14d469bace4.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png"
-    },
-    {
-      "id": "story-22",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Scotland captain Weir shortlisted for Ballon d'Or",
-      "excerpt": "Scotland captain and Lyon midfielder is among 30 players nominated for the women's Ballon d'Or.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7031/live/68e18ea0-ab97-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 8",
-      "headline": "Hogh and Tierney close to returns for Celtic",
-      "excerpt": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg"
     }
   ],
   "scoreboard": [
