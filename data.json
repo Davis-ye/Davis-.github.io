@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:10:14.732Z",
+  "updatedAt": "2026-09-09T14:24:35.907Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -146,17 +146,6 @@
     },
     {
       "id": "story-13",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "excerpt": "<p>One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them…",
-      "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
-      "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9016c6b8b5e72347075b1219794fc64"
-    },
-    {
-      "id": "story-14",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -165,6 +154,17 @@
       "excerpt": "<p>Plus: clubs with multiple £100m players on their books and more trophy-laden footballers</p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong>…",
       "link": "https://www.theguardian.com/football/2026/sep/09/footballs-most-damaging-red-cards-a-brief-history-of-collapses-and-turnarounds",
       "image": "https://i.guim.co.uk/img/media/0ee9239fab0c5a981e086396f1933a47874fd6e0/0_1_5000_3998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f84d786031adacef8282cf402ecc033"
+    },
+    {
+      "id": "story-14",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
+      "excerpt": "<p>One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
+      "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9016c6b8b5e72347075b1219794fc64"
     },
     {
       "id": "story-15",
