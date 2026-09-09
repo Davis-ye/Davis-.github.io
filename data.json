@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-09T13:24:00.497Z",
+  "updatedAt": "2026-09-09T13:37:13.034Z",
   "hero": {
     "id": "story-0",
-    "league": "Champions League",
-    "dot": "#F0C878",
+    "league": "Bundesliga",
+    "dot": "#FFC469",
     "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "Haaland at the double as Champions League returns | Football Weekly – video",
-    "excerpt": "<p><a href=\"https://www.theguardian.com/profile/max-rushden\">Max Rushden</a> is joined by <a href=\"https://www.theguardian.com/profile/barryglendenning\">Barry Glendenning</a>, <a href=\"https://www.theguardian.com/profile/nicky-bandini\">Nicky Bandini</a> and <a href=\"https://bsky.app/profile/archiert1.bsky.social\">Archie…",
-    "link": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
-    "image": "https://i.guim.co.uk/img/media/cefc59600eada383144e673846ac60dead7779e2/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c320adaefb680715158cc27640d34b0"
+    "headline": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+    "excerpt": "<p>We assess the standing of the players on the shortlist for the award before the…",
+    "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
+    "image": "https://i.guim.co.uk/img/media/c6d70e5deb7935122b52388ca978e3acdbb3d744/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3034c8bf36e4cc1036c9321137bd41"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Haaland at the double as Champions League returns | Football Weekly – video",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/profile/max-rushden\">Max Rushden</a> is joined by <a href=\"https://www.theguardian.com/profile/barryglendenning\">Barry Glendenning</a>, <a href=\"https://www.theguardian.com/profile/nicky-bandini\">Nicky Bandini</a> and <a href=\"https://bsky.app/profile/archiert1.bsky.social\">Archie…",
+      "link": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
+      "image": "https://i.guim.co.uk/img/media/cefc59600eada383144e673846ac60dead7779e2/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c320adaefb680715158cc27640d34b0"
+    },
+    {
+      "id": "story-2",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd8c/live/b1576a20-ac3b-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -46,7 +57,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d97/live/0e59cf80-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/db06a6dcb2452f3bd3390f913daa8be1fe3f8578/1020_733_4660_3729/master/4660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=222d0d5c3be10796838e1166863d0fd8"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a126/live/77b7f9c0-ac21-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/1784391ee0722c846f96518f608d93384ad8960d/279_0_4474_3579/master/4474.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1460cc82820aa71279d62564d24e0f8a"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229e/live/a4d2eee0-aaac-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9016c6b8b5e72347075b1219794fc64"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/0ee9239fab0c5a981e086396f1933a47874fd6e0/0_1_5000_3998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f84d786031adacef8282cf402ecc033"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8nyhy.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19f/live/a481cae0-ac1b-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eae/live/535d4700-ac27-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -187,17 +198,6 @@
       "excerpt": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
-      "excerpt": "<ul><li><p>Football Australia has power to suspend him from national team</p></li><li><p>Striker has maintained his innocence over…",
-      "link": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/b08129167dc127f281e496a4fa5ff71f8bf657af/169_411_3313_2650/master/3313.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39445814ca1a30a1377285c4eafc0460"
     },
     {
       "id": "story-18",
