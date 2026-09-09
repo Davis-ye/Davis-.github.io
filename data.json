@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-09T17:34:19.687Z",
+  "updatedAt": "2026-09-09T17:44:52.848Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 9",
-    "headline": "Infantino installs loyalist to oversee Caribbean as he splits Fifa management",
-    "excerpt": "<ul><li><p>Critics view Fernandes job as move to shore up position</p></li><li><p>Fifa says change is designed to…",
-    "link": "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes",
-    "image": "https://i.guim.co.uk/img/media/1d77c2900d77b045f95a55d54b62f0a0ac7a6378/0_161_1088_870/master/1088.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a40b3adb4123fd6258918d4c9237f197"
+    "headline": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+    "excerpt": "<p>⚽ Champions League and Carabao Cup match updates<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read Football…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+    "image": "https://i.guim.co.uk/img/media/26c6941473cd575ab867736a42f5121b094e3206/1001_0_6804_5443/master/6804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9891370224fd54954946e7f9ae09a52a"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Napoli v Arsenal: Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "image": "https://i.guim.co.uk/img/media/423b7a8edf0e9935d534428fc93cf659424f315a/886_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7344e6566c3783669eda5626e4e70512"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 9",
+      "headline": "Infantino installs loyalist to oversee Caribbean as he splits Fifa management",
+      "excerpt": "<ul><li><p>Critics view Fernandes job as move to shore up position</p></li><li><p>Fifa says change is designed to…",
+      "link": "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes",
+      "image": "https://i.guim.co.uk/img/media/1d77c2900d77b045f95a55d54b62f0a0ac7a6378/0_161_1088_870/master/1088.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a40b3adb4123fd6258918d4c9237f197"
+    },
+    {
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/cd90db70-a616-11f1-9a0e-e95c171695e2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/9d09d756a18fa47de5d357c5e31c420350796907/335_0_3356_2684/master/3356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5dc17ba6658eec5174351f24d3e7e6a"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/5c53542e502cdb7f0eea3a9c06fbefe334ce6f9e/178_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7655922912e5e604a167d307b412f11"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1972/live/5d3068c0-ac54-11f1-9e64-05835b0b18f8.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc7/live/3434ccc0-ac51-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/7056533e74bc809d3a446fa70c3908c177465a31/547_328_1635_1308/master/1635.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2844234f04b3aca5a8004ae872cc84ca"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/5a061293f3943e670f3f91d63ff72160fc4036ce/82_0_5720_4579/master/5720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43b7b50dcfc50ab67b47f383271e0274"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/c6d70e5deb7935122b52388ca978e3acdbb3d744/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3034c8bf36e4cc1036c9321137bd41"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/cefc59600eada383144e673846ac60dead7779e2/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c320adaefb680715158cc27640d34b0"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd8c/live/b1576a20-ac3b-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d97/live/0e59cf80-ac3f-11f1-96a2-2f464854ded4.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/db06a6dcb2452f3bd3390f913daa8be1fe3f8578/1020_733_4660_3729/master/4660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=222d0d5c3be10796838e1166863d0fd8"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a126/live/77b7f9c0-ac21-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/1784391ee0722c846f96518f608d93384ad8960d/279_0_4474_3579/master/4474.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1460cc82820aa71279d62564d24e0f8a"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/5a97eef0-ac25-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229e/live/a4d2eee0-aaac-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them…",
       "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
       "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9016c6b8b5e72347075b1219794fc64"
-    },
-    {
-      "id": "story-22",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "source": "The Guardian",
-      "time": "Sep 9",
-      "headline": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
-      "excerpt": "<p>Plus: clubs with multiple £100m players on their books and more trophy-laden footballers</p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong>…",
-      "link": "https://www.theguardian.com/football/2026/sep/09/footballs-most-damaging-red-cards-a-brief-history-of-collapses-and-turnarounds",
-      "image": "https://i.guim.co.uk/img/media/0ee9239fab0c5a981e086396f1933a47874fd6e0/0_1_5000_3998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f84d786031adacef8282cf402ecc033"
-    },
-    {
-      "id": "story-23",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "BBC Sport",
-      "time": "Sep 9",
-      "headline": "Rangers target Ferguson would cost £15m in January - gossip",
-      "excerpt": "Bologna and Scotland midfielder Lewis Ferguson would reportedly cost a pretty penny in January, while…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c24jzrm6qldo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19f/live/a481cae0-ac1b-11f1-b109-879e35c24276.png"
     }
   ],
   "scoreboard": [
