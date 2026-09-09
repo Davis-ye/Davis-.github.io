@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-09T15:39:06.865Z",
+  "updatedAt": "2026-09-09T15:50:47.454Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 9",
-    "headline": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
-    "excerpt": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg"
+    "headline": "Barcelona v Feyenoord: Teams confirmed for early Champions League clash",
+    "excerpt": "Gordon is on the bench for Barca.",
+    "link": "https://www.101greatgoals.com/news/barcelona-v-feyenoord-teams-confirmed-for-early-champions-league-clash/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 9",
-      "headline": "Barcelona chief Laporta warns Real Madrid boss Mourinho not to overstep the mark in criticism of referees",
-      "excerpt": "Barcelona president Joan Laporta has no issue with Jose Mourinho criticising referees providing it does…",
-      "link": "https://www.101greatgoals.com/football/la-liga/barcelona-joan-laporta-real-madrid-boss-jose-mourinho/",
-      "image": null
+      "headline": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+      "excerpt": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg"
     },
     {
       "id": "story-2",
