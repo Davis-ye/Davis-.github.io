@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-10T20:53:01.700Z",
+  "updatedAt": "2026-09-10T20:59:51.568Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 10",
-    "headline": "Manchester United v Sabah: Champions League – live",
+    "headline": "Manchester United 4-0 Sabah: Champions League – live reaction",
     "excerpt": "<p>⚽️ Champions League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham\">Read…",
     "link": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
     "image": "https://i.guim.co.uk/img/media/2b0257a0f02a4564b6d053f642de864e3a51c7bb/1184_195_3512_2811/master/3512.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02d98143884b01474dcecd54d964f0f7"
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-575338",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 10",
+      "home": "Manchester United FC",
+      "away": "Sabah FK",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
       "id": "score-575335",
       "league": "Champions League",
       "dot": "#F0C878",
@@ -315,16 +325,6 @@
       "home": "SSC Napoli",
       "away": "Arsenal FC",
       "homeScore": 0,
-      "awayScore": 1
-    },
-    {
-      "id": "score-575334",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 9",
-      "home": "Sporting Clube de Portugal",
-      "away": "Galatasaray SK",
-      "homeScore": 3,
       "awayScore": 1
     }
   ]
