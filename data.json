@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:44:14.662Z",
+  "updatedAt": "2026-09-10T20:53:01.700Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -95,13 +95,24 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 10",
+      "headline": "Jaissle questions booking compared to rival managers",
+      "excerpt": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp80j2x85xyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9801/live/52d6aed0-ad0c-11f1-a6a8-e924739dac6d.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 10",
       "headline": "Why have the Premier League announced Christmas fixtures early?",
       "excerpt": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy4wg703go?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ac/live/9e88dcf0-ad29-11f1-980e-4fc6f1211def.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd33/live/fb9758a0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f64/live/7c791ee0-ad1f-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/8262dabc3684b783d13be91b44a8e2818eb3a8b0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e53e819b44ede61b000ba15b786f83f"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df48/live/eeb7a770-ad23-11f1-9bf8-27bb5a420b3e.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a8/live/27f34bc0-ad24-11f1-9bf8-27bb5a420b3e.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca9/live/03b6a1f0-ad22-11f1-9865-cdb2b8b30437.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/309891e87f8ed31c2a175601293c359fa3930ee6/0_1184_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba3bf546b5e4eb15e28b21fe26fd775"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/8213d6a0-ad16-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/cece719c8a6d2a9e81dff53349577746592015c7/393_0_6347_5078/master/6347.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d34a747c7aace72163034ae55b880755"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8908/live/57047d30-ad10-11f1-a035-c91dffce51bf.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Our Ask Me Anything team explains how to follow matches from week three of the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0cf/live/0c0b1d20-ad06-11f1-beae-535b95a24b3e.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 10",
-      "headline": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
-      "excerpt": "<p>It began with getting her dad into walking football after his diagnosis – now Gemma…",
-      "link": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
-      "image": "https://i.guim.co.uk/img/media/bcc544501165905e0f45437afccfc5174dc29981/12_0_984_787/master/984.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17974b1ca5da529dd35b95f3044bae96"
     }
   ],
   "scoreboard": [
