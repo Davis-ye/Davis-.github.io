@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-10T19:58:04.696Z",
+  "updatedAt": "2026-09-10T20:09:11.704Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 10",
-    "headline": "Manchester United v Sabah: Champions League – live",
-    "excerpt": "<p>⚽️ Champions League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham\">Read…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/2b0257a0f02a4564b6d053f642de864e3a51c7bb/1184_195_3512_2811/master/3512.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02d98143884b01474dcecd54d964f0f7"
+    "headline": "WATCH: Manchester United take the lead in Champions League",
+    "excerpt": "Watch Manchester United score their opening goal of the new Champions League campaign.",
+    "link": "https://www.101greatgoals.com/football/champions-league/watch-manchester-united-take-the-lead-in-champions-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 10",
+      "headline": "Manchester United v Sabah: Champions League – live",
+      "excerpt": "<p>⚽️ Champions League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/2b0257a0f02a4564b6d053f642de864e3a51c7bb/1184_195_3512_2811/master/3512.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02d98143884b01474dcecd54d964f0f7"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ea/live/0bdf7b90-ab8d-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 10",
-      "headline": "LIVE &#8211; Manchester United v Sabah: Commentary, updates, goals and stats",
-      "excerpt": "Manchester United will be expected to make light work of Azerbaijan side Sabah on their…",
-      "link": "https://www.101greatgoals.com/live/live-manchester-united-v-sabah-commentary-updates-goals-stream-stats/",
-      "image": null
     },
     {
       "id": "story-4",
