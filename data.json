@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:53:51.498Z",
+  "updatedAt": "2026-09-10T13:01:42.319Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -150,13 +150,35 @@
       "dot": "#AFC4AC",
       "source": "talkSPORT",
       "time": "Sep 10",
+      "headline": "&#8216;Like I volleyed his cat&#8217; &#8211; Nathan Jones calls out &#8216;arrogant&#8217; official in classic interview",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4571208/charlton-nathan-jones-qpr-volley-cat-interview/",
+      "image": null
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "&#8216;I can’t speak&#8217; &#8211; Browns coach refuses to discuss Deshaun Watson’s job as QB gets speeding ticket",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4571333/deshaun-watson-speeding-ticket-cleveland-browns-todd-monken/",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
       "headline": "Dave Portnoy slams &#8216;disgusting&#8217; Patriots and gives them brutal grade for season-opener",
       "excerpt": "",
       "link": "https://talksport.com/nfl/4571178/dave-portnoy-new-england-patriots-seattle-seahawks-drake-maye/",
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -167,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -189,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -200,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -211,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -233,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Sunderland vs Arsenal LIVE commentary: Bruno Guimaraes set for hostile debut in enemy territory",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4567017/where-to-watch-sunderland-vs-arsenal-time-score-teams-commentary/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Ryan Garcia vs Conor Benn can fill Canelo Alvarez void &#8211; the change proves it is box office",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4569165/ryan-garcia-conor-benn-canelo-alvarez-void/",
-      "image": null
     }
   ],
   "scoreboard": [
