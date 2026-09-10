@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-10T18:04:05.868Z",
+  "updatedAt": "2026-09-10T18:21:29.573Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 10",
-    "headline": "Manchester United v Sabah: Champions League – live",
-    "excerpt": "<p>⚽️ Champions League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham\">Read…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/5804ed2c6d00cc5f820d86fd63f9961395dedb92/322_0_4102_3283/master/4102.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8951bdaba5f89a6f32496bb0af7f5f0c"
+    "headline": "LIVE &#8211; Manchester United v Sabah: Commentary, updates, goals and stats",
+    "excerpt": "Manchester United will be expected to make light work of Azerbaijan side Sabah on their…",
+    "link": "https://www.101greatgoals.com/live/live-manchester-united-v-sabah-commentary-updates-goals-stream-stats/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 10",
-      "headline": "Manchester United vs Sabah: Line-ups confirmed for Red Devils&#8217; Champions League return",
-      "excerpt": "Catch up with all the team news ahead of Manchester United vs Sabah in the…",
-      "link": "https://www.101greatgoals.com/football/champions-league/manchester-united-vs-sabah-line-ups-confirmed/",
-      "image": null
+      "headline": "Manchester United v Sabah: Champions League – live",
+      "excerpt": "<p>⚽️ Champions League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/5804ed2c6d00cc5f820d86fd63f9961395dedb92/322_0_4102_3283/master/4102.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8951bdaba5f89a6f32496bb0af7f5f0c"
     },
     {
       "id": "story-2",
