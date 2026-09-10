@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-10T15:13:31.039Z",
+  "updatedAt": "2026-09-10T15:28:09.564Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 10",
-    "headline": "Hearts 'have to be above emotions' as big favourites in cup",
-    "excerpt": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c24jr1z69mjo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f64/live/7c791ee0-ad1f-11f1-826f-933990eae6f0.jpg"
+    "headline": "'Get a life' - non-league club condemn man impersonating manager",
+    "excerpt": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 10",
+      "headline": "Hearts 'have to be above emotions' as big favourites in cup",
+      "excerpt": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c24jr1z69mjo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f64/live/7c791ee0-ad1f-11f1-826f-933990eae6f0.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/8262dabc3684b783d13be91b44a8e2818eb3a8b0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e53e819b44ede61b000ba15b786f83f"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df48/live/eeb7a770-ad23-11f1-9bf8-27bb5a420b3e.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a8/live/27f34bc0-ad24-11f1-9bf8-27bb5a420b3e.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca9/live/03b6a1f0-ad22-11f1-9865-cdb2b8b30437.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -79,7 +90,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/309891e87f8ed31c2a175601293c359fa3930ee6/0_1184_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba3bf546b5e4eb15e28b21fe26fd775"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/8213d6a0-ad16-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/cece719c8a6d2a9e81dff53349577746592015c7/393_0_6347_5078/master/6347.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d34a747c7aace72163034ae55b880755"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -132,17 +143,6 @@
       "excerpt": "David Martindale admits to missing coaching but is \"crystal clear\" that his return to the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gjz33q271o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8908/live/57047d30-ad10-11f1-a035-c91dffce51bf.jpg"
-    },
-    {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 10",
-      "headline": "'Get a life' - non-league club condemn man impersonating manager",
-      "excerpt": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg"
     },
     {
       "id": "story-13",
