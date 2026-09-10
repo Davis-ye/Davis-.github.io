@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-10T13:52:34.883Z",
+  "updatedAt": "2026-09-10T13:59:40.998Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 10",
-    "headline": "Fantasy Premier League 2026/27: Semenyo and Maguire headline this week&#8217;s must drops",
-    "excerpt": "The season is starting to take shape and now is a good time to work…",
-    "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-antoine-semenyo-harry-maguire-headline-this-weeks-must-drops/",
+    "headline": "Jaissle &#8216;in love&#8217; with Hall amid reports of new contract for Newcastle left-back",
+    "excerpt": "Newcastle's left-back has reportedly agreed to a new contract to stay at the club until…",
+    "link": "https://www.101greatgoals.com/football/premier-league/jaissle-hall-new-contract-newcastle-left-back/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 10",
+      "headline": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+      "excerpt": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 10",
+      "headline": "Fantasy Premier League 2026/27: Semenyo and Maguire headline this week&#8217;s must drops",
+      "excerpt": "The season is starting to take shape and now is a good time to work…",
+      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-antoine-semenyo-harry-maguire-headline-this-weeks-must-drops/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/8213d6a0-ad16-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/cece719c8a6d2a9e81dff53349577746592015c7/393_0_6347_5078/master/6347.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d34a747c7aace72163034ae55b880755"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -46,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8908/live/57047d30-ad10-11f1-a035-c91dffce51bf.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -79,7 +101,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_2425297757.png"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -90,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0cf/live/0c0b1d20-ad06-11f1-beae-535b95a24b3e.png"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/bcc544501165905e0f45437afccfc5174dc29981/12_0_984_787/master/984.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17974b1ca5da529dd35b95f3044bae96"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffa/live/d059c740-acec-11f1-8d69-858c9dcdf738.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a979/live/68effec0-ac61-11f1-be57-03729df1d736.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/d09de689dff9d51381a94241ab33c8e5e16a54b7/387_0_3853_3083/master/3853.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb682e3794258fd55214656e789f571c"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -167,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79da/live/236dae50-acfd-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -189,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -200,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -211,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -233,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -241,28 +263,6 @@
       "headline": "George Kittle believes $42m free agent can unlock him for Super Bowl hopeful 49ers",
       "excerpt": "",
       "link": "https://talksport.com/nfl/4569967/49ers-george-kittle-plea-brock-purdy-super-bowl/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Doncaster offer: Bet £10 on opening race get £10 free bet on Betfred!",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4567609/doncaster-offer-bet-10-race-free-bet-betfred/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 10",
-      "headline": "&#8216;Who are you dummy? I&#8217;ve won two Copas America and the World Cup&#8217; &#8211; Messi&#8217;s mate De Paul lashes out at Lewandowski",
-      "excerpt": "Robert Lewandowski scored a brilliant goal as the Chicago Fire secured a 1-1 draw with…",
-      "link": "https://www.101greatgoals.com/football/mls/who-are-you-dummy-ive-won-two-copas-america-and-the-world-cup-lamentable-rodrigo-de-paul-lashes-robert-lewandowski-messi/",
       "image": null
     }
   ],
