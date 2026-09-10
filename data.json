@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:35:23.946Z",
+  "updatedAt": "2026-09-10T18:48:37.735Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-575335",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 10",
+      "home": "Fenerbahçe SK",
+      "away": "AS Roma",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": "score-575336",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Sep 10",
+      "home": "PSV",
+      "away": "FK Shakhtar Donetsk",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
       "id": "score-575331",
       "league": "Champions League",
       "dot": "#F0C878",
@@ -304,26 +324,6 @@
       "time": "Sep 9",
       "home": "Sporting Clube de Portugal",
       "away": "Galatasaray SK",
-      "homeScore": 3,
-      "awayScore": 1
-    },
-    {
-      "id": "score-575329",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 9",
-      "home": "FC Barcelona",
-      "away": "Feyenoord Rotterdam",
-      "homeScore": 5,
-      "awayScore": 1
-    },
-    {
-      "id": "score-575330",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 9",
-      "home": "VfB Stuttgart",
-      "away": "Viking FK",
       "homeScore": 3,
       "awayScore": 1
     }
