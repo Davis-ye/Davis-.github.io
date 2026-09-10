@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T13:29:29.850Z",
+  "updatedAt": "2026-09-10T13:42:08.151Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -159,6 +159,17 @@
       "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "Richarlison in talks with FIFA over drastic action to force Tottenham transfer",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4571655/richarlison-tottenham-fifa-terminate-contract-transfer-news/",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 10",
       "headline": "From winning £725 on a game show to facing Man Utd in Europe",
@@ -167,7 +178,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79da/live/236dae50-acfd-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "Shane Lowry career goal dating back seven years begins at Irish Open this week",
+      "excerpt": "",
+      "link": "https://talksport.com/golf/4571190/shane-lowry-irish-open-ryder-cup/",
+      "image": null
+    },
+    {
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -178,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -189,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -200,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -211,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -233,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -241,28 +263,6 @@
       "headline": "&#8216;Who are you dummy? I&#8217;ve won two Copas America and the World Cup&#8217; &#8211; Messi&#8217;s mate De Paul lashes out at Lewandowski",
       "excerpt": "Robert Lewandowski scored a brilliant goal as the Chicago Fire secured a 1-1 draw with…",
       "link": "https://www.101greatgoals.com/football/mls/who-are-you-dummy-ive-won-two-copas-america-and-the-world-cup-lamentable-rodrigo-de-paul-lashes-robert-lewandowski-messi/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "How to follow Liverpool vs Fulham: Arbeloa returns to Anfield aiming to succeed in test Gerrard failed twice",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4567012/liverpool-vs-fulham-commentary-live-teams-channel-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Pick-prone Drake Maye is no Tom Brady and reeling Patriots have a big game problem at QB",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4571011/drake-maye-tom-brady-patriots-interception-problem-seahawks/",
       "image": null
     }
   ],
