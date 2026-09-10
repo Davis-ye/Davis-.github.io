@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-10T12:01:07.139Z",
+  "updatedAt": "2026-09-10T12:20:28.410Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "BBC Sport",
     "time": "Sep 10",
-    "headline": "San Francisco 49ers @ Los Angeles Rams: Preview, prediction and odds",
-    "excerpt": "The Rams face the 49ers on in a historic NFL first in Melbourne. Read our…",
-    "link": "https://www.101greatgoals.com/nfl/49ers-rams-preview-prediction-and-odds/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_2425297757.png"
+    "headline": "Martindale insists Livingston mission is short-term",
+    "excerpt": "David Martindale admits to missing coaching but is \"crystal clear\" that his return to the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gjz33q271o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8908/live/57047d30-ad10-11f1-a035-c91dffce51bf.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 10",
+      "headline": "San Francisco 49ers @ Los Angeles Rams: Preview, prediction and odds",
+      "excerpt": "The Rams face the 49ers on in a historic NFL first in Melbourne. Read our…",
+      "link": "https://www.101greatgoals.com/nfl/49ers-rams-preview-prediction-and-odds/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_2425297757.png"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/21f5852e31637f2be456494176f5f09d92aa7289/87_0_4822_3859/master/4822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=088c00af48f10bd54c0e192e384004cf"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0cf/live/0c0b1d20-ad06-11f1-beae-535b95a24b3e.png"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/bcc544501165905e0f45437afccfc5174dc29981/12_0_984_787/master/984.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17974b1ca5da529dd35b95f3044bae96"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffa/live/d059c740-acec-11f1-8d69-858c9dcdf738.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a979/live/68effec0-ac61-11f1-be57-03729df1d736.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/d09de689dff9d51381a94241ab33c8e5e16a54b7/387_0_3853_3083/master/3853.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb682e3794258fd55214656e789f571c"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79da/live/236dae50-acfd-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "$42m free agent can unlock returning tight end for Super Bowl hopefuls as Brock Purdy gets teammate plea",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4569967/49ers-george-kittle-plea-brock-purdy-super-bowl/",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "Doncaster offer: Bet £10 on opening race get £10 free bet on Betfred!",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4567609/doncaster-offer-bet-10-race-free-bet-betfred/",
+      "image": null
+    },
+    {
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -123,7 +156,40 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "How to follow Liverpool vs Fulham: Arbeloa returns to Anfield aiming to succeed in test Gerrard failed twice",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4567012/liverpool-vs-fulham-commentary-live-teams-channel-where-to-watch/",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "Pick-prone Drake Maye is no Tom Brady and reeling Patriots have a big game problem at QB",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4571011/drake-maye-tom-brady-patriots-interception-problem-seahawks/",
+      "image": null
+    },
+    {
+      "id": "story-16",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 10",
+      "headline": "Mauricio Pochettino reveals Tottenham mistake in talks to reappoint him as manager",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4570995/mauricio-pochettino-tottenham-manager-return/",
+      "image": null
+    },
+    {
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -134,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -156,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -167,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/a1340130-aca4-11f1-93e7-d14576564d9b.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -189,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -197,72 +263,6 @@
       "headline": "Manchester United v Sabah: Preview, expected line-ups, stats and where to watch",
       "excerpt": "Manchester United return to the Champions League against debutants Sabah. Read our preview here.",
       "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/manchester-united-sabah-preview/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "&#8216;I&#8217;ll be a threat&#8217; &#8211; 52-year-old 49ers legend teases unretirement 16 years after hanging up his cleats",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4569513/terrell-owens-unretirement-claim-workout-san-francisco-49ers-eagles/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Mauricio Pochettino branded a &#8216;loser&#8217; for saying Tottenham should get Chelsea&#8217;s 2017 title",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4570962/mauricio-pochettino-loser-tottenham-chelsea-title/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 10",
-      "headline": "O'Neill 'not sure what to make of' Celtic, so what are the issues?",
-      "excerpt": "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbb/live/747140e0-acea-11f1-8d69-858c9dcdf738.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Sep 10",
-      "headline": "Barca's Rodri apologises over Valencia 'weak' comments",
-      "excerpt": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295e/live/b85ee0f0-ace5-11f1-8d69-858c9dcdf738.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Five-time Pro Bowler joins Travis Kelce and &#8216;hometown heroes&#8217; with ownership stake in $1.6bn MLB franchise",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4570109/denzel-ward-cleveland-guardians-ownership-travis-kelce-browns/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 10",
-      "headline": "Cris Collinsworth and Mike Tirico stunned by Drake Maye&#8217;s &#8216;unacceptable&#8217; game-ending decision",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4570881/drake-maye-patriots-seahawks-mike-tirico-cris-collinsworth-interception/",
       "image": null
     }
   ],
