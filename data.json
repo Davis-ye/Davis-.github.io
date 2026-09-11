@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-11T05:59:47.484Z",
+  "updatedAt": "2026-09-11T06:16:07.553Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "'I want to play for mum' – Arsenal's Cooney-Cross",
-    "excerpt": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
+    "headline": "Leeds want boss Farke to stay 'long-term'",
+    "excerpt": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "'I want to play for mum' – Arsenal's Cooney-Cross",
+      "excerpt": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279a/live/4592cfb0-aac3-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/75098c550d1b5197b781d02cb9523c0c7e59d891/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb20dccb2697fc71adad8bd70770ddc4"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/e16e6c9f20b39f9d77c5b87d75538e8c54fe2f8c/213_0_3678_2943/master/3678.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50eb7f95768a8524c0929d50e8f1699d"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/0adfd100-ad5d-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbe9/live/3fa0c900-ad65-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/8af62c7f394a9fdc19fa1632b28953a67eb81d73/450_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4162dafd3a728d4ef36f25eb51626e30"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b05/live/75e51130-ad63-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -123,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/f691d5c804019a9ffb8d75d2445db15df8d5409d/0_15_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20ccf49ab3841d7e8e259e106b38b9a3"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3164/live/125cdc50-ad5f-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca6/live/fe51a9f0-ad5b-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -165,17 +176,6 @@
       "excerpt": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "101 Great Goals",
-      "time": "Sep 10",
-      "headline": "Champions League round-up: Bayern Munich hit five past Bodo/Glimt as Como get big win",
-      "excerpt": "Catch up with the best of the action from the Champions League on Thursday.",
-      "link": "https://www.101greatgoals.com/football/champions-league/champions-league-round-up-bayern-munich-como-leipzig-fenerbahce/",
-      "image": null
     },
     {
       "id": "story-16",
@@ -203,17 +203,6 @@
       "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 10",
-      "headline": "Manchester United 4-0 Sabah: Report, result and goals as Red Devils cruise to UCL win",
-      "excerpt": "Catch up with all the action from Manchester United vs Sabah in the Champions League.",
-      "link": "https://www.101greatgoals.com/football/champions-league/manchester-united-4-0-sabah-report-result-and-goals/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 10",
       "headline": "Man Utd put four past Sabah on Champions League return",
@@ -222,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c6/live/38edb380-ad5a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -233,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f4/live/c53d53d0-ad47-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0195/live/c073d950-ad51-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -255,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/efa694a9bb662a9f75277641636461f64e2e94e6/882_823_2424_1938/master/2424.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4afbb5f95c980316e76f363c15f3aa9b"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c48/live/1999dac0-ad48-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 10",
+      "headline": "Spurs and Richarlison in dispute over contract",
+      "excerpt": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     }
   ],
   "scoreboard": [
