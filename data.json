@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-11T18:13:21.519Z",
+  "updatedAt": "2026-09-11T18:29:53.992Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Inter Miami v Nashville: Preview, expected line-ups, stats",
-    "excerpt": "Preview as Inter Miami host Nashville in the MLS",
-    "link": "https://www.101greatgoals.com/match-previews/mls-matches/inter-miami-v-nashville-lionel-messi-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
+    "headline": "Man United v Man City: Preview, expected line-ups and stats",
+    "excerpt": "Preview as Man United host Man City in the Premier League",
+    "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/man-united-v-manchester-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Watford sign former West Ham striker Michail Antonio after car crash incident",
-      "excerpt": "Michail Antonio has finally found a new club in England",
-      "link": "https://www.101greatgoals.com/football/watford-sign-former-west-ham-striker-michail-antonio-after-car-crash-incident/",
-      "image": null
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,62 +24,40 @@
       "image": "https://i.guim.co.uk/img/media/c8f398e01e05eea61d08478da894f6e7cea0d4ef/21_445_3136_2508/master/3136.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adfafb025f3d81af7e2fd982f96733ee"
     },
     {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Real Madrid v Rayo Vallecano: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Real Madrid host Vallecano in La Liga",
-      "link": "https://www.101greatgoals.com/match-previews/la-liga-matches/real-madrid-v-rayo-vallecano-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/shutterstock_2366537385-1.jpg"
+      "headline": "Dictator meme shows lack of human awareness - Mbappe",
+      "excerpt": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/23d61290-adf9-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Athletic Club forward Williams retires from Ghana duty",
+      "excerpt": "Inaki Williams says the time has come to bring his journey with the Black Stars…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7v41ype378o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5da/live/94875950-adda-11f1-8b98-35ffe039e825.jpg"
     },
     {
       "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+      "excerpt": "<p>Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
+      "image": "https://i.guim.co.uk/img/media/3e832beeba9927328cc69e78112cad4bdfc68c47/219_0_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f78e5241de0af47792291c314d6b31d1"
     },
     {
       "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Fantasy Premier League 2026/27: Jump on attackers for GW4",
-      "excerpt": "Three Chelsea stars headline the players you need to sign in FPL",
-      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-jump-on-red-hot-chelsea-attackers-for-gameweek-4/",
-      "image": null
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Fantasy Premier League 2026/27: GW4 must-drops",
-      "excerpt": "Now's a good time to work out who to dump in FPL.",
-      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-antoine-semenyo-harry-maguire-headline-this-weeks-must-drops/",
-      "image": null
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Lucas Bergvall signs new contract at Tottenham",
-      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
-      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,62 +68,128 @@
       "image": "https://i.guim.co.uk/img/media/e937bdf06933d5acf8596f00cbb34dc1c771a5b1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c07f00818f82b6cd2f4ffbb39a4f84e2"
     },
     {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Football Daily",
+      "excerpt": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
+      "link": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p957ph.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Bergvall signs new deal - but no news on Richarlison",
+      "excerpt": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Liverpool unveil memorials for former manager Beard",
+      "excerpt": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
       "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Al Khaleej v Al Nassr: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Cristiano Ronaldo's Al Nassr visit Al Khaleej",
-      "link": "https://www.101greatgoals.com/match-previews/al-khaleej-v-al-nassr-cristiano-ronaldo-saudi-pro-league-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Collins a doubt for Republic of Ireland with calf injury",
+      "excerpt": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
     },
     {
       "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Liverpool v Fulham: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Liverpool host Fulham in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/liverpool-v-fulham-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Gray has no issue with flak as Hibs eye semi-final",
+      "excerpt": "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/e0805240-ade8-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Chelsea v Hull City: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Chelsea host Hull in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/chelsea-v-hull-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "All done deals in September 2026",
+      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
       "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Man Utd vs Man City Super Boost: 1/1 Both teams to score on BOYLE Sports",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4575363/man-utd-man-city-super-boost-both-teams-score/",
-      "image": null
+      "headline": "Ex-West Ham striker Antonio joins Watford",
+      "excerpt": "Watford announce the signing of former West Ham United striker Michail Antonio on a free…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Ranking the top 10 quarterbacks in NFL history &#8211; Patrick Mahomes vs Aaron Rodgers in legacy battle",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/1676183/ranking-top-10-quarterbacks-history-patrick-mahomes-aaron-rodgers/",
-      "image": null
+      "headline": "Leicester boss Martin says criticism has become 'really personal'",
+      "excerpt": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Celtic given 'timely' police reminder before derby",
+      "excerpt": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Football Daily | Mikel Arteta hits upon a new psychological wheeze for his champions",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>The use of…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/football-daily-email-mikel-arteta-arsenal",
+      "image": "https://i.guim.co.uk/img/media/ec58d8c32cc20d69b50e5b3ada6178b9a0425cc3/0_845_5824_4659/master/5824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84202ff62ca28a7d37c6b346af1d72ba"
+    },
+    {
+      "id": "story-16",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Hull fined £30k & bans issued over Chelsea chant",
+      "excerpt": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a64/live/cf4ad2c0-5aaf-11f1-b277-cd187c78657d.jpg"
+    },
+    {
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -167,48 +200,15 @@
       "image": "https://i.guim.co.uk/img/media/38e5ddce4885dea928403fb76299428927a9310a/62_125_1044_835/master/1044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b0e388b7d835bd88f554903dbd37b1f"
     },
     {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Brad Friedel to be named director as American consortium seek to buy EFL club",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4575488/brad-friedel-shrewsbury-town-takeover-consortium/",
-      "image": null
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Axed ESPN host opens up on &#8216;painful&#8217; layoff after 27 years ahead of new show for rival network",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4575239/suzy-kolber-firing-new-show-espn-scripps-sports-network/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Top Gun star and Longhorns superfan returns to ESPN for College GameDay role amid Arch Manning redemption",
-      "excerpt": "",
-      "link": "https://talksport.com/us/4574584/glenn-powell-college-football-gameday-texas-ohio-arch-manning/",
-      "image": null
-    },
-    {
       "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Golden Boot odds: Who leads the way in Europe’s major leagues?",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4521280/golden-boot-odds-2026-27/",
-      "image": null
+      "headline": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "excerpt": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
     },
     {
       "id": "story-19",
@@ -225,45 +225,45 @@
       "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Super Sunday boost: 12/1 Brighton & Man City to win and all four teams to score on Midnite",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4575296/super-sunday-boost-brighton-man-city-win-score-midnite/",
-      "image": null
+      "headline": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "excerpt": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
       "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "How to watch Cristiano Ronaldo’s next match as he moves closer to 1000 goals",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574563/how-to-watch-cristiano-ronaldo-next-match-al-nassr/",
-      "image": null
+      "headline": "Davidson's US Shrewsbury takeover involves Friedel",
+      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
       "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Stunning new £275million stadium could open in second tier after 20-year wait",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4575073/new-stadium-second-tier-valencia/",
-      "image": null
+      "headline": "Hull winger Thomas unhurt after car crash",
+      "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
       "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Championship odds 2026/27: Can West Ham bounce straight back to the Premier League?",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4494478/championship-odds-2026-2027-betting-guide/",
-      "image": null
+      "headline": "Man Utd ban 685 fan accounts after touting probe",
+      "excerpt": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     }
   ],
   "scoreboard": [
