@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:00:35.445Z",
+  "updatedAt": "2026-09-11T10:14:49.491Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -60,6 +60,28 @@
       "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "West Ham vs Wrexham offer: Bet £20 get £60 on SBK + 30% bet builder boost",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4572675/west-ham-wrexham-sbk-offer-bet-builder-boost/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "New $2.2bn NFL stadium breaks with decades of tradition after major anthem change for first game",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4572287/bills-lions-week-2-highmark-stadium-o-canada-anthems/",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
       "headline": "Hall signs new contract with Newcastle until 2031",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -79,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -90,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -101,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -112,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -123,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -145,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -167,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93d3q.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/12462580-a226-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4a/live/4f9c7d10-ada9-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -233,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Flex your football brain with our daily quizzes",
-      "excerpt": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clymlve2v0xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Saint-Maximin on speaking out after his children were racially abused",
-      "excerpt": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279a/live/4592cfb0-aac3-11f1-9bcd-4de40c4158ea.jpg"
     }
   ],
   "scoreboard": [
