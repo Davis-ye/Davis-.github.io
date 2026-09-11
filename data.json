@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-09-11T13:41:17.983Z",
+  "updatedAt": "2026-09-11T13:51:25.159Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    "headline": "Chelsea v Hull City: Preview, expected line-ups, stats",
+    "excerpt": "Preview as Chelsea host Hull in the Premier League",
+    "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/chelsea-v-hull-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Hull fined £30k & bans issued over Chelsea chant",
+      "excerpt": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a64/live/cf4ad2c0-5aaf-11f1-b277-cd187c78657d.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    },
+    {
+      "id": "story-3",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Champions League opening data shows English dominance and too few shocks",
+      "excerpt": "<p>The numbers from the first round of the league phase point to Italian teams struggling…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
+      "image": "https://i.guim.co.uk/img/media/38e5ddce4885dea928403fb76299428927a9310a/62_125_1044_835/master/1044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b0e388b7d835bd88f554903dbd37b1f"
+    },
+    {
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -24,18 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Lucas Bergvall signs new contract at Tottenham",
-      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
-      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/826edda98b8da19879656ccdedfb8aa4bf129fe2/281_121_3776_3021/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab54a5e68901566468db38ab8cc9d6c5"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -90,18 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/0d0727c8ca23664f589c8723f8b64c37e49a3fea/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e1829d2644d64c0d7b2abd0728fdff6"
     },
     {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "NFL: Myles Garrett claims he is not at 100% after Rams&#8217; loss to 49ers in Australia",
-      "excerpt": "Myles Garrett says he was not locked in for the NFL opener in Australia",
-      "link": "https://www.101greatgoals.com/nfl/nfl-myles-garrett-claims-he-not-at-100-rams-loss-49ers-australia/",
-      "image": null
-    },
-    {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/00cf2a267f04ec2699029981abbb47f403d73e3d/623_239_1603_1282/master/1603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6685f6b2f61805119db0e51c41371ea5"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f5/live/3a930a30-adca-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/c73f4f71d8fb0aaa2491dfd030e4ed4cee6c4c4e/560_114_3489_2791/master/3489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=628866fb0d8c42a81394b6f05d13a865"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,51 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Ex-Chelsea and Manchester United star Juan Mata becomes free agent and instantly lands new job",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574455/juan-mata-free-agent-melbourne-victory-new-job/",
-      "image": null
-    },
-    {
       "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Friday horse racing tips: Best bets at St Leger Festival from Tom Lunn",
-      "excerpt": "",
-      "link": "https://talksport.com/sport/4574245/friday-horse-racing-tips-best-bets-st-leger-festival/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Lamar Jackson sends message as undrafted Ravens hero announces retirement from NFL aged 28",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4574498/trystan-colon-lamar-jackson-retirement-baltimore-ravens-detroit-lions/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "NFL Touchdown treble: Chase, Montgomery & Amon-Ra St. Brown All To Score a TD &#8211; NOW 6/1 with Midnite",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4574467/talksport-touchdown-treble-nfl-midnite/",
-      "image": null
-    },
-    {
-      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,26 +211,59 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "id": "story-22",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Tiger Woods and Rory McIlroy&#8217;s company smashes past $1bn valuation as investors pour in cash",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4574462/tiger-woods-rory-mcilroy-tmrw-sports-tgl-valuation-funding/",
-      "image": null
+      "headline": "A cup weekend that could define three managerial tenures",
+      "excerpt": "Aberdeen head coach Stephen Robinson, Hibernian boss David Gray and Kilmarnock’s Neil McCann are all…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c17j90yx9ldo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+      "excerpt": "<p>The US manager’s relationship with the international job has changed with a full World Cup…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
+      "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "West Ham's Alvarez denies kidnapping accusation",
+      "excerpt": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
+    },
+    {
+      "id": "story-22",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "excerpt": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Hull player in rollover crash as car pictured upside down near training ground",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574621/hull-sorba-thomas-car-crash/",
-      "image": null
+      "headline": "Hall signs new contract with Newcastle until 2031",
+      "excerpt": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     }
   ],
   "scoreboard": [
