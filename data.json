@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-11T14:25:54.136Z",
+  "updatedAt": "2026-09-11T14:38:09.268Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 11",
-    "headline": "Celtic given 'timely' police reminder before derby",
-    "excerpt": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
+    "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+      "headline": "Celtic given 'timely' police reminder before derby",
+      "excerpt": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "id": "story-2",
@@ -223,6 +223,17 @@
     },
     {
       "id": "story-20",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "How to watch Giovani Santillan vs Abass Baraou with ex-world champion back after close result",
+      "excerpt": "",
+      "link": "https://talksport.com/boxing/4574583/how-to-watch-giovani-santillan-abass-baraou/",
+      "image": null
+    },
+    {
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Solheim Cup 2026 LIVE SCORES: Match schedule, teams, location and format for team event",
+      "excerpt": "",
+      "link": "https://talksport.com/golf/4566213/solheim-cup-2026-live-scores-schedule-dates-teams-captains-location-format/",
+      "image": null
+    },
+    {
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -241,28 +263,6 @@
       "headline": "Nelly Korda instantly makes Solheim Cup history at the expense of Charley Hull",
       "excerpt": "",
       "link": "https://talksport.com/golf/4574648/nelly-korda-charley-hull-solheim-cup/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "&#8216;Gosh&#8217; &#8211; Sergio Garcia makes commentator gasp with astonishing missed putt from 1ft 7ins",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4574232/sergio-garcia-missed-putt-1ft-7ins-irish-open-golf/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Sunderland vs Arsenal LIVE commentary: Match kick-off time moved as Guimaraes prepares for hostile debut",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4567017/where-to-watch-sunderland-vs-arsenal-time-score-teams-commentary/",
       "image": null
     }
   ],
