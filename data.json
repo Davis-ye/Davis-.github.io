@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-11T12:52:10.373Z",
+  "updatedAt": "2026-09-11T13:00:47.626Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    "headline": "Lucas Bergvall signs new contract at Tottenham",
+    "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
+    "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+      "excerpt": "<ul><li><p>Winger shining after summer pursuit by several clubs</p></li><li><p>Chelsea felt selling Fernández to City was right…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+      "image": "https://i.guim.co.uk/img/media/826edda98b8da19879656ccdedfb8aa4bf129fe2/281_121_3776_3021/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab54a5e68901566468db38ab8cc9d6c5"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,28 +55,6 @@
       "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Lucas Bergvall signs new contract at Tottenham",
-      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club.",
-      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "NFL: Myles Garrett claims he is not at 100% after Rams&#8217; loss to 49ers in Australia",
-      "excerpt": "Myles Garrett says he was not locked in for the NFL opener in Australia",
-      "link": "https://www.101greatgoals.com/nfl/nfl-myles-garrett-claims-he-not-at-100-rams-loss-49ers-australia/",
-      "image": null
     },
     {
       "id": "story-5",
@@ -168,102 +168,102 @@
     },
     {
       "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Rory McIlroy endures career first at wild Irish Open as bad weather sparks six-hour nightmare",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4573589/rory-mcilroy-irish-open-weather-tee-time-today/",
-      "image": null
+      "headline": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+      "excerpt": "<p>The US manager’s relationship with the international job has changed with a full World Cup…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
+      "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
       "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "2x Super Bowl champion and ex-Tom Brady teammate announces retirement in emotional post",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4574284/eric-rowe-retirement-tom-brady-new-england-patriots/",
-      "image": null
+      "headline": "West Ham's Alvarez denies kidnapping accusation",
+      "excerpt": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
       "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Star Sports &#8211; Features and bonuses for 2026",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4529949/starsports-review/",
-      "image": null
+      "headline": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "excerpt": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
       "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Amanda Staveley breaks silence on West Ham saga and insists this isn&#8217;t over yet",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574205/amanda-staveley-breaks-silence-west-ham-takeover-saga/",
-      "image": null
+      "headline": "Hall signs new contract with Newcastle until 2031",
+      "excerpt": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
       "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Chiefs owner Clark Hunt confirms unpopular Arrowhead name decision for Kansas City&#8217;s new $3bn stadium",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4574146/clark-hunt-confirms-kansas-city-chiefs-stadium-arrowhead-name/",
-      "image": null
+      "headline": "Just like riding a bike - five things to watch in the EFL",
+      "excerpt": "BBC Sport looks at five key talking points before the weekend's Championship, League One and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
       "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "St Leger £100k placepot selections plus bet £5 get £20 in free bets on Tote",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4574333/st-leger-100k-placepot-selections-20-free-bets-tote/",
-      "image": null
+      "headline": "Podcast: Focus on League Cup quarter-finals",
+      "excerpt": "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p93d3d?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93d3q.jpg"
     },
     {
       "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "talkSPORT tips &#8211; Best bets and expert advice on Day Two of the St Leger Festival at Doncaster",
-      "excerpt": "",
-      "link": "https://talksport.com/sport/4574387/talksport-tips-best-bets-day-2-st-leger-festival/",
-      "image": null
+      "headline": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+      "excerpt": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/12462580-a226-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
       "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Sean McVay&#8217;s ego let down 100,000 Australian NFL fans as Rams&#8217; travel plans backfire vs 49ers",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4574055/sean-mcvay-ego-australian-fans-rams-49ers-failed-travel/",
-      "image": null
+      "headline": "Rangers' Souttar set for switch to Greece - gossip",
+      "excerpt": "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly59q05p5lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4a/live/4f9c7d10-ada9-11f1-a540-61c3f7fc4e6c.png"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Is SBK worth your stake? A deep-dive 2026 sportsbook review",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4529510/sbk-review/",
-      "image": null
+      "headline": "Leeds want boss Farke to stay 'long-term'",
+      "excerpt": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
     }
   ],
   "scoreboard": [
