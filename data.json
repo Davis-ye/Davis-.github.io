@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:58:44.563Z",
+  "updatedAt": "2026-09-11T11:10:45.431Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -69,6 +69,28 @@
     },
     {
       "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Aston Villa vs Nottm Forest prediction and betting tips &#8211; Can goals come back?",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4569619/aston-villa-vs-nottm-forest-prediction-betting-tips/",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Best betting promos and sportsbooks for MLB prop bets [September 11, 2026]",
+      "excerpt": "",
+      "link": "https://talksport.com/us/4574251/mlb-prop-bets-september-11-2026/",
+      "image": null
+    },
+    {
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -79,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -112,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -123,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -134,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -178,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -189,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -211,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -233,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -242,28 +264,6 @@
       "excerpt": "",
       "link": "https://talksport.com/football/4573965/darren-fletcher-confrontation-man-united-fan-champions-league/",
       "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Ben Shelton and Trinity Rodman power couple sparks $9bn brand scramble as US Open just the start",
-      "excerpt": "",
-      "link": "https://talksport.com/tennis/4569067/us-open-ben-shelton-trinity-rodman-net-worth-on/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Just like riding a bike - five things to watch in the EFL",
-      "excerpt": "BBC Sport looks at five key talking points before the weekend's Championship, League One and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
     }
   ],
   "scoreboard": [
