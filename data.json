@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-11T10:14:49.491Z",
+  "updatedAt": "2026-09-11T10:28:35.326Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
+    "headline": "Hull winger Thomas unhurt after car crash",
+    "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
+      "excerpt": "<ul><li><p>Manager wants players to cope with things going wrong</p></li><li><p>Other tactics include making dressing room even…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
+      "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Where to watch Ryan Garcia vs Conor Benn plus start time and undercard for &#8216;world of trouble&#8217; title clash",
+      "excerpt": "",
+      "link": "https://talksport.com/boxing/4433032/where-to-watch-ryan-garcia-conor-benn-date-time-undercard-tv-channel/",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "History-making Mike Evans in disbelief after hearing Rams&#8217; unorthodox Australia travel plans",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574011/mike-evans-san-francisco-49ers-rams-australia-travel-plans/",
+      "image": null
+    },
+    {
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -57,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -68,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -79,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -112,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -123,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -134,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -167,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -189,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93d3q.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/12462580-a226-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -220,50 +264,6 @@
       "excerpt": "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cly59q05p5lo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4a/live/4f9c7d10-ada9-11f1-a540-61c3f7fc4e6c.png"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Leeds want boss Farke to stay 'long-term'",
-      "excerpt": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "talkSPORT tips – Best football bets and expert advice for Friday 11th September",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4572485/talksport-tips-best-football-bets-friday-11th-september/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "West Ham vs Wrexham betting tips and predictions &#8211; Another Bowen brace in Hammers win?",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4568975/west-ham-wrexham-betting-tips-predictions/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "excerpt": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
     }
   ],
   "scoreboard": [
