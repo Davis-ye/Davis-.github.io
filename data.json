@@ -1,41 +1,19 @@
 {
-  "updatedAt": "2026-09-11T15:55:44.226Z",
+  "updatedAt": "2026-09-11T16:04:44.356Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Bergvall signs new deal - but no news on Richarlison",
-    "excerpt": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
+    "headline": "Lucas Bergvall signs new contract at Tottenham",
+    "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
+    "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Liverpool unveil memorials for former manager Beard",
-      "excerpt": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Collins a doubt for Republic of Ireland with calf injury",
-      "excerpt": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,15 +24,37 @@
       "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
     },
     {
-      "id": "story-4",
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Liverpool v Fulham: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Liverpool host Fulham in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/liverpool-v-fulham-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Bergvall signs new deal - but no news on Richarlison",
+      "excerpt": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Liverpool unveil memorials for former manager Beard",
+      "excerpt": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Collins a doubt for Republic of Ireland with calf injury",
+      "excerpt": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
     },
     {
       "id": "story-5",
@@ -126,17 +126,6 @@
       "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Chelsea v Hull City: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Chelsea host Hull in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/chelsea-v-hull-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
       "headline": "Hull fined £30k & bans issued over Chelsea chant",
@@ -145,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a64/live/cf4ad2c0-5aaf-11f1-b277-cd187c78657d.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -156,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/38e5ddce4885dea928403fb76299428927a9310a/62_125_1044_835/master/1044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b0e388b7d835bd88f554903dbd37b1f"
     },
     {
-      "id": "story-14",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -167,18 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Lucas Bergvall signs new contract at Tottenham",
-      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
-      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-16",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/826edda98b8da19879656ccdedfb8aa4bf129fe2/281_121_3776_3021/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab54a5e68901566468db38ab8cc9d6c5"
     },
     {
-      "id": "story-17",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,48 +200,70 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "id": "story-18",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "NFL: Myles Garrett claims he is not at 100% after Rams&#8217; loss to 49ers in Australia",
-      "excerpt": "Myles Garrett says he was not locked in for the NFL opener in Australia",
-      "link": "https://www.101greatgoals.com/nfl/nfl-myles-garrett-claims-he-not-at-100-rams-loss-49ers-australia/",
-      "image": null
+      "headline": "Hull winger Thomas unhurt after car crash",
+      "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Man Utd ban 685 fan accounts after touting probe",
+      "excerpt": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Who am I? Guess Bundesliga star No 3",
+      "excerpt": "Work out the identity of today's player in as few attempts as possible.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
     },
     {
       "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "6 struggling NFL coaches who could be fired before Week 6 of the 2026 season &#8211; Aaron Glenn is in trouble",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4495105/struggling-coaches-fired-jets-vikings-eagles-bucs-colts-falcons/",
-      "image": null
+      "headline": "Olid’s United on back foot due to late business and unforgiving WSL start",
+      "excerpt": "<p>Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
+      "image": "https://i.guim.co.uk/img/media/00cf2a267f04ec2699029981abbb47f403d73e3d/623_239_1603_1282/master/1603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6685f6b2f61805119db0e51c41371ea5"
     },
     {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Man United should have cashed in on Bruno Fernandes when they had the chance",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574543/manchester-united-bruno-fernandes-sale-exit-analysis/",
-      "image": null
+      "headline": "What is the Premier League's KMI Panel and how does it work?",
+      "excerpt": "The Premier League introduced its Key Match Incident (KMI) Panel four years ago",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyz92l0gkdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f5/live/3a930a30-adca-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Rory McIlroy risked Irish Open bid coming to Brooks Koepka&#8217;s aid in scary incident at Doonbeg",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4574697/rory-mcilroy-irish-open-brooks-koepka-doonberg-donald-trump/",
-      "image": null
+      "headline": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
+      "excerpt": "<ul><li><p>Maresca: ‘City dominant when Anderson grew up’</p></li><li><p>O’Reilly due to return but Doku not fit after…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
+      "image": "https://i.guim.co.uk/img/media/c73f4f71d8fb0aaa2491dfd030e4ed4cee6c4c4e/560_114_3489_2791/master/3489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=628866fb0d8c42a81394b6f05d13a865"
     }
   ],
   "scoreboard": [
