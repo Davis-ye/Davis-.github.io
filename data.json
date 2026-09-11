@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-11T16:33:57.328Z",
+  "updatedAt": "2026-09-11T16:45:48.889Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Fantasy Premier League 2026/27: Jump on attackers for GW4",
-    "excerpt": "Three Chelsea stars headline the players you need to sign in FPL",
-    "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-jump-on-red-hot-chelsea-attackers-for-gameweek-4/",
+    "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
+    "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
+    "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
     "image": null
   },
   "topStories": [
@@ -38,28 +38,6 @@
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Fantasy Premier League 2026/27: GW4 must-drops",
-      "excerpt": "Now's a good time to work out who to dump in FPL.",
-      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-antoine-semenyo-harry-maguire-headline-this-weeks-must-drops/",
-      "image": null
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Lucas Bergvall signs new contract at Tottenham",
-      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club",
-      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 11",
       "headline": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
@@ -68,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/3e832beeba9927328cc69e78112cad4bdfc68c47/219_0_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f78e5241de0af47792291c314d6b31d1"
     },
     {
-      "id": "story-6",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,18 +57,18 @@
       "image": "https://i.guim.co.uk/img/media/e937bdf06933d5acf8596f00cbb34dc1c771a5b1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c07f00818f82b6cd2f4ffbb39a4f84e2"
     },
     {
-      "id": "story-7",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Al Khaleej v Al Nassr: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Cristiano Ronaldo's Al Nassr visit Al Khaleej",
-      "link": "https://www.101greatgoals.com/match-previews/al-khaleej-v-al-nassr-cristiano-ronaldo-saudi-pro-league-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Football Daily",
+      "excerpt": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
+      "link": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p957ph.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,18 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Liverpool v Fulham: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Liverpool host Fulham in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/liverpool-v-fulham-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-12",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/e0805240-ade8-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,18 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/ec58d8c32cc20d69b50e5b3ada6178b9a0425cc3/0_845_5824_4659/master/5824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84202ff62ca28a7d37c6b346af1d72ba"
     },
     {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Chelsea v Hull City: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Chelsea host Hull in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/chelsea-v-hull-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-19",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a64/live/cf4ad2c0-5aaf-11f1-b277-cd187c78657d.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -233,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/38e5ddce4885dea928403fb76299428927a9310a/62_125_1044_835/master/1044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b0e388b7d835bd88f554903dbd37b1f"
     },
     {
-      "id": "story-21",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -244,26 +200,70 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-18",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+      "excerpt": "<ul><li><p>Winger shining after summer pursuit by several clubs</p></li><li><p>Chelsea felt selling Fernández to City was right…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+      "image": "https://i.guim.co.uk/img/media/826edda98b8da19879656ccdedfb8aa4bf129fe2/281_121_3776_3021/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab54a5e68901566468db38ab8cc9d6c5"
+    },
+    {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "excerpt": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Axed ESPN host opens up on &#8216;painful&#8217; layoff after 27 years ahead of new show for rival network",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4575239/suzy-kolber-firing-new-show-espn-scripps-sports-network/",
-      "image": null
+      "headline": "Davidson's US Shrewsbury takeover involves Friedel",
+      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Spartans director leads takeover at Shrewsbury Town",
+      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Hull winger Thomas unhurt after car crash",
+      "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Top Gun star and Longhorns superfan returns to ESPN for College GameDay role amid Arch Manning redemption",
-      "excerpt": "",
-      "link": "https://talksport.com/us/4574584/glenn-powell-college-football-gameday-texas-ohio-arch-manning/",
-      "image": null
+      "headline": "Man Utd ban 685 fan accounts after touting probe",
+      "excerpt": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     }
   ],
   "scoreboard": [
