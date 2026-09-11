@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-11T10:51:29.425Z",
+  "updatedAt": "2026-09-11T10:58:44.563Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
+    "headline": "Teams need to adapt to fixture scheduling - Maresca",
+    "excerpt": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -68,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -112,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -123,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -134,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -167,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -200,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -211,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -233,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "BBC Sport looks at five key talking points before the weekend's Championship, League One and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "England U21&#8217;s new Arjen Robben warned against Chelsea transfer from sister club",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4566986/sam-amo-ameyaw-strasbourg-chelsea-england-arjen-robben/",
-      "image": null
     }
   ],
   "scoreboard": [
