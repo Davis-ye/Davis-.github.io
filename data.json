@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-11T21:01:45.245Z",
+  "updatedAt": "2026-09-11T21:25:58.765Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Richarlison's move to Vasco da Gama falls through",
-    "excerpt": "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
+    "headline": "West Ham 6-0 Wrexham: Hammers go top with emphatic fourth straight win",
+    "excerpt": "The Hammers moved a point clear at the top in style.",
+    "link": "https://www.101greatgoals.com/football/west-ham-wrexham-report/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
-      "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
-      "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
-      "image": null
+      "headline": "Richarlison's move to Vasco da Gama falls through",
+      "excerpt": "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
       "id": "story-2",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-564669",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 11",
+      "home": "Sevilla FC",
+      "away": "Valencia CF",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
       "id": "score-558606",
       "league": "Serie A",
       "dot": "#A9E6A0",
@@ -316,16 +326,6 @@
       "away": "Sabah FK",
       "homeScore": 4,
       "awayScore": 0
-    },
-    {
-      "id": "score-575339",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 10",
-      "home": "Como 1907",
-      "away": "RB Leipzig",
-      "homeScore": 4,
-      "awayScore": 1
     }
   ]
 }
