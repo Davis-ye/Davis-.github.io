@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-11T11:53:29.411Z",
+  "updatedAt": "2026-09-11T12:00:33.653Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 11",
-    "headline": "Hull winger Thomas unhurt after car crash",
-    "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
+    "headline": "Manchester United ban 685 season-ticket holders over touts; Hall agrees long-term Newcastle deal: football news – live",
+    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Hull winger Thomas unhurt after car crash",
+      "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Work out the identity of today's player in as few attempts as possible.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 11",
-      "headline": "Hall agrees long-term Newcastle deal, Hull’s Thomas unhurt after car crash: football news – live",
-      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
     },
     {
       "id": "story-4",
@@ -124,6 +124,17 @@
     },
     {
       "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Amanda Staveley breaks silence on West Ham saga and insists this isn&#8217;t over yet",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4574205/amanda-staveley-breaks-silence-west-ham-takeover-saga/",
+      "image": null
+    },
+    {
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -134,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -167,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -200,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -211,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -252,17 +263,6 @@
       "headline": "Premier League relegation odds 2026/27: Promoted clubs looking to emulate Sunderland",
       "excerpt": "",
       "link": "https://talksport.com/betting/4528071/premier-league-relegations-odds-2026-2027/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "&#8216;Better than Tony Romo&#8217; &#8211; Luke Kuechly divides on Netflix debut amid major Tom Brady gripe",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4573993/luke-kuechly-netflix-debut-review-tom-brady-tony-romo/",
       "image": null
     }
   ],
