@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:54:08.033Z",
+  "updatedAt": "2026-09-11T17:01:00.153Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 11",
       "headline": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
       "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
       "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
       "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 11",
+      "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
+      "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
+      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
+      "image": null
     },
     {
       "id": "story-3",
