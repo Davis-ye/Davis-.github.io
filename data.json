@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-11T12:19:20.375Z",
+  "updatedAt": "2026-09-11T12:38:13.230Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    "headline": "I disrupted pre-season travel plans to prepare players - Arteta",
+    "excerpt": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 11",
+      "headline": "Lucas Bergvall signs new contract at Tottenham",
+      "excerpt": "Tottenham’s Lucas Bergvall has extended his contract at the club.",
+      "link": "https://www.101greatgoals.com/football/premier-league/lucas-bergvall-signs-new-contract-at-tottenham/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/00cf2a267f04ec2699029981abbb47f403d73e3d/623_239_1603_1282/master/1603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6685f6b2f61805119db0e51c41371ea5"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f5/live/3a930a30-adca-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/c73f4f71d8fb0aaa2491dfd030e4ed4cee6c4c4e/560_114_3489_2791/master/3489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=628866fb0d8c42a81394b6f05d13a865"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,95 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "2x Super Bowl champion and ex-Tom Brady teammate announces retirement in emotional post",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574284/eric-rowe-retirement-tom-brady-new-england-patriots/",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Star Sports &#8211; Features and bonuses for 2026",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4529949/starsports-review/",
+      "image": null
+    },
+    {
+      "id": "story-16",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Amanda Staveley breaks silence on West Ham saga and insists this isn&#8217;t over yet",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4574205/amanda-staveley-breaks-silence-west-ham-takeover-saga/",
+      "image": null
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Chiefs owner Clark Hunt confirms unpopular Arrowhead name decision for Kansas City&#8217;s new $3bn stadium",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574146/clark-hunt-confirms-kansas-city-chiefs-stadium-arrowhead-name/",
+      "image": null
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "St Leger £100k placepot selections plus bet £5 get £20 in free bets on Tote",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4574333/st-leger-100k-placepot-selections-20-free-bets-tote/",
+      "image": null
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "talkSPORT tips &#8211; Best bets and expert advice on Day Two of the St Leger Festival at Doncaster",
+      "excerpt": "",
+      "link": "https://talksport.com/sport/4574387/talksport-tips-best-bets-day-2-st-leger-festival/",
+      "image": null
+    },
+    {
+      "id": "story-20",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Sean McVay&#8217;s ego let down 100,000 Australian NFL fans as Rams&#8217; travel plans backfire vs 49ers",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574055/sean-mcvay-ego-australian-fans-rams-49ers-failed-travel/",
+      "image": null
+    },
+    {
+      "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Is SBK worth your stake? A deep-dive 2026 sportsbook review",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4529510/sbk-review/",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,125 +255,15 @@
       "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "West Ham's Alvarez denies kidnapping accusation",
-      "excerpt": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Fenerbahce boss stuns club by quitting after Roma draw",
-      "excerpt": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Hall signs new contract with Newcastle until 2031",
-      "excerpt": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Just like riding a bike - five things to watch in the EFL",
-      "excerpt": "BBC Sport looks at five key talking points before the weekend's Championship, League One and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Podcast: Focus on League Cup quarter-finals",
-      "excerpt": "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p93d3d?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93d3q.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
-      "excerpt": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/12462580-a226-11f1-bd6a-3d72a7f54a3e.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Rangers' Souttar set for switch to Greece - gossip",
-      "excerpt": "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly59q05p5lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4a/live/4f9c7d10-ada9-11f1-a540-61c3f7fc4e6c.png"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Leeds want boss Farke to stay 'long-term'",
-      "excerpt": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "excerpt": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Flex your football brain with our daily quizzes",
-      "excerpt": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clymlve2v0xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "source": "talkSPORT",
       "time": "Sep 11",
-      "headline": "Saint-Maximin on speaking out after his children were racially abused",
-      "excerpt": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279a/live/4592cfb0-aac3-11f1-9bcd-4de40c4158ea.jpg"
+      "headline": "Aston Villa vs Nottm Forest prediction and betting tips &#8211; Can goals come back?",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4569619/aston-villa-vs-nottm-forest-prediction-betting-tips/",
+      "image": null
     }
   ],
   "scoreboard": [
