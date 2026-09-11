@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-11T17:01:00.153Z",
+  "updatedAt": "2026-09-11T17:13:39.969Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Dictator meme shows lack of human awareness - Mbappe",
-    "excerpt": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/23d61290-adf9-11f1-ad53-0d91a06f3150.jpg"
+    "headline": "Watford sign former West Ham striker Michail Antonio after car crash incident",
+    "excerpt": "Michail Antonio has finally found a new club in England.",
+    "link": "https://www.101greatgoals.com/football/watford-sign-former-west-ham-striker-michail-antonio-after-car-crash-incident/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
+      "headline": "Dictator meme shows lack of human awareness - Mbappe",
+      "excerpt": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/23d61290-adf9-11f1-ad53-0d91a06f3150.jpg"
     },
     {
       "id": "story-3",
@@ -150,7 +150,7 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Martin says criticism has become 'really personal'",
+      "headline": "Leicester boss Martin says criticism has become 'really personal'",
       "excerpt": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
@@ -245,17 +245,6 @@
     },
     {
       "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Spartans director leads takeover at Shrewsbury Town",
-      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
-    },
-    {
-      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
       "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Man Utd ban 685 fan accounts after touting probe",
+      "excerpt": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79d/live/24147f20-adcd-11f1-a540-61c3f7fc4e6c.jpg"
     }
   ],
   "scoreboard": [
