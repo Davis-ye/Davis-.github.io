@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-11T20:21:12.949Z",
+  "updatedAt": "2026-09-11T20:33:08.676Z",
   "hero": {
     "id": "story-0",
-    "league": "Serie A",
-    "dot": "#A9E6A0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 11",
-    "headline": "Kartal still Fenerbahce boss despite resigning",
-    "excerpt": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
+    "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
+    "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
+    "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Patriots receiver Brown set for injured reserve",
-      "excerpt": "The wideout's debut did not go at all to plan.",
-      "link": "https://www.101greatgoals.com/nfl/patriots-receiver-brown-set-for-injured-reserve/",
-      "image": null
+      "headline": "Kartal still Fenerbahce boss despite resigning",
+      "excerpt": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
     },
     {
       "id": "story-2",
