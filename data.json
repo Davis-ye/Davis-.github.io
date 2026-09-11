@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:33:08.676Z",
+  "updatedAt": "2026-09-11T20:45:00.830Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-559689",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 11",
+      "home": "Stade Rennais FC 1901",
+      "away": "Olympique de Marseille",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "id": "score-565797",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Sep 11",
+      "home": "1. FC Union Berlin",
+      "away": "FC Schalke 04",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
       "id": "score-575337",
       "league": "Champions League",
       "dot": "#F0C878",
@@ -306,26 +326,6 @@
       "away": "Racing Club de Lens",
       "homeScore": 2,
       "awayScore": 3
-    },
-    {
-      "id": "score-575335",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 10",
-      "home": "Fenerbahçe SK",
-      "away": "AS Roma",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "score-575336",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Sep 10",
-      "home": "PSV",
-      "away": "FK Shakhtar Donetsk",
-      "homeScore": 1,
-      "awayScore": 1
     }
   ]
 }
