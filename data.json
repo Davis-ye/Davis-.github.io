@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:03:47.518Z",
+  "updatedAt": "2026-09-11T23:16:46.774Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -71,17 +71,6 @@
       "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "West Ham 6-0 Wrexham: Hammers go top with emphatic fourth straight win",
-      "excerpt": "The Hammers moved a point clear at the top in style.",
-      "link": "https://www.101greatgoals.com/football/west-ham-wrexham-report/",
-      "image": null
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
       "headline": "Richarlison's move to Vasco da Gama falls through",
@@ -90,18 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
-      "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
-      "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
-      "image": null
-    },
-    {
-      "id": "story-9",
+      "id": "story-7",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -112,18 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
     },
     {
-      "id": "story-10",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Patriots receiver Brown set for injured reserve",
-      "excerpt": "The wideout's debut did not go at all to plan.",
-      "link": "https://www.101greatgoals.com/nfl/patriots-receiver-brown-set-for-injured-reserve/",
-      "image": null
-    },
-    {
-      "id": "story-11",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
     },
     {
-      "id": "story-12",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/a726cd5992f730918841d0712f47c7d676559668/356_0_3558_2846/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e3c1189f0e186605f807c1cd0b0bdf0"
     },
     {
-      "id": "story-13",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,40 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0af/live/186ed2c0-ae0d-11f1-b502-e5cdfe1c097c.jpg"
     },
     {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Man United v Man City: Preview, expected line-ups and stats",
-      "excerpt": "Preview as Man United host Man City in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/man-united-v-manchester-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Inter Miami v Nashville: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Inter Miami host Nashville in the MLS",
-      "link": "https://www.101greatgoals.com/match-previews/mls-matches/inter-miami-v-nashville-lionel-messi-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Watford sign former West Ham striker Michail Antonio after car crash incident",
-      "excerpt": "Michail Antonio has finally found a new club in England",
-      "link": "https://www.101greatgoals.com/football/watford-sign-former-west-ham-striker-michail-antonio-after-car-crash-incident/",
-      "image": null
-    },
-    {
-      "id": "story-17",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,18 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/c8f398e01e05eea61d08478da894f6e7cea0d4ef/21_445_3136_2508/master/3136.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adfafb025f3d81af7e2fd982f96733ee"
     },
     {
-      "id": "story-18",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Real Madrid v Rayo Vallecano: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Real Madrid host Vallecano in La Liga",
-      "link": "https://www.101greatgoals.com/match-previews/la-liga-matches/real-madrid-v-rayo-vallecano-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/shutterstock_2366537385-1.jpg"
-    },
-    {
-      "id": "story-19",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,29 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/23d61290-adf9-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Sunderland v Arsenal: Preview, expected line-ups, stats",
-      "excerpt": "Preview as Sunderland host Arsenal in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/sunderland-v-arsenal-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Fantasy Premier League 2026/27: Jump on attackers for GW4",
-      "excerpt": "Three Chelsea stars headline the players you need to sign in FPL",
-      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-jump-on-red-hot-chelsea-attackers-for-gameweek-4/",
-      "image": null
-    },
-    {
-      "id": "story-22",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -255,15 +156,114 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5da/live/94875950-adda-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "story-23",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Fantasy Premier League 2026/27: GW4 must-drops",
-      "excerpt": "Now's a good time to work out who to dump in FPL.",
-      "link": "https://www.101greatgoals.com/football/fantasy/fantasy-premier-league-2026-27-antoine-semenyo-harry-maguire-headline-this-weeks-must-drops/",
-      "image": null
+      "headline": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+      "excerpt": "<p>Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
+      "image": "https://i.guim.co.uk/img/media/3e832beeba9927328cc69e78112cad4bdfc68c47/219_0_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f78e5241de0af47792291c314d6b31d1"
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "US Open tennis finals, the Manchester derby and Solheim Cup – follow with us",
+      "excerpt": "<p>Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports</p>…",
+      "link": "https://www.theguardian.com/sport/2026/sep/11/us-open-tennis-finals-the-manchester-derby-and-solheim-cup-follow-with-us",
+      "image": "https://i.guim.co.uk/img/media/e937bdf06933d5acf8596f00cbb34dc1c771a5b1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c07f00818f82b6cd2f4ffbb39a4f84e2"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Football Daily",
+      "excerpt": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
+      "link": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p957ph.jpg"
+    },
+    {
+      "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Liverpool unveil memorials for former manager Beard",
+      "excerpt": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Collins a doubt for Republic of Ireland with calf injury",
+      "excerpt": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Gray has no issue with flak as Hibs eye semi-final",
+      "excerpt": "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/e0805240-ade8-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "All done deals in September 2026",
+      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Ex-West Ham striker Antonio joins Watford",
+      "excerpt": "Watford announce the signing of former West Ham United striker Michail Antonio on a free…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Leicester boss Martin says criticism has become 'really personal'",
+      "excerpt": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Celtic given 'timely' police reminder before derby",
+      "excerpt": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
     }
   ],
   "scoreboard": [
