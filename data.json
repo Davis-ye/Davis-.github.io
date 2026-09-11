@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:17:19.910Z",
+  "updatedAt": "2026-09-11T09:30:35.340Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -71,6 +71,28 @@
       "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Myles Garrett issues &#8216;worst version of himself&#8217; verdict after being neutralized by 49ers star in historic low",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4573896/myles-garrett-issues-verdict-injury-rams-49ers-melbourne-historic/",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "49ers issue update on De’Zhaun Stribling injury after rookie carted off with Achilles scare vs Rams",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4573895/49ers-dezhaun-stribling-injury-update-achilles-rams-kyle-shanahan/",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 11",
       "headline": "Podcast: Focus on League Cup quarter-finals",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93d3q.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/12462580-a226-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4a/live/4f9c7d10-ada9-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d98/live/bd1b52c0-ad41-11f1-8a01-6d097895aae4.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "talkSPORT tips – Best football bets and expert advice for Friday 11th September",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4572485/talksport-tips-best-football-bets-friday-11th-september/",
+      "image": null
+    },
+    {
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -123,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/5ec50cd0-ada4-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279a/live/4592cfb0-aac3-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/75098c550d1b5197b781d02cb9523c0c7e59d891/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb20dccb2697fc71adad8bd70770ddc4"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/e16e6c9f20b39f9d77c5b87d75538e8c54fe2f8c/213_0_3678_2943/master/3678.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50eb7f95768a8524c0929d50e8f1699d"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/0adfd100-ad5d-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbe9/live/3fa0c900-ad65-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -222,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/8af62c7f394a9fdc19fa1632b28953a67eb81d73/450_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4162dafd3a728d4ef36f25eb51626e30"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -231,39 +264,6 @@
       "excerpt": "",
       "link": "https://talksport.com/football/4573801/fenerbahce-stunned-interview-archie-brown-ismail-kartal/",
       "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 10",
-      "headline": "Late drama as Lens fight back to beat 10-man Slavia Prague",
-      "excerpt": "Lens score two goals in stoppage time as they come from behind twice to beat…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cly4ll2wwz5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b05/live/75e51130-ad63-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 10",
-      "headline": "Carrick hails &#8216;fantastic&#8217; Mainoo as United impress on Champions League return",
-      "excerpt": "Michael Carrick praised Kobbie Mainoo&#8217;s impressive performance and paid tribute to a stubborn Sabah side…",
-      "link": "https://www.101greatgoals.com/news/carrick-hails-fantastic-mainoo-as-united-return-to-champions-league-in-style/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "The Guardian",
-      "time": "Sep 10",
-      "headline": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
-      "excerpt": "<ul><li><p>Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig</p></li><li><p>Lens win 3-2 at Slavia Prague with last-gasp double</p></li></ul><p><strong>Bayern</strong>…",
-      "link": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
-      "image": "https://i.guim.co.uk/img/media/f691d5c804019a9ffb8d75d2445db15df8d5409d/0_15_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20ccf49ab3841d7e8e259e106b38b9a3"
     }
   ],
   "scoreboard": [
