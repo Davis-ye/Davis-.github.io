@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-11T13:28:41.500Z",
+  "updatedAt": "2026-09-11T13:41:17.983Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 11",
-    "headline": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
-    "excerpt": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
+    "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+      "headline": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "excerpt": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
     },
     {
       "id": "story-2",
@@ -190,6 +190,39 @@
     },
     {
       "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Ex-Chelsea and Manchester United star Juan Mata becomes free agent and instantly lands new job",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4574455/juan-mata-free-agent-melbourne-victory-new-job/",
+      "image": null
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Friday horse racing tips: Best bets at St Leger Festival from Tom Lunn",
+      "excerpt": "",
+      "link": "https://talksport.com/sport/4574245/friday-horse-racing-tips-best-bets-st-leger-festival/",
+      "image": null
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Lamar Jackson sends message as undrafted Ravens hero announces retirement from NFL aged 28",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574498/trystan-colon-lamar-jackson-retirement-baltimore-ravens-detroit-lions/",
+      "image": null
+    },
+    {
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -200,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -230,39 +263,6 @@
       "headline": "Hull player in rollover crash as car pictured upside down near training ground",
       "excerpt": "",
       "link": "https://talksport.com/football/4574621/hull-sorba-thomas-car-crash/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "A cup weekend that could define three managerial tenures",
-      "excerpt": "Aberdeen head coach Stephen Robinson, Hibernian boss David Gray and Kilmarnock’s Neil McCann are all…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17j90yx9ldo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Dana White suggests Terence Crawford will end retirement for perfect fight as approach plotted",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4574343/dana-white-terence-crawford-end-retirement-fight/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Rory McIlroy endures career first at wild Irish Open as bad weather sparks six-hour nightmare",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4573589/rory-mcilroy-irish-open-weather-tee-time-today/",
       "image": null
     }
   ],
