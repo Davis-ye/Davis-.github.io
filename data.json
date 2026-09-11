@@ -1,41 +1,74 @@
 {
-  "updatedAt": "2026-09-11T11:10:45.431Z",
+  "updatedAt": "2026-09-11T11:23:48.783Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "Teams need to adapt to fixture scheduling - Maresca",
-    "excerpt": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
+    "headline": "Hull winger Thomas unhurt after car crash",
+    "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "What is the Premier League's KMI Panel and how does it work?",
+      "excerpt": "The Premier League introduced its Key Match Incident (KMI) Panel four years ago",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyz92l0gkdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f5/live/3a930a30-adca-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 11",
+      "headline": "NFL: Myles Garrett claims he not at 100% after Rams&#8217; loss to 49ers in Australia",
+      "excerpt": "Myles Garrett says he was not locked in for the NFL opener in Australia.",
+      "link": "https://www.101greatgoals.com/nfl/nfl-myles-garrett-claims-he-not-at-100-rams-loss-49ers-australia/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
+      "headline": "Hall agrees long-term Newcastle deal, Hull’s Thomas unhurt after car crash: football news – live",
       "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
       "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
       "image": "https://i.guim.co.uk/img/media/d57e3b92cdde873455030a28f8c64601ff9b7458/0_955_3801_3041/master/3801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b31b329cc3cfec5ce6df901981060a5e"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
+      "excerpt": "<ul><li><p>Maresca: ‘City dominant when Anderson grew up’</p></li><li><p>O’Reilly due to return but Doku not fit after…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
+      "image": "https://i.guim.co.uk/img/media/c73f4f71d8fb0aaa2491dfd030e4ed4cee6c4c4e/560_114_3489_2791/master/3489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=628866fb0d8c42a81394b6f05d13a865"
+    },
+    {
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
-      "headline": "Hull winger Thomas unhurt after car crash",
-      "excerpt": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg"
+      "headline": "Teams need to adapt to fixture scheduling - Maresca",
+      "excerpt": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ac/live/9d019910-adcb-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/01ff78b0-acf9-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Sean McVay&#8217;s ego let down 100,000 Australian NFL fans as Rams&#8217; travel plans backfire vs 49ers",
+      "excerpt": "",
+      "link": "https://talksport.com/nfl/4574055/sean-mcvay-ego-australian-fans-rams-49ers-failed-travel/",
+      "image": null
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Is SBK worth your stake? A deep-dive 2026 sportsbook review",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4529510/sbk-review/",
+      "image": null
+    },
+    {
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af19bcf280eeb773b200bdfa74774b1"
     },
     {
-      "id": "story-6",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -79,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -90,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -101,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306c/live/a25e9440-adb1-11f1-8ac2-99a6f36b284a.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -123,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -134,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -167,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -189,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -200,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -208,61 +263,6 @@
       "headline": "New $2.2bn NFL stadium breaks with decades of tradition after major anthem change for first game",
       "excerpt": "",
       "link": "https://talksport.com/nfl/4572287/bills-lions-week-2-highmark-stadium-o-canada-anthems/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Hall signs new contract with Newcastle until 2031",
-      "excerpt": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Unibet Premier League offer: Get paid on your goalscorer even when VAR rules the goal out",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4569275/unibet-premier-leaugue-offer/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "NFL Week 1 Preview, Tips & Predictions: Several potential upsets on opening weekend",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4553811/nfl-week-1-2026-betting-preview-tips-predictions/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "When is next Ryder Cup? Team standings as captain Luke Donald attempts something never done before",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4571974/ryder-cup-2027-dates-location-teams-captains-adare-manor/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Darren Fletcher seen confronting abusive Man United fan immediately after Champions League win",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4573965/darren-fletcher-confrontation-man-united-fan-champions-league/",
       "image": null
     }
   ],
