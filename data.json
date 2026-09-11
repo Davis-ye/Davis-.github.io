@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-09-11T15:24:48.666Z",
+  "updatedAt": "2026-09-11T15:36:17.018Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 11",
-    "headline": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
-    "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    "headline": "Collins a doubt for Republic of Ireland with calf injury",
+    "excerpt": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 11",
+      "headline": "Liverpool v Fulham: Preview, expected line-ups, stats",
+      "excerpt": "Preview as Liverpool host Fulham in the Premier League",
+      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/liverpool-v-fulham-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Gray has no issue with flak as Hibs eye semi-final",
+      "excerpt": "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/e0805240-ade8-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
+      "excerpt": "<p>⚽️ News and updates before <a href=\"https://www.theguardian.com/football/fixtures\">the weekend’s football action</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: 10 things…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "image": "https://i.guim.co.uk/img/media/85fc76d67b0f53e1f870619348847fcc0e7f7366/2005_0_7304_5847/master/7304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0584575fdfc1bfc8ad80ffa086e24e67"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +79,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Celtic given 'timely' police reminder before derby",
+      "excerpt": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
+    },
+    {
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/ec58d8c32cc20d69b50e5b3ada6178b9a0425cc3/0_845_5824_4659/master/5824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84202ff62ca28a7d37c6b346af1d72ba"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -68,7 +112,18 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Hull fined £30k & bans issued over Chelsea chant",
+      "excerpt": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a64/live/cf4ad2c0-5aaf-11f1-b277-cd187c78657d.jpg"
+    },
+    {
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +134,18 @@
       "image": "https://i.guim.co.uk/img/media/38e5ddce4885dea928403fb76299428927a9310a/62_125_1044_835/master/1044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b0e388b7d835bd88f554903dbd37b1f"
     },
     {
-      "id": "story-7",
+      "id": "story-12",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "excerpt": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9150/live/0014f5a0-addc-11f1-8b98-35ffe039e825.jpg"
+    },
+    {
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -90,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +167,40 @@
       "image": "https://i.guim.co.uk/img/media/826edda98b8da19879656ccdedfb8aa4bf129fe2/281_121_3776_3021/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab54a5e68901566468db38ab8cc9d6c5"
     },
     {
-      "id": "story-9",
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "excerpt": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Davidson's US Shrewsbury takeover involves Friedel",
+      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Spartans director leads takeover at Shrewsbury Town",
+      "excerpt": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a0/live/1096d800-add0-11f1-82c1-5ff19bf7a2f2.jpg"
+    },
+    {
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -112,7 +211,18 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Bergvall signs Tottenham deal after saying he wanted to leave",
+      "excerpt": "Sweden midfielder Lucas Bergvall signs a new contract at Tottenham after telling the club he…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
+    },
+    {
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -123,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -134,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -145,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -153,116 +263,6 @@
       "headline": "Rory McIlroy risked Irish Open bid coming to Brooks Koepka&#8217;s aid in scary incident at Doonbeg",
       "excerpt": "",
       "link": "https://talksport.com/golf/4574697/rory-mcilroy-irish-open-brooks-koepka-doonberg-donald-trump/",
-      "image": null
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 11",
-      "headline": "Olid’s United on back foot due to late business and unforgiving WSL start",
-      "excerpt": "<p>Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but…",
-      "link": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
-      "image": "https://i.guim.co.uk/img/media/00cf2a267f04ec2699029981abbb47f403d73e3d/623_239_1603_1282/master/1603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6685f6b2f61805119db0e51c41371ea5"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 11",
-      "headline": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
-      "excerpt": "<ul><li><p>Maresca: ‘City dominant when Anderson grew up’</p></li><li><p>O’Reilly due to return but Doku not fit after…",
-      "link": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
-      "image": "https://i.guim.co.uk/img/media/c73f4f71d8fb0aaa2491dfd030e4ed4cee6c4c4e/560_114_3489_2791/master/3489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=628866fb0d8c42a81394b6f05d13a865"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "How to watch Giovani Santillan vs Abass Baraou with ex-world champion back after close result",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4574583/how-to-watch-giovani-santillan-abass-baraou/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Solheim Cup 2026 LIVE SCORES: Match schedule, teams, location and format for team event",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4566213/solheim-cup-2026-live-scores-schedule-dates-teams-captains-location-format/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Nelly Korda instantly makes Solheim Cup history at the expense of Charley Hull",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4574648/nelly-korda-charley-hull-solheim-cup/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "&#8216;Gosh&#8217; &#8211; Sergio Garcia makes commentator gasp with astonishing missed putt from 1ft 7ins",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4574232/sergio-garcia-missed-putt-1ft-7ins-irish-open-golf/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Sunderland vs Arsenal LIVE commentary: Match kick-off time moved as Guimaraes prepares for hostile debut",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4567017/where-to-watch-sunderland-vs-arsenal-time-score-teams-commentary/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "St Leger offer: Money Back as cash if 2nd in the Flying Childers on Betfred!",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4567609/doncaster-st-leger-offer-bet-money-back-cash-betfred/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Ex-Chelsea and Manchester United star Juan Mata becomes free agent and instantly lands new job",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4574455/juan-mata-free-agent-melbourne-victory-new-job/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Friday horse racing tips: Best bets at St Leger Festival from Tom Lunn",
-      "excerpt": "",
-      "link": "https://talksport.com/sport/4574245/friday-horse-racing-tips-best-bets-st-leger-festival/",
       "image": null
     }
   ],
