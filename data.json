@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T10:23:07.945Z",
+  "updatedAt": "2026-09-12T10:32:50.776Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "'I've turned the page' - Camara on Chelsea deal collapse",
-    "excerpt": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dae/live/e26c1510-ae8a-11f1-b92e-1f49080ec3cb.jpg"
+    "headline": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test – matchday live",
+    "excerpt": "<p>⚽️ Buildup, news and discussion before Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
+    "image": "https://i.guim.co.uk/img/media/2db23385ce07636a1c4280d7fc0e12541c17ab20/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cabe7a476757da887dfface37a661dda"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 12",
-      "headline": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test – matchday live",
-      "excerpt": "<p>⚽️ Buildup, news and discussion before Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
-      "image": "https://i.guim.co.uk/img/media/2db23385ce07636a1c4280d7fc0e12541c17ab20/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cabe7a476757da887dfface37a661dda"
+      "headline": "'I've turned the page' - Camara on Chelsea deal collapse",
+      "excerpt": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dae/live/e26c1510-ae8a-11f1-b92e-1f49080ec3cb.jpg"
     },
     {
       "id": "story-2",
