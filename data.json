@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T15:10:26.470Z",
+  "updatedAt": "2026-09-12T15:21:51.313Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-    "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/763f48a8ff4b0bdea1825a4ec91c39d35c2e925c/262_183_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711931d835a34d96830a34d6646d1b43"
+    "headline": "Tottenham vs Everton: Confirmed teams and full line ups",
+    "excerpt": "Confirmed teams from Tottenham vs Everton in the Premier League",
+    "link": "https://www.101greatgoals.com/football/premier-league/tottenham-vs-everton-live-teams-line-ups-tv-channel-online-stream/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "LIVE &#8211; Liverpool v Fulham: Updates, goals and stats as Munoz hits bar",
-      "excerpt": "Follow Liverpool v Fulham at Anfield in the Premier League",
-      "link": "https://www.101greatgoals.com/live/liverpool-vs-fulham-live-premier-league-updates-goals-stats/",
-      "image": null
+      "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+      "image": "https://i.guim.co.uk/img/media/763f48a8ff4b0bdea1825a4ec91c39d35c2e925c/262_183_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711931d835a34d96830a34d6646d1b43"
     },
     {
       "id": "story-2",
