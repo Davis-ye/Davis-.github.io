@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-12T19:09:53.944Z",
+  "updatedAt": "2026-09-12T19:19:31.265Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "Sunderland v Arsenal: Premier League – live",
-    "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/5d2221894cd507f3f375d46ea82c32b143b09817/119_111_1855_1484/master/1855.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcc18cf1413dc582ede960ed2a33dbb4"
+    "headline": "LIVE &#8211; Real Madrid v Rayo Vallecano: Score updates as Mbappe penalty opens scoring",
+    "excerpt": "Follow live updates as Madrid host Vallecano at the Bernabeu",
+    "link": "https://www.101greatgoals.com/live/real-madrid-vs-rayo-vallecano-live-score-latest-la-liga-updates-goals-stats/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Tottenham still waiting for first league goal of season after draw against Everton",
-      "excerpt": "<p>Is it too early for a Tottenham crisis? To which the answer is surely that…",
-      "link": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/479d377c0d8bca9b40c75ea81696fce9a677fa8e/421_0_4206_3365/master/4206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a2ecb24394532963949644bcb35c40"
+      "headline": "Sunderland v Arsenal: Premier League – live",
+      "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/dcdba4d1f32f7c93cc921b9c40385738375b0f8b/61_0_1975_1581/master/1975.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3722bf2cd2e4dd56433fefdb9008fbd3"
     },
     {
       "id": "story-2",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Real Madrid v Rayo Vallecano: Confirmed teams, full line ups in La Liga",
-      "excerpt": "Full team news from Madrid vs Vallecano in La Liga",
-      "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-vs-rayo-vallecano-live-teams-line-ups-online-stream-tv-channel/",
-      "image": null
+      "headline": "Tottenham waiting for first league goal of season after draw against Everton",
+      "excerpt": "<p>Is it too early for a Tottenham crisis? To which the answer is surely that…",
+      "link": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/479d377c0d8bca9b40c75ea81696fce9a677fa8e/421_0_4206_3365/master/4206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a2ecb24394532963949644bcb35c40"
     },
     {
       "id": "story-3",
@@ -107,7 +107,7 @@
       "source": "The Guardian",
       "time": "Sep 12",
       "headline": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "excerpt": "<ul><li><p>Borussia Dortmund beat Paderborn 3-0</p></li><li><p>Freiburg lead on goal difference after 5-0 win</p></li></ul><p>Felix Nmecha scored twice…",
+      "excerpt": "<ul><li><p>In-form Borussia Dortmund beat Paderborn 3-0</p></li><li><p>Milan come from behind in 2-2 draw with Lazio</p></li></ul><p>Felix Nmecha…",
       "link": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
       "image": "https://i.guim.co.uk/img/media/b8bf8d41c7bedbce1d14a280051e9df834b03ff0/250_0_3744_2997/master/3744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac955d7397efbf40298fc518f7d82d34"
     },
