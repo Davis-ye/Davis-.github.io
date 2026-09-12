@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T13:15:30.055Z",
+  "updatedAt": "2026-09-12T13:26:25.946Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-    "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
+    "headline": "LIVE &#8211; Liverpool v Fulham: Commentary, updates, goals and stats",
+    "excerpt": "Follow Liverpool v Fulham at Anfield in the Premier League",
+    "link": "https://www.101greatgoals.com/live/liverpool-vs-fulham-live-premier-league-updates-goals-stats/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Liverpool v Fulham: Confirmed line-ups as Reds seek third straight win",
-      "excerpt": "Fulham head to Anfield still without a point.",
-      "link": "https://www.101greatgoals.com/football/premier-league/liverpool-fulham-teams/",
-      "image": null
+      "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+      "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
     },
     {
       "id": "story-2",
@@ -107,7 +107,7 @@
       "source": "The Guardian",
       "time": "Sep 12",
       "headline": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
-      "excerpt": "<p>Premier League’s link-up with the Together in Suicide campaign is dispersing simple, blunt and essential…",
+      "excerpt": "<p>Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential…",
       "link": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
       "image": "https://i.guim.co.uk/img/media/138ce3a542332b60d2f9e1aa5bda8f63dd2868a6/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99a8368e2f03de1cd6e841c39dc43679"
     },
