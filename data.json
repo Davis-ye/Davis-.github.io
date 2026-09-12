@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T13:26:25.946Z",
+  "updatedAt": "2026-09-12T13:35:06.281Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "LIVE &#8211; Liverpool v Fulham: Commentary, updates, goals and stats",
-    "excerpt": "Follow Liverpool v Fulham at Anfield in the Premier League",
-    "link": "https://www.101greatgoals.com/live/liverpool-vs-fulham-live-premier-league-updates-goals-stats/",
-    "image": null
+    "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+    "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 12",
-      "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
+      "headline": "LIVE &#8211; Chelsea v Hull: Commentary, updates, goals and stats",
+      "excerpt": "Follow live updates as Chelsea host Hull in the Premier League",
+      "link": "https://www.101greatgoals.com/live/chelsea-vs-hull-city-live-premier-league-updates-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
