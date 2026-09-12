@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:00:56.818Z",
+  "updatedAt": "2026-09-12T09:14:26.263Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -234,6 +234,17 @@
     },
     {
       "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Man United told to drop Marcus Rashford for Manchester derby in &#8216;unfair&#8217; decision",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4576189/man-united-drop-marcus-rashford-manchester-derby/",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -253,17 +264,6 @@
       "excerpt": "",
       "link": "https://talksport.com/mma/4576188/francis-ngannou-responds-dana-white-comments-ufc/",
       "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 11",
-      "headline": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "excerpt": "<p>English top flight’s forwards are not well represented on the list, reflecting a season of…",
-      "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
-      "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
     }
   ],
   "scoreboard": [
