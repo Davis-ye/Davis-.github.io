@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:47:40.736Z",
+  "updatedAt": "2026-09-12T20:56:47.558Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -288,6 +288,16 @@
       "awayScore": 2
     },
     {
+      "id": "score-559688",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 12",
+      "home": "AJ Auxerre",
+      "away": "OGC Nice",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
       "id": "score-559690",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
@@ -316,16 +326,6 @@
       "away": "Everton FC",
       "homeScore": 0,
       "awayScore": 0
-    },
-    {
-      "id": "score-564676",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Sep 12",
-      "home": "Athletic Club",
-      "away": "Elche CF",
-      "homeScore": 1,
-      "awayScore": 1
     }
   ]
 }
