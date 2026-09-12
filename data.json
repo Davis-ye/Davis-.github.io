@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:30:58.318Z",
+  "updatedAt": "2026-09-12T12:44:49.475Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 12",
+      "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+      "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "NFL preview as the Minnesota Vikings host the Green Bay Packers",
       "link": "https://www.101greatgoals.com/nfl/green-bay-packers-v-minnesota-vikings-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-betting-offers/",
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_3391195447.png"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 12",
-      "headline": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early kick-offs and team news – matchday live",
-      "excerpt": "<p>⚽️ Buildup, news and discussion before Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
-      "image": "https://i.guim.co.uk/img/media/2db23385ce07636a1c4280d7fc0e12541c17ab20/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cabe7a476757da887dfface37a661dda"
     },
     {
       "id": "story-3",
@@ -256,14 +256,14 @@
     },
     {
       "id": "story-23",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Kartal still Fenerbahce boss despite resigning",
-      "excerpt": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
+      "headline": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "excerpt": "<p>English top flight’s forwards are not well represented on the list, reflecting a season of…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
     }
   ],
   "scoreboard": [
