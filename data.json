@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-12T05:26:49.679Z",
+  "updatedAt": "2026-09-12T05:36:30.137Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 12",
-    "headline": "Maresca is 'perfect person' for Man City job - Dias",
-    "excerpt": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at…",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ade2/live/a961b2a0-adc9-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "New Man City signings desperate to win - Dias",
+    "excerpt": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5eb/live/fd45ae50-ac41-11f1-96a2-2f464854ded4.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "Maresca is 'perfect person' for Man City job - Dias",
+      "excerpt": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ade2/live/a961b2a0-adc9-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e6/live/24dd6840-ae2c-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG9FX5-2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/a6025eaee407ebba6d1b6703aaae36385b1677d9/0_0_2498_1999/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28632264656cd485c52f5272531b4c37"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/c0fa05314910245e7f92a8747059f03243b73114/895_0_3443_2755/master/3443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56b31a14a662ff691c3adeddaf2f44de"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/a726cd5992f730918841d0712f47c7d676559668/356_0_3558_2846/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e3c1189f0e186605f807c1cd0b0bdf0"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0af/live/186ed2c0-ae0d-11f1-b502-e5cdfe1c097c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/c8f398e01e05eea61d08478da894f6e7cea0d4ef/21_445_3136_2508/master/3136.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adfafb025f3d81af7e2fd982f96733ee"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/23d61290-adf9-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5da/live/94875950-adda-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/3e832beeba9927328cc69e78112cad4bdfc68c47/219_0_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f78e5241de0af47792291c314d6b31d1"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/e937bdf06933d5acf8596f00cbb34dc1c771a5b1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c07f00818f82b6cd2f4ffbb39a4f84e2"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p957ph.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb44/live/6ded9160-adf3-11f1-ad53-0d91a06f3150.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/e0805240-ade8-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Watford announce the signing of former West Ham United striker Michail Antonio on a free…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 11",
-      "headline": "Leicester boss Martin says criticism has become 'really personal'",
-      "excerpt": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a98/live/757604d0-ade9-11f1-9a5c-a7a4083eb832.jpg"
     }
   ],
   "scoreboard": [
