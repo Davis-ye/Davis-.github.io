@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:16:11.131Z",
+  "updatedAt": "2026-09-12T17:26:16.585Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-559687",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 12",
+      "home": "RC Strasbourg Alsace",
+      "away": "AS Monaco FC",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
       "id": "score-564673",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -314,16 +324,6 @@
       "time": "Sep 12",
       "home": "AFC Bournemouth",
       "away": "Brentford FC",
-      "homeScore": 2,
-      "awayScore": 2
-    },
-    {
-      "id": "score-560581",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 12",
-      "home": "Chelsea FC",
-      "away": "Hull City AFC",
       "homeScore": 2,
       "awayScore": 2
     }
