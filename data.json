@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T14:43:46.395Z",
+  "updatedAt": "2026-09-12T14:51:30.973Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "LIVE &#8211; Chelsea v Hull: Updates, goals and stats as Belloumi goals put Tigers ahead",
-    "excerpt": "Follow live updates as Chelsea host Hull in the Premier League",
-    "link": "https://www.101greatgoals.com/live/chelsea-vs-hull-city-live-premier-league-updates-goals-stats/",
-    "image": null
+    "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+    "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/763f48a8ff4b0bdea1825a4ec91c39d35c2e925c/262_183_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711931d835a34d96830a34d6646d1b43"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 12",
-      "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "image": "https://i.guim.co.uk/img/media/db4a19b4aea7e67c33b36b811a264aeb84147f53/474_313_1860_1487/master/1860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba3d7716411a57ea00fb510e42b26aef"
+      "headline": "LIVE &#8211; Chelsea v Hull: Updates, goals and stats as Belloumi goals put Tigers ahead",
+      "excerpt": "Follow live updates as Chelsea host Hull in the Premier League",
+      "link": "https://www.101greatgoals.com/live/chelsea-vs-hull-city-live-premier-league-updates-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
