@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:14:37.988Z",
+  "updatedAt": "2026-09-12T12:30:58.318Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 12",
+      "headline": "Green Bay Packers @ Minnesota Vikings: Preview, prediction and odds",
+      "excerpt": "NFL preview as the Minnesota Vikings host the Green Bay Packers",
+      "link": "https://www.101greatgoals.com/nfl/green-bay-packers-v-minnesota-vikings-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-betting-offers/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_3391195447.png"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>⚽️ Buildup, news and discussion before Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
       "link": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
       "image": "https://i.guim.co.uk/img/media/2db23385ce07636a1c4280d7fc0e12541c17ab20/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cabe7a476757da887dfface37a661dda"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 12",
-      "headline": "Buffalo Bills @ Houston Texans: Preview, prediction and odds",
-      "excerpt": "The Houston Texans host the Buffalo Bills on Sunday. Read our in-depth preview.",
-      "link": "https://www.101greatgoals.com/nfl/buffalo-bills-houston-texans-preview/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_2484226026.png"
     },
     {
       "id": "story-3",
