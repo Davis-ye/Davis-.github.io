@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:44:49.475Z",
+  "updatedAt": "2026-09-12T12:54:34.681Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 12",
+      "headline": "Liverpool v Fulham: Confirmed line-ups as Reds seek third straight win",
+      "excerpt": "Fulham head to Anfield still without a point.",
+      "link": "https://www.101greatgoals.com/football/premier-league/liverpool-fulham-teams/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 12",
       "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
       "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
       "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
       "image": "https://i.guim.co.uk/img/media/dd3c26ce4a08f1a3c906b981480544520d4c5ca2/401_0_4544_3634/master/4544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b46d32020288f0666b180c3ed45d15ba"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 12",
-      "headline": "Green Bay Packers @ Minnesota Vikings: Preview, prediction and odds",
-      "excerpt": "NFL preview as the Minnesota Vikings host the Green Bay Packers",
-      "link": "https://www.101greatgoals.com/nfl/green-bay-packers-v-minnesota-vikings-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-betting-offers/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/si_article_builder_3391195447.png"
     },
     {
       "id": "story-3",
