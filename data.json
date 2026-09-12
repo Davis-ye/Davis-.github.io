@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T21:06:12.598Z",
+  "updatedAt": "2026-09-12T21:20:22.809Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "Sunderland v Arsenal: Premier League – live",
-    "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/a5524c0aa78a73fcbba18ac1c96f1f4156621f5e/254_0_2927_2341/master/2927.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d8c97db9db82367bccf78929a2c6f19"
+    "headline": "Real Madrid v Rayo Vallecano as it happened: Updates, goals and stats",
+    "excerpt": "Follow live updates as Madrid host Vallecano at the Bernabeu",
+    "link": "https://www.101greatgoals.com/live/real-madrid-vs-rayo-vallecano-live-score-latest-la-liga-updates-goals-stats/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Sunderland 0-2 Arsenal: Report, result, goals as Guimaraes hits winner",
-      "excerpt": "Arsenal beat Sunderland to stay perfect after four league games",
-      "link": "https://www.101greatgoals.com/football/premier-league/sunderland-arsenal-report-result-goals-guimaraes-goal-saka-penalty/",
-      "image": null
+      "headline": "Sunderland 0-2 Arsenal: Guimarães and Saka sink Black Cats in Premier League – live",
+      "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/a5524c0aa78a73fcbba18ac1c96f1f4156621f5e/254_0_2927_2341/master/2927.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d8c97db9db82367bccf78929a2c6f19"
     },
     {
       "id": "story-2",
