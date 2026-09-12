@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T10:49:40.772Z",
+  "updatedAt": "2026-09-12T10:56:54.470Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -225,6 +225,17 @@
       "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Richarlison transfer collapses as wantaway Tottenham star misses out on second move away",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4576271/richarlison-vasco-da-gama-transfer-collapse-tottenham/",
+      "image": null
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 11",
       "headline": "Richarlison's move to Vasco da Gama falls through",
@@ -233,26 +244,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
-      "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
-      "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
-      "image": null
-    },
-    {
       "id": "story-22",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
       "time": "Sep 11",
-      "headline": "Kartal still Fenerbahce boss despite resigning",
-      "excerpt": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
+      "headline": "Arsenal sign &#8216;next Khvicha Kvaratskhelia&#8217; &#8211; but highly-rated teenager won&#8217;t join immediately",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4576234/arsenal-andria-bartishvili-khvicha-kvaratskhelia-transfer-news/",
+      "image": null
     },
     {
       "id": "story-23",
@@ -260,9 +260,9 @@
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
       "time": "Sep 11",
-      "headline": "Patriots receiver Brown set for injured reserve",
-      "excerpt": "The wideout's debut did not go at all to plan.",
-      "link": "https://www.101greatgoals.com/nfl/patriots-receiver-brown-set-for-injured-reserve/",
+      "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
+      "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
+      "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
       "image": null
     }
   ],
