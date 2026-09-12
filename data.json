@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T15:55:52.721Z",
+  "updatedAt": "2026-09-12T16:04:54.551Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-    "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/763f48a8ff4b0bdea1825a4ec91c39d35c2e925c/262_183_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711931d835a34d96830a34d6646d1b43"
+    "headline": "Liverpool 0-0 Fulham: Reds held as Cottagers claimed deserved point",
+    "excerpt": "It's a third draw in four league games for Liverpool.",
+    "link": "https://www.101greatgoals.com/football/premier-league/liverpool-fulham-report/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Tottenham vs Everton: Confirmed teams and full line ups",
-      "excerpt": "Confirmed teams from Tottenham vs Everton in the Premier League",
-      "link": "https://www.101greatgoals.com/football/premier-league/tottenham-vs-everton-live-teams-line-ups-tv-channel-online-stream/",
-      "image": null
+      "headline": "Chelsea 2-2 Hull City, Liverpool 0-0 Fulham and more: football clockwatch – live",
+      "excerpt": "<p>⚽️ News and updates from all of Saturday’s football action<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+      "image": "https://i.guim.co.uk/img/media/763f48a8ff4b0bdea1825a4ec91c39d35c2e925c/262_183_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711931d835a34d96830a34d6646d1b43"
     },
     {
       "id": "story-2",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-560573",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 12",
+      "home": "Liverpool FC",
+      "away": "Fulham FC",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "score-560581",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 12",
+      "home": "Chelsea FC",
+      "away": "Hull City AFC",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
       "id": "score-565794",
       "league": "Bundesliga",
       "dot": "#FFC469",
@@ -306,26 +326,6 @@
       "away": "Eintracht Frankfurt",
       "homeScore": 1,
       "awayScore": 3
-    },
-    {
-      "id": "score-565802",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 12",
-      "home": "SC Freiburg",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": 5,
-      "awayScore": 0
-    },
-    {
-      "id": "score-558604",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 12",
-      "home": "Genoa CFC",
-      "away": "Frosinone Calcio",
-      "homeScore": 1,
-      "awayScore": 1
     }
   ]
 }
