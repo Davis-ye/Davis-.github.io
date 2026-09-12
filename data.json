@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:46:14.506Z",
+  "updatedAt": "2026-09-12T08:53:53.731Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -238,13 +238,24 @@
       "dot": "#AFC4AC",
       "source": "talkSPORT",
       "time": "Sep 11",
+      "headline": "talkSPORT betting tips – Best boxing bets and expert advice for Ryan Garcia vs Conor Benn",
+      "excerpt": "",
+      "link": "https://talksport.com/boxing/4575973/betting-tips-best-boxing-bets-ryan-garcia-conor-benn/",
+      "image": null
+    },
+    {
+      "id": "story-22",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
       "headline": "Francis Ngannou fires back at Dana White as UFC boss criticised over alarming comments",
       "excerpt": "",
       "link": "https://talksport.com/mma/4576188/francis-ngannou-responds-dana-white-comments-ufc/",
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>English top flight’s forwards are not well represented on the list, reflecting a season of…",
       "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
       "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 11",
-      "headline": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
-      "excerpt": "<p>England reached World Cup semis yet midfielder did not play a minute. But he is…",
-      "link": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
-      "image": "https://i.guim.co.uk/img/media/a726cd5992f730918841d0712f47c7d676559668/356_0_3558_2846/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e3c1189f0e186605f807c1cd0b0bdf0"
     }
   ],
   "scoreboard": [
