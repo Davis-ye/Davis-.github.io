@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-12T19:36:54.327Z",
+  "updatedAt": "2026-09-12T19:45:03.195Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 12",
-    "headline": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-    "excerpt": "Liverpool have failed to win either of their first two Premier League games at Anfield.…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a01/live/03844430-aecb-11f1-89e2-171455bb2760.jpg"
+    "headline": "LIVE &#8211; Real Madrid v Rayo Vallecano: Score updates as Bellingham puts hosts 3-0 ahead",
+    "excerpt": "Follow live updates as Madrid host Vallecano at the Bernabeu",
+    "link": "https://www.101greatgoals.com/live/real-madrid-vs-rayo-vallecano-live-score-latest-la-liga-updates-goals-stats/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "id": "story-2",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 12",
-      "headline": "Real Madrid v Rayo Vallecano: Mbappe scores and assists",
-      "excerpt": "Madrid raced into a 2-0 lead over Vallecano in La Liga",
-      "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-vs-rayo-vallecano-mbappe-penalty-carreras-goal/",
-      "image": null
+      "headline": "More dropped points at Anfield - is it too early for Liverpool to worry?",
+      "excerpt": "Liverpool have failed to win either of their first two Premier League games at Anfield.…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a01/live/03844430-aecb-11f1-89e2-171455bb2760.jpg"
     },
     {
       "id": "story-3",
@@ -62,7 +62,7 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 12",
-      "headline": "Solanke struggles, but Branthwaite solid - player ratings for Spurs v Everton",
+      "headline": "Solanke struggles, but Branthwaite solid - Spurs v Everton player ratings",
       "excerpt": "How Spurs and Everton's players rated following their Premier League match, which ended in a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8043gn8ng3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5746/live/f2f8be80-aece-11f1-89e2-171455bb2760.jpg"
