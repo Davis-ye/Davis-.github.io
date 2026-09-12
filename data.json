@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-12T18:44:40.120Z",
+  "updatedAt": "2026-09-12T18:52:08.226Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "Real Madrid v Rayo Vallecano: Confirmed teams, full line ups in La Liga",
-    "excerpt": "Full team news from Madrid vs Vallecano in La Liga",
-    "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-vs-rayo-vallecano-live-teams-line-ups-online-stream-tv-channel/",
-    "image": null
+    "headline": "Sunderland v Arsenal: Premier League – live",
+    "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/5d2221894cd507f3f375d46ea82c32b143b09817/119_111_1855_1484/master/1855.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcc18cf1413dc582ede960ed2a33dbb4"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 12",
+      "headline": "Tottenham Hotspur 0-0 Everton: Premier League – live",
+      "excerpt": "<p>⚽️ Premier League updates from the 5.30pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/tottenham-v-everton-premier-league-live-updates",
+      "image": "https://i.guim.co.uk/img/media/479d377c0d8bca9b40c75ea81696fce9a677fa8e/479_22_4034_3228/master/4034.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5259204352a62bd3fec44f060ac47b0"
+    },
+    {
+      "id": "story-2",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Sep 12",
+      "headline": "Real Madrid v Rayo Vallecano: Confirmed teams, full line ups in La Liga",
+      "excerpt": "Full team news from Madrid vs Vallecano in La Liga",
+      "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-vs-rayo-vallecano-live-teams-line-ups-online-stream-tv-channel/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,37 +46,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b6/live/f895a6d0-ad1d-11f1-826f-933990eae6f0.png"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 12",
-      "headline": "Solanke struggles in dour draw - player ratings for Spurs v Everton",
+      "headline": "Solanke struggles, but Branthwaite solid - player ratings for Spurs v Everton",
       "excerpt": "How Spurs and Everton's players rated following their Premier League match, which ended in a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8043gn8ng3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5746/live/f2f8be80-aece-11f1-89e2-171455bb2760.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 12",
-      "headline": "Sunderland v Arsenal: Premier League – live",
-      "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/54da9939c8d1f97c509624c2dccd01c8c63c5fce/409_0_4648_3719/master/4648.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1c5a5493a943bef0b23d644696c5e03"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 12",
-      "headline": "Tottenham Hotspur 0-0 Everton: Premier League – live",
-      "excerpt": "<p>⚽️ Premier League updates from the 5.30pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/tottenham-v-everton-premier-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/479d377c0d8bca9b40c75ea81696fce9a677fa8e/479_22_4034_3228/master/4034.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5259204352a62bd3fec44f060ac47b0"
     },
     {
       "id": "story-5",
@@ -128,7 +128,7 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Championship roundup: Middlesbrough win seven-goal thriller; Burnley lose again",
+      "headline": "Championship roundup: Boro win seven-goal thriller; Burnley lose again",
       "excerpt": "<ul><li><p>Added-time winner from Phillips sinks Norwich</p></li><li><p>Saints hit four; Burnley beaten 3-1 at Swansea</p></li></ul><p>Ashley Phillips was…",
       "link": "https://www.theguardian.com/football/2026/sep/12/championship-roundup-west-brom-qpr-derby-birmingham-middlesbrough-southampton-burnley",
       "image": "https://i.guim.co.uk/img/media/866248a15348d14d5b5c68b6857362adac34d64a/1098_287_3548_2840/master/3548.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd50d065f446e901b22d588c6f518f18"
@@ -162,7 +162,7 @@
       "source": "The Guardian",
       "time": "Sep 12",
       "headline": "Hull stun Chelsea with Mohamed Belloumi double before João Pedro rescues a point",
-      "excerpt": "<p>Do not make the mistake of assuming this was a backs-to-the-wall effort from Hull. Their…",
+      "excerpt": "<p>The chants from the away end about winning the league were sung in jest, but…",
       "link": "https://www.theguardian.com/football/2026/sep/12/chelsea-hull-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/22e62e91be7cc9c1e861e74e91fb5e6637598ce5/38_278_2297_1837/master/2297.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e56729619a60820cbe0fd8ace90f254"
     },
