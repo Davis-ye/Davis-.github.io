@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:45:05.699Z",
+  "updatedAt": "2026-09-12T09:52:16.015Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -212,6 +212,17 @@
     },
     {
       "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Arsenal sign &#8216;next Khvicha Kvaratskhelia&#8217; &#8211; but highly-rated teenager won&#8217;t join immediately",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4576234/arsenal-andria-bartishvili-khvicha-kvaratskhelia-transfer-news/",
+      "image": null
+    },
+    {
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -252,17 +263,6 @@
       "headline": "Man United told to drop Marcus Rashford for Manchester derby in &#8216;unfair&#8217; decision",
       "excerpt": "",
       "link": "https://talksport.com/football/4576189/man-united-drop-marcus-rashford-manchester-derby/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "talkSPORT betting tips – Best boxing bets and expert advice for Ryan Garcia vs Conor Benn",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4575973/betting-tips-best-boxing-bets-ryan-garcia-conor-benn/",
       "image": null
     }
   ],
