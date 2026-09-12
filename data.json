@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-12T10:56:54.470Z",
+  "updatedAt": "2026-09-12T11:06:00.237Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test – matchday live",
+    "headline": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early team news – matchday live",
     "excerpt": "<p>⚽️ Buildup, news and discussion before Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
     "link": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
     "image": "https://i.guim.co.uk/img/media/2db23385ce07636a1c4280d7fc0e12541c17ab20/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cabe7a476757da887dfface37a661dda"
@@ -157,17 +157,6 @@
     },
     {
       "id": "story-14",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "European round-up: Sevilla pile misery on Valencia, first wins for Fiorentina and Schalke, Rennes go top",
-      "excerpt": "Valencia remain bottom of the table.",
-      "link": "https://www.101greatgoals.com/football/la-liga/sevilla-misery-valencia/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG9FX5-2.jpg"
-    },
-    {
-      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/a6025eaee407ebba6d1b6703aaae36385b1677d9/0_0_2498_1999/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28632264656cd485c52f5272531b4c37"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,29 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/c0fa05314910245e7f92a8747059f03243b73114/895_0_3443_2755/master/3443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56b31a14a662ff691c3adeddaf2f44de"
     },
     {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "West Ham 6-0 Wrexham: Hammers go top with emphatic fourth straight win",
-      "excerpt": "The Hammers moved a point clear at the top in style.",
-      "link": "https://www.101greatgoals.com/football/west-ham-wrexham-report/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 11",
-      "headline": "Richarlison transfer collapses as wantaway Tottenham star misses out on second move away",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4576271/richarlison-vasco-da-gama-transfer-collapse-tottenham/",
-      "image": null
-    },
-    {
-      "id": "story-21",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,26 +211,59 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-19",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Kartal still Fenerbahce boss despite resigning",
+      "excerpt": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
+    },
+    {
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Arsenal sign &#8216;next Khvicha Kvaratskhelia&#8217; &#8211; but highly-rated teenager won&#8217;t join immediately",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4576234/arsenal-andria-bartishvili-khvicha-kvaratskhelia-transfer-news/",
-      "image": null
+      "headline": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "excerpt": "<p>English top flight’s forwards are not well represented on the list, reflecting a season of…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 11",
+      "headline": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
+      "excerpt": "<p>England reached World Cup semis yet midfielder did not play a minute. But he is…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
+      "image": "https://i.guim.co.uk/img/media/a726cd5992f730918841d0712f47c7d676559668/356_0_3558_2846/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e3c1189f0e186605f807c1cd0b0bdf0"
+    },
+    {
+      "id": "story-22",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 11",
+      "headline": "Moroccan official told to stop making 2030 final promise",
+      "excerpt": "Morocco's prime minister tells the head of the country's football federation to stop making promises…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0af/live/186ed2c0-ae0d-11f1-b502-e5cdfe1c097c.jpg"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 11",
-      "headline": "Shanahan contract extension revealed following 49ers&#8217; Week 1 win",
-      "excerpt": "Shanahan has 92 wins in his time with the 49ers.",
-      "link": "https://www.101greatgoals.com/nfl/shanahan-contract-extension-revealed-following-49ers-week-1-win/",
-      "image": null
+      "headline": "Premier League team news: predicted lineups for the weekend action",
+      "excerpt": "<p>Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host…",
+      "link": "https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "image": "https://i.guim.co.uk/img/media/c8f398e01e05eea61d08478da894f6e7cea0d4ef/21_445_3136_2508/master/3136.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adfafb025f3d81af7e2fd982f96733ee"
     }
   ],
   "scoreboard": [
