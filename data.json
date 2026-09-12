@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:25:06.112Z",
+  "updatedAt": "2026-09-12T08:35:17.429Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -234,6 +234,17 @@
     },
     {
       "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Sep 11",
+      "headline": "Francis Ngannou fires back at Dana White as UFC boss criticised over alarming comments",
+      "excerpt": "",
+      "link": "https://talksport.com/mma/4576188/francis-ngannou-responds-dana-white-comments-ufc/",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68193b03994ba5e22019e98997b7418c"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>England reached World Cup semis yet midfielder did not play a minute. But he is…",
       "link": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
       "image": "https://i.guim.co.uk/img/media/a726cd5992f730918841d0712f47c7d676559668/356_0_3558_2846/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e3c1189f0e186605f807c1cd0b0bdf0"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 11",
-      "headline": "Man United v Man City: Preview, expected line-ups and stats",
-      "excerpt": "Preview as Man United host Man City in the Premier League",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/man-united-v-manchester-city-preview-team-news-line-ups-stats-where-to-watch-tv-channel-live-online-stream-prediction/",
-      "image": null
     }
   ],
   "scoreboard": [
