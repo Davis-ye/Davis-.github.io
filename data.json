@@ -1,30 +1,52 @@
 {
-  "updatedAt": "2026-09-12T20:24:02.993Z",
+  "updatedAt": "2026-09-12T20:36:42.609Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 12",
-    "headline": "LIVE &#8211; Real Madrid v Rayo Vallecano: Score updates as Camello reduces deficit to 3-1",
-    "excerpt": "Follow live updates as Madrid host Vallecano at the Bernabeu",
-    "link": "https://www.101greatgoals.com/live/real-madrid-vs-rayo-vallecano-live-score-latest-la-liga-updates-goals-stats/",
-    "image": null
+    "headline": "Sunderland v Arsenal: Premier League – live",
+    "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/48f79210afbc7d63fc1d855847e5de23b420b030/1048_0_4329_3464/master/4329.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1e50d2394678bdac2dce5f052d35d63"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Sep 12",
-      "headline": "Sunderland v Arsenal: Premier League – live",
-      "excerpt": "<p>⚽️ Premier League updates from the 8pm BST kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/dcdba4d1f32f7c93cc921b9c40385738375b0f8b/61_0_1975_1581/master/1975.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3722bf2cd2e4dd56433fefdb9008fbd3"
+      "headline": "LIVE &#8211; Real Madrid v Rayo Vallecano: Score updates as Camello reduces deficit to 3-1",
+      "excerpt": "Follow live updates as Madrid host Vallecano at the Bernabeu",
+      "link": "https://www.101greatgoals.com/live/real-madrid-vs-rayo-vallecano-live-score-latest-la-liga-updates-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "West Ham ominous and relief for Martin - Sam Parkin's EFL takeaways",
+      "excerpt": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c046gg3xnx3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "Sportsound: Reaction as 10-man Dons heap misery on Killie",
+      "excerpt": "Reaction to Saturday’s Scottish League Cup action as Aberdeen and Hibs make it through.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9c7s4?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a01/live/03844430-aecb-11f1-89e2-171455bb2760.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/53d50ac8ed1cac102ee7aca83942e4a6f3273867/0_0_2122_1697/master/2122.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=403e2786528055ca2099d36e338c9b2c"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/479d377c0d8bca9b40c75ea81696fce9a677fa8e/421_0_4206_3365/master/4206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a2ecb24394532963949644bcb35c40"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b6/live/f895a6d0-ad1d-11f1-826f-933990eae6f0.png"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5746/live/f2f8be80-aece-11f1-89e2-171455bb2760.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/70febb60-aed7-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0720/live/9088e100-aed6-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/1dc6ba40-aeb6-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/684563b0-aece-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/b8bf8d41c7bedbce1d14a280051e9df834b03ff0/250_0_3744_2997/master/3744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac955d7397efbf40298fc518f7d82d34"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd16/live/9d8c1960-aec9-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/866248a15348d14d5b5c68b6857362adac34d64a/1098_287_3548_2840/master/3548.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd50d065f446e901b22d588c6f518f18"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/e51448a8282e5883f570211732fa2d0320f77ba2/82_0_2683_2146/master/2683.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd6254f6ed9e8eb2a6126649c1fecb1a"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/f2ce63054a95499ab7601a24c110f390c156c369/408_0_3049_2440/master/3049.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c7dd085201029d16c222f170cf57283"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/22e62e91be7cc9c1e861e74e91fb5e6637598ce5/38_278_2297_1837/master/2297.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e56729619a60820cbe0fd8ace90f254"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/77be7b73b66a8b76e1d7086bb53241d93ca57bdd/357_0_3231_2586/master/3231.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec0e76bf0dc1ff7759c34e1a8c3eb69"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/d3b15acc311fabec2e9a6f7ba8b46dbc10d57d4e/0_0_2569_2056/master/2569.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75e07325ea34494d706d72b38f6ff32f"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/30b4fc79ee3b4995b611692e2980a666abd63b8e/0_165_2693_2154/master/2693.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb550e3cf2252970a84fe4f7d29201a7"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/b510a52d3c3b7cda5f3103eac85a9ba696469697/0_0_3269_2615/master/3269.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10fbe76764c9d001e3035c43ebe44a49"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dae/live/e26c1510-ae8a-11f1-b92e-1f49080ec3cb.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 12",
-      "headline": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
-      "excerpt": "<p>The World Cup and its aftermath made clear that Fifa needs independent oversight by governments…",
-      "link": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change",
-      "image": "https://i.guim.co.uk/img/media/fb79afa8fd90470c5784d983b39e844b4cba46a1/221_0_3347_2677/master/3347.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91576fd17da814631deb8ab31d334843"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 12",
-      "headline": "'A legacy' at 26 - how Hemp has grown at Man City",
-      "excerpt": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de5/live/68a31e80-ade6-11f1-9a5c-a7a4083eb832.jpg"
     }
   ],
   "scoreboard": [
