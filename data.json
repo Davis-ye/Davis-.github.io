@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:32:22.724Z",
+  "updatedAt": "2026-09-12T23:41:01.942Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -223,6 +223,17 @@
     },
     {
       "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 12",
+      "headline": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
+      "excerpt": "<ul><li><p>‘No wins, no goals scored … it is tough for the players’</p></li><li><p>Spurs in 17th place…",
+      "link": "https://www.theguardian.com/football/2026/sep/12/roberto-de-zerbi-tottenham-everton-premier-league",
+      "image": "https://i.guim.co.uk/img/media/c8a8d6b28347f5d4d78297dda39e81418b553b05/305_0_2798_2239/master/2798.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bc9621c97c7e56d5a4e6f70893d56fb"
+    },
+    {
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8b/live/3ee3b610-aecf-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -253,17 +264,6 @@
       "excerpt": "Cristiano Ronaldo's Al Nassr drew with Al Khaleej",
       "link": "https://www.101greatgoals.com/football/al-khaleej-al-nassr-report-result-goals-cristiano-ronaldo-saudi-pro-league/",
       "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 12",
-      "headline": "West Ham ominous and relief for Martin - Sam Parkin's EFL takeaways",
-      "excerpt": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c046gg3xnx3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
     }
   ],
   "scoreboard": [
