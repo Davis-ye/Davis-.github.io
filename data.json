@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-13T11:13:13.018Z",
+  "updatedAt": "2026-09-13T11:24:39.647Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Manchester United v Chelsea: Women’s Super League – live",
-    "excerpt": "<p>⚽️ WSL updates from 12pm BST at Leigh Sports Village<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-    "image": "https://i.guim.co.uk/img/media/3fe6a4aa45a6511341e7d8ef61ab58f1acd1fe8c/448_0_4504_3604/master/4504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524af89afc0d91f871c18b83d67efe40"
+    "headline": "Denver Broncos @ Kansas City Chiefs: Preview, prediction and where to watch",
+    "excerpt": "The Kansas City Chiefs, and the returning Patrick Mahomes, host the Denver Broncos on Monday…",
+    "link": "https://www.101greatgoals.com/nfl/denver-broncos-kansas-city-chiefs-preview-prediction-stream-odds/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,15 +18,15 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
-      "excerpt": "<p>⚽️ News, discussion and reflection before Sunday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
-      "image": "https://i.guim.co.uk/img/media/7fe6dced295afd808284de101e492976f4cb1050/1_0_4997_3996/master/4997.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dc6a93dca1d0750ef9b9d5400c87557"
+      "headline": "Manchester United v Chelsea: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from 12pm BST at Leigh Sports Village<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/3fe6a4aa45a6511341e7d8ef61ab58f1acd1fe8c/448_0_4504_3604/master/4504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524af89afc0d91f871c18b83d67efe40"
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
@@ -38,12 +38,12 @@
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "Leeds v Newcastle: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Leeds host Newcastle in the Premier League on Monday Night Football. Both teams have made…",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/leeds-v-newcastle-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
+      "headline": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
+      "excerpt": "<p>⚽️ News, discussion and reflection before Sunday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
+      "image": "https://i.guim.co.uk/img/media/7fe6dced295afd808284de101e492976f4cb1050/1_0_4997_3996/master/4997.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dc6a93dca1d0750ef9b9d5400c87557"
     },
     {
       "id": "story-4",
