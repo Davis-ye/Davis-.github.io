@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:00:37.876Z",
+  "updatedAt": "2026-09-13T11:13:13.018Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -16,17 +16,6 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Leeds v Newcastle: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Leeds host Newcastle in the Premier League on Monday Night Football. Both teams have made…",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/leeds-v-newcastle-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
@@ -35,15 +24,26 @@
       "image": "https://i.guim.co.uk/img/media/7fe6dced295afd808284de101e492976f4cb1050/1_0_4997_3996/master/4997.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dc6a93dca1d0750ef9b9d5400c87557"
     },
     {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
       "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
       "image": "https://i.guim.co.uk/img/media/e3abbd27d087a3020855723931e40a439ed2aeb8/630_0_4878_3902/master/4878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a17002481bd5a7b6f2ddce0fd24fd8"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 13",
+      "headline": "Leeds v Newcastle: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Leeds host Newcastle in the Premier League on Monday Night Football. Both teams have made…",
+      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/leeds-v-newcastle-preview-expected-line-ups-stats-stream-where-to-watch/",
+      "image": null
     },
     {
       "id": "story-4",
