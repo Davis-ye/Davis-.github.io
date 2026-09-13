@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-13T11:50:39.296Z",
+  "updatedAt": "2026-09-13T11:57:49.588Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
-    "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-    "image": "https://i.guim.co.uk/img/media/e3abbd27d087a3020855723931e40a439ed2aeb8/630_0_4878_3902/master/4878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a17002481bd5a7b6f2ddce0fd24fd8"
+    "headline": "Coventry v Brighton: Confirmed line-ups and team news as Sky Blues go in search of first win",
+    "excerpt": "Brighton go to struggling Coventry this afternoon in the Premier League. Get all the team…",
+    "link": "https://www.101greatgoals.com/football/premier-league/coventry-v-brighton-confirmed-line-ups-stream-team-news-as-sky-blues-go-in-search-of-first-win/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 13",
+      "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+      "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
+      "image": "https://i.guim.co.uk/img/media/e3abbd27d087a3020855723931e40a439ed2aeb8/630_0_4878_3902/master/4878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a17002481bd5a7b6f2ddce0fd24fd8"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>⚽️ WSL updates from 12pm BST at Leigh Sports Village<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
       "image": "https://i.guim.co.uk/img/media/3fe6a4aa45a6511341e7d8ef61ab58f1acd1fe8c/448_0_4504_3604/master/4504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524af89afc0d91f871c18b83d67efe40"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Denver Broncos @ Kansas City Chiefs: Preview, prediction and where to watch",
-      "excerpt": "The Kansas City Chiefs, and the returning Patrick Mahomes, host the Denver Broncos on Monday…",
-      "link": "https://www.101greatgoals.com/nfl/denver-broncos-kansas-city-chiefs-preview-prediction-stream-odds/",
-      "image": null
     },
     {
       "id": "story-3",
