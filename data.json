@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:04:18.180Z",
+  "updatedAt": "2026-09-13T00:27:06.919Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -159,17 +159,6 @@
       "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 12",
-      "headline": "Sunderland v Arsenal as it happened: Updates, goals and stats",
-      "excerpt": "Follow live updates as Arsenal visit Sunderland",
-      "link": "https://www.101greatgoals.com/live/sunderland-vs-arsenal-live-latest-score-premier-league-updates-goals-stats/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 12",
       "headline": "Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
@@ -178,29 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/7cc0684ed27d7653e55fa055cd0339467ed92ab2/182_0_3271_2617/master/3271.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f95788607368faad5276e25e306f16d"
     },
     {
-      "id": "story-16",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 12",
-      "headline": "Real Madrid 4-1 Rayo Vallecano: Report, result, goals",
-      "excerpt": "Real Madrid beat Rayo Vallecano in La Liga",
-      "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-rayo-vallecano-report-result-goals-mbappe-bellingham-carreras/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 12",
-      "headline": "Sunderland 0-2 Arsenal: Report, result, goals as Guimaraes hits winner",
-      "excerpt": "Arsenal beat Sunderland to stay perfect after four league games",
-      "link": "https://www.101greatgoals.com/football/premier-league/sunderland-arsenal-report-result-goals-guimaraes-goal-saka-penalty/",
-      "image": null
-    },
-    {
-      "id": "story-18",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/c539ab60-aee9-11f1-a99d-4515748c32d0.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9444/live/2175f940-aefb-11f1-a52c-d92eb1a832de.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/c8a8d6b28347f5d4d78297dda39e81418b553b05/305_0_2798_2239/master/2798.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bc9621c97c7e56d5a4e6f70893d56fb"
     },
     {
-      "id": "story-21",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,26 +211,59 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8b/live/3ee3b610-aecf-11f1-bc1f-3f186ca4140c.png"
     },
     {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "West Ham ominous and relief for Martin - Sam Parkin's EFL takeaways",
+      "excerpt": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c046gg3xnx3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
+    },
+    {
+      "id": "story-20",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "Sportsound: Reaction as 10-man Dons heap misery on Killie",
+      "excerpt": "Reaction to Saturday’s Scottish League Cup action as Aberdeen and Hibs make it through.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9c7s4?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 12",
+      "headline": "More dropped points at Anfield - is it too early for Liverpool to worry?",
+      "excerpt": "Liverpool have failed to win either of their first two Premier League games at Anfield.…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a01/live/03844430-aecb-11f1-89e2-171455bb2760.jpg"
+    },
+    {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 12",
-      "headline": "Sunderland vs Arsenal live: Arteta suffers &#8217;embarrassment&#8217; over booking",
-      "excerpt": "Mikel Arteta was booked during Sunderland vs Arsenal",
-      "link": "https://www.101greatgoals.com/football/premier-league/sunderland-vs-arsenal-live-mikel-arteta-booking/",
-      "image": null
+      "headline": "Farke’s blueprint for revitalised Leeds continues upward trajectory",
+      "excerpt": "<p>Leeds manager embraces bravery and is encouraging ambition after leading a remarkable turnaround in fortunes</p><p>Eleven…",
+      "link": "https://www.theguardian.com/football/2026/sep/12/daniel-farke-blueprint-for-revitalised-leeds",
+      "image": "https://i.guim.co.uk/img/media/53d50ac8ed1cac102ee7aca83942e4a6f3273867/0_0_2122_1697/master/2122.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=403e2786528055ca2099d36e338c9b2c"
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 12",
-      "headline": "Al Khaleej 1-1 Al Nassr: Cristiano Ronaldo side drop points again",
-      "excerpt": "Cristiano Ronaldo's Al Nassr drew with Al Khaleej",
-      "link": "https://www.101greatgoals.com/football/al-khaleej-al-nassr-report-result-goals-cristiano-ronaldo-saudi-pro-league/",
-      "image": null
+      "headline": "Pickford joins Premier League clean sheet 100 club",
+      "excerpt": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b6/live/f895a6d0-ad1d-11f1-826f-933990eae6f0.png"
     }
   ],
   "scoreboard": [
