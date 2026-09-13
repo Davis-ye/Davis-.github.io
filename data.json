@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-13T11:33:35.618Z",
+  "updatedAt": "2026-09-13T11:42:50.968Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 13",
-    "headline": "Denver Broncos @ Kansas City Chiefs: Preview, prediction and where to watch",
-    "excerpt": "The Kansas City Chiefs, and the returning Patrick Mahomes, host the Denver Broncos on Monday…",
-    "link": "https://www.101greatgoals.com/nfl/denver-broncos-kansas-city-chiefs-preview-prediction-stream-odds/",
-    "image": null
+    "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+    "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
+    "image": "https://i.guim.co.uk/img/media/e3abbd27d087a3020855723931e40a439ed2aeb8/630_0_4878_3902/master/4878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a17002481bd5a7b6f2ddce0fd24fd8"
   },
   "topStories": [
     {
@@ -25,17 +25,6 @@
     },
     {
       "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 13",
-      "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
-      "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-      "image": "https://i.guim.co.uk/img/media/e3abbd27d087a3020855723931e40a439ed2aeb8/630_0_4878_3902/master/4878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a17002481bd5a7b6f2ddce0fd24fd8"
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,6 +33,17 @@
       "excerpt": "<p>⚽️ News, discussion and reflection before Sunday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
       "image": "https://i.guim.co.uk/img/media/7fe6dced295afd808284de101e492976f4cb1050/1_0_4997_3996/master/4997.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dc6a93dca1d0750ef9b9d5400c87557"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 13",
+      "headline": "Denver Broncos @ Kansas City Chiefs: Preview, prediction and where to watch",
+      "excerpt": "The Kansas City Chiefs, and the returning Patrick Mahomes, host the Denver Broncos on Monday…",
+      "link": "https://www.101greatgoals.com/nfl/denver-broncos-kansas-city-chiefs-preview-prediction-stream-odds/",
+      "image": null
     },
     {
       "id": "story-4",
